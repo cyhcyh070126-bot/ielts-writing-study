@@ -84,4 +84,7 @@ GPT 静态索引：https://cyhcyh070126-bot.github.io/ielts-writing-study/gpt-v6
 现在确认实际可读取的题库范围，默认在剑雅定位与公开考后回忆分组中混合选一道未练题。显示题号与简短题源标记；剑雅显示册数和Test，回忆显示来源报告的考试日期、形式及“回忆转述，非官方核实”标记；若是小作文，先通过看图关卡；若是大作文，展示该题的英文任务转述。然后只邀请我先交审题和写作计划，等待我回答。
 
 【可调整句框与常用搭配】
-在我完成审题和计划、你给出反馈后，可按需要查看 https://cyhcyh070126-bot.github.io/ielts-writing-study/expressions.html 。若网页读取失败，读取 https://raw.githubusercontent.com/cyhcyh070126-bot/ielts-writing-study/main/writing-expressions-v35.json 。这里是功能句框与搭配，不是新的考题；不要提前替我选择立场，也不要把方括号、斜线或未选分支原样写入成文。
+在我完成审题和计划、你给出反馈后，可按需要查看 https://cyhcyh070126-bot.github.io/ielts-writing-study/expressions.html 。若网页读取失败，读取 https://raw.githubusercontent.com/cyhcyh070126-bot/ielts-writing-study/main/writing-expressions-v36.json 。这里是功能句框与搭配，不是新的考题；不要提前替我选择立场，也不要把方括号、斜线或未选分支原样写入成文。
+
+【句框训练的具体步骤】
+句框资料含小作文概述、比较、常用搭配和原创专项练习；这些不增加真实考题数量。先对照我的计划选一条真正需要的表达，说明槽位分别填什么，再展示填槽例句。小作文专项练习须先打开其 image_url 实际看完整图，不能以数据文字代替看图；大作文先检查限定对象和任务，再检查机制、例子、回扣。不要把不需要的句框塞满一段，修改后让我换一个对象自己重写。

@@ -1,0 +1,2061 @@
+{
+  "updated": "2026-11-15",
+  "edition": "v36",
+  "kind": "sentence-frames-not-exam-questions",
+  "teaching_note": "先完成自己的审题和计划，再按具体功能选句；例句和专项练习为编者自拟，不是博主原句或官方原题。",
+  "task1": [
+    {
+      "id": "T1F36-01",
+      "title": "先升后降：转折点而非只比首尾",
+      "frame": "After [initial trend] until [turning point], [measure] [opposite trend] over the remaining period.",
+      "use_cn": "至少有三个观察点，能确认中途方向反转；概述可用先后关系压缩全程。",
+      "slots": [
+        "先确定真正的转折点，不能只看首尾。",
+        "After后填动名词短语，如rising steadily；主句填完整指标作主语。",
+        "按实际方向互换rising/falling与fell/rose，并按时间选时态。"
+      ],
+      "replacement_steps": [
+        "先确定真正的转折点，不能只看首尾。",
+        "After后填动名词短语，如rising steadily；主句填完整指标作主语。",
+        "按实际方向互换rising/falling与fell/rose，并按时间选时态。"
+      ],
+      "pitfall_cn": "只有两个端点不能判断中途反转；峰值之后下降不代表最后一定低于起点。",
+      "example_en": "After rising steadily until 2018, attendance at the museum fell over the remaining period.",
+      "example_cn": "博物馆参观人数先持续上升至2018年，随后在余下时期下降。",
+      "example_context_cn": "某博物馆参观人数在2010、2014、2018、2022年分别为2万、3万、5万、4万（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-02",
+      "title": "波动与净变化同时交代",
+      "frame": "Despite [intermediate fluctuations], [measure] ended the period [above / below / close to] its initial level.",
+      "use_cn": "中间确有多次上下变化，同时终点相对起点有清楚的净结果。",
+      "slots": [
+        "先确认是否真的反复升降，而非只出现一次拐点。",
+        "Despite后用名词短语，不直接接完整句子。",
+        "比较终点与起点后，选择above/below/close to；不是比较峰值。"
+      ],
+      "replacement_steps": [
+        "先确认是否真的反复升降，而非只出现一次拐点。",
+        "Despite后用名词短语，不直接接完整句子。",
+        "比较终点与起点后，选择above/below/close to；不是比较峰值。"
+      ],
+      "pitfall_cn": "不要把单向但不匀速的上涨叫fluctuations；similar不等于完全相同。",
+      "example_en": "Despite several fluctuations, the price ended the period above its initial level.",
+      "example_cn": "尽管几次波动，价格在期末仍高于期初。",
+      "example_context_cn": "价格五个观察值为10、15、12、18、16英镑（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-03",
+      "title": "上升后进入平台期",
+      "frame": "[Measure] [rose / fell] initially, before levelling off at approximately [level].",
+      "use_cn": "后期有连续几个观察点接近同一水平，适合描述先变化再稳定。",
+      "slots": [
+        "从图中确认后期连续稳定区间。",
+        "根据前半段选rose或fell；before后用levelling而不是levelled。",
+        "level填稳定期的大致水平及单位，不填增量。"
+      ],
+      "replacement_steps": [
+        "从图中确认后期连续稳定区间。",
+        "根据前半段选rose或fell；before后用levelling而不是levelled。",
+        "level填稳定期的大致水平及单位，不填增量。"
+      ],
+      "pitfall_cn": "末尾只有一个点不能证明稳定；接近稳定可以加approximately，不能将明显继续上涨写成平台。",
+      "example_en": "Monthly sales rose initially, before levelling off at approximately 800 units.",
+      "example_cn": "月销量先上升，随后稳定在约800件。",
+      "example_context_cn": "连续五个月销量为400、650、795、805、800件（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-04",
+      "title": "交叉：先落后再超过",
+      "frame": "[A] overtook [B] [at a recorded point / between two observations] and subsequently [later position].",
+      "use_cn": "必须先有A低于B，再有A高于B；适用于共同单位的动态比较。",
+      "slots": [
+        "先查交叉前后，确认A和B谁超过谁。",
+        "有明确该年数据才填in某年；仅两端跨过时用between A and B，不猜交叉年份。",
+        "subsequently后可填remained ahead或became the largest category，但也要有后续证据。"
+      ],
+      "replacement_steps": [
+        "先查交叉前后，确认A和B谁超过谁。",
+        "有明确该年数据才填in某年；仅两端跨过时用between A and B，不猜交叉年份。",
+        "subsequently后可填remained ahead或became the largest category，但也要有后续证据。"
+      ],
+      "pitfall_cn": "静态图不能写overtook；两线终点一高一低也不自动证明期间发生过超越。",
+      "example_en": "Rail travel overtook bus travel between 2015 and 2020 and remained the more common option in 2025.",
+      "example_cn": "铁路出行在2015至2020年间超过公交，并在2025年仍更常见。",
+      "example_context_cn": "公交三期占比分别为50%、35%、30%，铁路为30%、40%、45%（编者自拟示例条件，非真实考题数据）",
+      "filled_frame_en": "Rail travel overtook bus travel between 2015 and 2020 and subsequently remained the more common option in 2025.",
+      "filled_frame_cn": "铁路出行在2015至2020年间超过公交，此后在2025年仍是更常见的选项。"
+    },
+    {
+      "id": "T1F36-05",
+      "title": "首尾排名改变：不必猜交叉时刻",
+      "frame": "[Category] moved from [initial rank] at the start to [final rank] by the end of the period.",
+      "use_cn": "有多组共同指标，可以分别给首末期排序；只说明已知排名变化。",
+      "slots": [
+        "分别按首年、末年同一指标排序。",
+        "initial/final rank可填third place/the leading position，保持介词结构通顺。",
+        "指标若是比例，则排名也按比例，不拿人数排名替换。"
+      ],
+      "replacement_steps": [
+        "分别按首年、末年同一指标排序。",
+        "initial/final rank可填third place/the leading position，保持介词结构通顺。",
+        "指标若是比例，则排名也按比例，不拿人数排名替换。"
+      ],
+      "pitfall_cn": "起终排名不能透露准确超越时间；不能只看增长最快就认定最终第一。",
+      "example_en": "Cycling moved from third place at the start to the leading position by the end of the period.",
+      "example_cn": "骑行从期初第三名升至期末第一名。",
+      "example_context_cn": "骑行、公交、步行首期分别为20%、50%、30%，末期为50%、30%、20%（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-06",
+      "title": "数值变化但排序不变",
+      "frame": "Although [all measures changed], the ranking remained the same, with [A] ahead of [B] and [C].",
+      "use_cn": "各期组别顺序都相同，且总括从句确实符合所有相关组。",
+      "slots": [
+        "检查所有给定年份而非只查首尾。",
+        "Although后填完整从句，如sales increased for all three firms。",
+        "按实际顺序列A/B/C；组太多可只提最高和最低。"
+      ],
+      "replacement_steps": [
+        "检查所有给定年份而非只查首尾。",
+        "Although后填完整从句，如sales increased for all three firms。",
+        "按实际顺序列A/B/C；组太多可只提最高和最低。"
+      ],
+      "pitfall_cn": "中途排序换过就不能说ranking remained the same；排序不变不等于数值不变。",
+      "example_en": "Although sales increased for all three firms, the ranking remained the same, with Alder ahead of Birch and Cedar.",
+      "example_cn": "三家公司销量均增加，但排序未变，始终是Alder领先于Birch和Cedar。",
+      "example_context_cn": "三家公司三期销量依次为Alder100/120/140、Birch70/85/90、Cedar40/50/60（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-07",
+      "title": "静态群组：两组高、其余低",
+      "frame": "[A] and [B] recorded similarly high [measure], while the remaining [groups] had much lower figures.",
+      "use_cn": "无时间轴的多项比较中，两项明显高于其他项，而其余项彼此相近。",
+      "slots": [
+        "先确定可以按数值合理分组，不是为了凑两段随便分。",
+        "measure要换成准确指标如visitor totals；groups换成图中实际对象。",
+        "差距只适中时删掉much，不为了显得高级而夸大差距。"
+      ],
+      "replacement_steps": [
+        "先确定可以按数值合理分组，不是为了凑两段随便分。",
+        "measure要换成准确指标如visitor totals；groups换成图中实际对象。",
+        "差距只适中时删掉much，不为了显得高级而夸大差距。"
+      ],
+      "pitfall_cn": "A和B差异很大不能写similarly high；没有时间变化不使用rose/fell。",
+      "example_en": "Alder and Birch recorded similarly high visitor totals, while the remaining libraries had much lower figures.",
+      "example_cn": "Alder和Birch构成较高组，其他图书馆的访客总数相近且较低。",
+      "example_context_cn": "五馆访客数为1200、1150、400、420、390人（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-08",
+      "title": "找出离群值与共同区间",
+      "frame": "With the exception of [outlier], [other groups] recorded values between [lower bound] and [upper bound].",
+      "use_cn": "一个或少数组别明显偏离，其余确实集中在窄区间；可用于概述或细节概括。",
+      "slots": [
+        "确认哪些点属于同一衡量口径。",
+        "With the exception of后填离群对象。",
+        "lower bound和upper bound分别填下界与上界，并写单位；不要在槽内再加between。"
+      ],
+      "replacement_steps": [
+        "确认哪些点属于同一衡量口径。",
+        "With the exception of后填离群对象。",
+        "lower bound和upper bound分别填下界与上界，并写单位；不要在槽内再加between。"
+      ],
+      "pitfall_cn": "只有一个最高值不一定值得称离群；不要忽略另一端同样明显的低值。",
+      "example_en": "With the exception of the city centre, all districts recorded rents between £600 and £700 per month.",
+      "example_cn": "除市中心外，各区月租均在600至700英镑之间。",
+      "example_context_cn": "四区月租为650、620、680和1200英镑，最高者为市中心（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-09",
+      "title": "同样数量，不同占比：分母改变",
+      "frame": "The number of [subgroup] stayed at [count], but the group's share fell because [total] increased.",
+      "use_cn": "同一子群绝对数量不变，但总体扩大，子群占比因此下降；须同时掌握分子和分母。",
+      "slots": [
+        "核对count确实没有变化。",
+        "检查每期total及子群占比能否互相计算。",
+        "总量缩小时将fell/increased改为rose/decreased；the total必须是同一总体。",
+        "total填对应总体，如total membership；核对扩大的是同一总体。"
+      ],
+      "replacement_steps": [
+        "核对count确实没有变化。",
+        "检查每期total及子群占比能否互相计算。",
+        "总量缩小时将fell/increased改为rose/decreased；the total必须是同一总体。",
+        "total填对应总体，如total membership；核对扩大的是同一总体。"
+      ],
+      "pitfall_cn": "不能从比例下降直接推断人数下降；because在此只表达图内可计算的分母关系，不添加外部社会原因。",
+      "example_en": "The number of student members stayed at 400, but their share fell because total membership increased.",
+      "example_cn": "学生会员仍为400人，但总会员数上升，因此学生占比下降。",
+      "example_context_cn": "两期总会员1000/2000人，学生均为400人，学生比例40%/20%（编者自拟示例条件，非真实考题数据）",
+      "filled_frame_en": "The number of student members stayed at 400, but the group's share fell because total membership increased.",
+      "filled_frame_cn": "学生会员人数仍为400，但总会员数增加，因此该组所占比例下降。"
+    },
+    {
+      "id": "T1F36-10",
+      "title": "终点收敛：不只是差距变小",
+      "frame": "The figures for [A] and [B] converged, ending at broadly similar levels.",
+      "use_cn": "差距缩小且终点已经相近；可由一升一降，或一变一稳造成。",
+      "slots": [
+        "按同一单位比较差距。",
+        "只有终点也相近才用converged；仍相差很大则只写gap narrowed。",
+        "可在细节补ending at X and Y respectively，顺序对应A/B。"
+      ],
+      "replacement_steps": [
+        "按同一单位比较差距。",
+        "只有终点也相近才用converged；仍相差很大则只写gap narrowed。",
+        "可在细节补ending at X and Y respectively，顺序对应A/B。"
+      ],
+      "pitfall_cn": "两条不同单位的双纵轴不能据视觉接近就说数值收敛；converged不一定表示完全相等。",
+      "example_en": "The enrolment rates for the two districts converged, ending at 48% and 50% respectively.",
+      "example_cn": "两区入学率趋近，最后分别为48%和50%。",
+      "example_context_cn": "两区首期入学率20%/50%，末期48%/50%（编者自拟示例条件，非真实考题数据）",
+      "filled_frame_en": "The figures for Alder and Birch converged, ending at broadly similar levels.",
+      "filled_frame_cn": "Alder和Birch的数值趋近，期末已达到大致相似的水平。"
+    },
+    {
+      "id": "T1F36-11",
+      "title": "混合图：总量与另一指标相反",
+      "frame": "Overall, [total-volume trend], whereas [trend in the separate measure].",
+      "use_cn": "两图的衡量对象不同，在概述中同时覆盖各自最明显趋势；关系仅限图中支持的范围。",
+      "slots": [
+        "分别写下每张图的单位与主趋势。",
+        "第一槽写完整总量趋势，第二槽写另一指标的完整趋势。",
+        "不必为了把两图连起来而使用因果词。"
+      ],
+      "replacement_steps": [
+        "分别写下每张图的单位与主趋势。",
+        "第一槽写完整总量趋势，第二槽写另一指标的完整趋势。",
+        "不必为了把两图连起来而使用因果词。"
+      ],
+      "pitfall_cn": "人数增加不等于每人停留更长；不能用数字高低直接比较万人和天数。",
+      "example_en": "Overall, visitor numbers increased markedly, whereas the average length of stay became shorter.",
+      "example_cn": "总体看，访客人数明显增加，但平均停留时间缩短。",
+      "example_context_cn": "两期访客2万/4万人，平均停留5天/3天（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-12",
+      "title": "地图概述：整体用途转型与保留部分",
+      "frame": "Overall, the site changed from [main earlier use] into [main later use], while [important retained feature] remained.",
+      "use_cn": "跨期地图体现整体土地使用或功能变化，同时有重要保留要素。",
+      "slots": [
+        "先把设施变化归纳成整体用途，而非在概述里逐栋列举。",
+        "过去比较用changed；未来方案换is planned to change或will be redeveloped。",
+        "retained feature只选确实保留的结构或通道。"
+      ],
+      "replacement_steps": [
+        "先把设施变化归纳成整体用途，而非在概述里逐栋列举。",
+        "过去比较用changed；未来方案换is planned to change或will be redeveloped。",
+        "retained feature只选确实保留的结构或通道。"
+      ],
+      "pitfall_cn": "不能仅凭多了一栋房子就说整个地区成为住宅区；不编改善便利性、吸引游客等图外意图。",
+      "example_en": "Overall, the site changed from an industrial area into a residential neighbourhood, while the riverside path remained.",
+      "example_cn": "整体上，场地由工业区转为住宅街区，河边步道保留。",
+      "example_context_cn": "两张自拟地图分别以工厂/仓库和住宅为主要用途，河边步道位置相同（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F36-13",
+      "title": "循环概述：返回某阶段继续一轮",
+      "frame": "Overall, this is a cyclical process in which [final shown stage] leads back to [return stage], allowing the sequence to repeat.",
+      "use_cn": "图上有明确返回箭头；循环没有自然的唯一开头或最终终点。",
+      "slots": [
+        "先沿箭头走一整圈，识别返回位置。",
+        "final shown stage指自己描述顺序的末阶段，不是声称过程永久结束。",
+        "如果只在部分路线循环，要写a linear process with a recycling loop，而非整图都是循环。"
+      ],
+      "replacement_steps": [
+        "先沿箭头走一整圈，识别返回位置。",
+        "final shown stage指自己描述顺序的末阶段，不是声称过程永久结束。",
+        "如果只在部分路线循环，要写a linear process with a recycling loop，而非整图都是循环。"
+      ],
+      "pitfall_cn": "流程反复出现不等于全部材料100%回收；没有返回箭头就不添加循环。",
+      "example_en": "Overall, this is a cyclical process in which cleaned containers return to the filling stage and are used again.",
+      "example_cn": "总体而言，这是循环过程，清洁后的容器回到灌装阶段再利用。",
+      "example_context_cn": "自拟箭头为灌装→配送→使用→清洁→灌装（编者自拟示例条件，非真实考题数据）",
+      "filled_frame_en": "Overall, this is a cyclical process in which cleaning leads back to the filling stage, allowing the sequence to repeat.",
+      "filled_frame_cn": "总体而言，这是循环过程，清洁之后返回灌装阶段，使整个顺序得以重复。"
+    },
+    {
+      "id": "T1F36-14",
+      "title": "历史与预测：用时态划清边界",
+      "frame": "[Measure] [past trend] up to [last observed year] and is projected to [future trend] by [future year].",
+      "use_cn": "图上明确区分历史数据与预测，连接已发生变化和预计变化。",
+      "slots": [
+        "找出last observed year，不能把所有年份都当预测或实测。",
+        "历史部分用过去时；预测部分用is projected/expected to加动词原形。",
+        "若未来趋势与过去相反，写出该反转，但不说已经发生。"
+      ],
+      "replacement_steps": [
+        "找出last observed year，不能把所有年份都当预测或实测。",
+        "历史部分用过去时；预测部分用is projected/expected to加动词原形。",
+        "若未来趋势与过去相反，写出该反转，但不说已经发生。"
+      ],
+      "pitfall_cn": "预测不是确定事实；future year只能填图上给出的年份，不能自行外推。",
+      "example_en": "The urban population grew up to 2020 and is projected to level off by 2040.",
+      "example_cn": "城市人口在2020年前增长，预计至2040年趋于稳定。",
+      "example_context_cn": "历史人口2000/2010/2020为100/130/160万，2030/2040预测为175/176万（编者自拟示例条件，非真实考题数据）"
+    },
+    {
+      "id": "T1F35-01",
+      "title": "引言：改写对象与范围",
+      "frame": "The [chart / table] compares [measure] for [groups] in [place] in [year].",
+      "use_cn": "交代图种、指标、对象和已给出的地点、时间。时间为区间时，将句末 in [year] 改为 between [year A] and [year B]；题目没给的槽位删除。",
+      "slots": [
+        "图种",
+        "指标与单位",
+        "比较对象",
+        "已给出的地点",
+        "单一年份或时间区间"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "改写后仍要准确保留比较对象、指标和时间范围；不要为换词改变意思。单位应在报告中准确交代，不必硬塞进每个句子。",
+      "example_en": "The bar chart compares the percentage of regular cyclists for three age groups in Alder in 2020.",
+      "example_cn": "柱状图比较了2020年Alder三个年龄组经常骑行者的比例。"
+    },
+    {
+      "id": "T1F35-02",
+      "title": "引言：两图分别测量什么",
+      "frame": "The [first visual] presents [measure A], while the [second visual] shows [measure B].",
+      "use_cn": "适合不同单位或不同指标的混合图；先把两图的衡量对象分清。",
+      "slots": [
+        "first/second visual",
+        "measure A",
+        "measure B"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "两图的单位不同也不能将它们当作同一数列相加或直接比较高低。",
+      "example_en": "The line graph presents visitor numbers, while the bar chart shows the average length of stay.",
+      "example_cn": "折线图给出访客人数，柱状图给出平均停留时间。"
+    },
+    {
+      "id": "T1F35-03",
+      "title": "概述：主要趋势加例外",
+      "frame": "Overall, [dominant trend], whereas [major contrast or exception].",
+      "use_cn": "概括真正突出的整体走向或相反变化，不列每个数据点。",
+      "slots": [
+        "dominant trend",
+        "contrast/exception"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "不要无图乱填everything increased；静态图没有跨期数据时不写rose/fell。Overall是方便的信号词，不是唯一合法开头。",
+      "example_en": "Overall, rail use increased, whereas bus use declined.",
+      "example_cn": "总体看，铁路使用量上升，公交使用量下降。"
+    },
+    {
+      "id": "T1F35-04",
+      "title": "概述：静态高低对照",
+      "frame": "Overall, [group A] recorded the highest [measure], while the lowest figure was for [group B].",
+      "use_cn": "适合没有时间变化的表格、柱图等，强调主要排序。",
+      "slots": [
+        "group A/B",
+        "precise measure"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "最多、最少必须按同一指标判断；金额最多不等于人数最多。 本句 recorded 用于过去的静态资料；现在或预测信息须相应调整时态。",
+      "example_en": "Overall, Alder recorded the highest visitor total, while the lowest figure was for Cedar.",
+      "example_cn": "总体看，Alder访客总数最高，Cedar最低。"
+    },
+    {
+      "id": "T1F35-05",
+      "title": "变化：起点终点与增量",
+      "frame": "The figure for [group] rose from [start] to [end] between [year A] and [year B], an increase of [difference].",
+      "use_cn": "同时写起点、终点与算出的增量；下降时相应换fell/a decrease。",
+      "slots": [
+        "group",
+        "start/end含单位",
+        "years",
+        "difference"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "to后是终值，by后是增减量；不要把from 20 to 30写成increased by 30。",
+      "example_en": "The figure for Alder rose from 20,000 to 35,000 visitors between 2010 and 2020, an increase of 15,000.",
+      "example_cn": "2010至2020年，Alder访客人数由2万增至3.5万，增加1.5万。"
+    },
+    {
+      "id": "T1F35-06",
+      "title": "占比：某类占总体",
+      "frame": "[Category] accounted for [share] of [clearly defined total].",
+      "use_cn": "饼图或构成表用来交代分子与分母。",
+      "slots": [
+        "category",
+        "share",
+        "total"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "share是百分比时分母必须明确；不要把占比直接当绝对数量，也不要随意把rate改写为占总体构成。",
+      "example_en": "Cycling accounted for 30% of all journeys in 2020.",
+      "example_cn": "2020年骑行占全部出行的30%。"
+    },
+    {
+      "id": "T1F35-07",
+      "title": "百分点：两个比例之差",
+      "frame": "The proportion increased from [A]% to [B]%, a rise of [B minus A] percentage points.",
+      "use_cn": "百分比水平之间相减，用百分点；此处示例数据由编者自拟。",
+      "slots": [
+        "A",
+        "B",
+        "difference"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "20%到30%是10个百分点，若讨论相对增幅则为50%；两种表述不可混用。",
+      "example_en": "The proportion increased from 20% to 30%, a rise of 10 percentage points.",
+      "example_cn": "比例从20%增至30%，上升10个百分点。"
+    },
+    {
+      "id": "T1F35-08",
+      "title": "倍数：可数与不可数",
+      "frame": "[A] had twice as many [plural countable noun] as [B]. / [A] used twice as much [uncountable noun] as [B].",
+      "use_cn": "同一时点或明确对应时期、同一衡量口径下比较倍数。",
+      "slots": [
+        "A/B",
+        "可数复数或不可数名词",
+        "实际倍数"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "many接可数复数，much接不可数；A是B两倍不能写为A比B增加两倍。",
+      "example_en": "Alder had twice as many visitors as Birch. Alder used twice as much water as Birch.",
+      "example_cn": "Alder的访客人数是Birch的两倍；Alder的用水量是Birch的两倍。"
+    },
+    {
+      "id": "T1F35-09",
+      "title": "差距：扩大或缩小",
+      "frame": "The gap between [A] and [B] widened from [initial gap] to [final gap].",
+      "use_cn": "至少两个时期中，比较两个组之间的差距；缩小时换narrowed。",
+      "slots": [
+        "A/B",
+        "initial/final gap含单位"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "先计算差距再比较，不能把A自身增长说成差距扩大；比例差用percentage points。",
+      "example_en": "The gap between Alder and Birch widened from 5,000 to 15,000 visitors.",
+      "example_cn": "Alder与Birch的访客人数差距从5000扩大至15000。"
+    },
+    {
+      "id": "T1F35-10",
+      "title": "近似数：高于或低于整值",
+      "frame": "[Measure] stood at just over [value], compared with just under [value] for [comparison group].",
+      "use_cn": "图上读数只能约读或需要合理概括时，用略高于/略低于。",
+      "slots": [
+        "measure",
+        "values及单位",
+        "comparison group"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "just over不能用于低于该值的数据；精确表格不要刻意模糊到失真。",
+      "example_en": "Attendance at Alder stood at just over 20,000, compared with just under 10,000 for Birch.",
+      "example_cn": "Alder参观人数略多于2万，而Birch略少于1万。"
+    },
+    {
+      "id": "T1F35-11",
+      "title": "流程概述：起止阶段",
+      "frame": "Overall, [product] is produced through [number] main stages, from [initial stage] to [final stage].",
+      "use_cn": "适合有明确起止的线性制造流程；先数清主要阶段。",
+      "slots": [
+        "product",
+        "number",
+        "initial/final stage"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "循环图不硬塞终点；有分支时也不能把不同路线写成单一路线；阶段数不清楚可删除number。",
+      "example_en": "Overall, fruit juice is produced through five main stages, from washing the fruit to packaging the juice.",
+      "example_cn": "总体而言，果汁经过五个主要阶段生产，从清洗水果到包装果汁。"
+    },
+    {
+      "id": "T1F35-12",
+      "title": "流程细节：先处理再进入下一步",
+      "frame": "After [material] has been [past participle], it is [next operation] before [following stage].",
+      "use_cn": "制造流程中，动作承受者比操作者更重要时使用被动语态。",
+      "slots": [
+        "material",
+        "past participle",
+        "next operation",
+        "following stage"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "被动必须有be及过去分词；自然生长、动物迁移等有清楚行为主体时，可用主动，不能全篇机械被动。",
+      "example_en": "After the fruit has been washed, it is crushed before the juice is filtered.",
+      "example_cn": "水果洗净后被压碎，之后过滤果汁。"
+    },
+    {
+      "id": "T1F35-13",
+      "title": "分支：两条路线分开说明",
+      "frame": "At this stage, [material] follows two routes: one leads to [output A], while the other produces [output B].",
+      "use_cn": "只有图中实际存在分流时使用，分别说明去向。",
+      "slots": [
+        "material",
+        "output A/B"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "不能凭常识自行添加废料出口或再循环路线；箭头交叉并不自动表示材料混合。",
+      "example_en": "At this stage, the sorted material follows two routes: one leads to glass products, while the other produces plastic pellets.",
+      "example_cn": "分拣后的材料在此分为两路，一路制成玻璃制品，另一路生产塑料颗粒。"
+    },
+    {
+      "id": "T1F35-14",
+      "title": "地图：替换与未来计划",
+      "frame": "[Old feature] was replaced by [new feature]. / [Old feature] will be replaced by [new feature].",
+      "use_cn": "过去对比用过去被动，未来方案用将来被动。",
+      "slots": [
+        "old feature",
+        "new feature",
+        "按年份选择was或will be"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "replaced by后是新设施；未来规划不能写成已经完成；不补图中没有给出的改造原因。",
+      "example_en": "The warehouse was replaced by a library. The car park will be replaced by a garden.",
+      "example_cn": "仓库被图书馆取代；停车场将被花园取代。"
+    },
+    {
+      "id": "T1F35-15",
+      "title": "地图：位置与保留",
+      "frame": "[Feature] remained in the [relative position], while [another feature] was relocated to [new position].",
+      "use_cn": "比较保留与迁移；以图中明确方位或相对位置描述。",
+      "slots": [
+        "feature",
+        "relative position",
+        "another feature",
+        "new position"
+      ],
+      "replacement_steps": [
+        "先核对本图对象、单位与时间，再按上面的槽位填入实际信息。",
+        "删去未选分支；检查单复数、介词与时态。"
+      ],
+      "pitfall_cn": "无指南针时优先用left/right/upper等相对方位；不能把同名但位置变化的设施写成unchanged。",
+      "example_en": "The library remained in the upper-left corner, while the cafe was relocated to the lower-right corner.",
+      "example_cn": "图书馆仍在左上角，咖啡馆则迁至右下角。"
+    }
+  ],
+  "task2": [
+    {
+      "id": "T2-D01",
+      "title": "分清受益者与承担成本者",
+      "frame": "[Policy] benefits [group A] through [mechanism], while [group B] bears [specific cost]. This matters when judging [fairness / overall value].",
+      "use_cn": "论证公平或社会影响时，先拆开谁获得好处、谁付钱或付出时间。",
+      "slots": [
+        "Policy=具体措施",
+        "group A/B=具体人群",
+        "mechanism=好处怎样产生",
+        "cost=金钱、时间或机会的具体代价"
+      ],
+      "replacement_steps": [
+        "圈出题目要求考虑的对象。",
+        "分别写受益者与承担者，避免只写社会。",
+        "解释成本如何落到该人群身上。",
+        "按公平或总体收益回扣题目。"
+      ],
+      "pitfall_cn": "两个人群可以重叠，不能为了对比硬说他们完全分开；有成本也不等于政策必然不好。",
+      "example_en": "Free museum entry removes ticket costs for visitors, while taxpayers fund the service. Its value therefore depends partly on whether the benefits reach residents who would otherwise be excluded.",
+      "example_cn": "博物馆免票免去了访客的门票成本，服务则由纳税人出资；其价值部分取决于是否能惠及原本难以参观的居民。",
+      "filled_frame_en": "Free entry at a publicly funded museum benefits low-income visitors through the removal of ticket charges, while the local council bears the cost of maintaining the service. This matters when judging fairness.",
+      "filled_frame_cn": "公共出资的博物馆免票，通过免除门票费用使低收入访客受益，而当地市政部门承担维持服务的成本。评价公平性时需要考虑这一分配。",
+      "filled_frame_slots": {
+        "Policy": "Free entry at a publicly funded museum",
+        "group A": "low-income visitors",
+        "mechanism": "the removal of ticket charges",
+        "group B": "the local council",
+        "specific cost": "the cost of maintaining the service",
+        "fairness / overall value": "fairness"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D02",
+      "title": "把对象与频率限定写进理由",
+      "frame": "For [specific group] who [repeated activity], [factor] matters because [why repetition or their circumstances changes the effect].",
+      "use_cn": "题目限定年轻人、特定工作者或频繁行为时，要解释这些限定如何改变理由。",
+      "slots": [
+        "group=题目限定的人群",
+        "activity=题目指定的活动及频率",
+        "factor=具体原因",
+        "effect=该群体为何特别受影响"
+      ],
+      "replacement_steps": [
+        "抄下对象和频率限定。",
+        "写该群体与此活动相关的处境。",
+        "说明反复发生为何放大影响。",
+        "删去不能连接到限定条件的泛泛理由。"
+      ],
+      "pitfall_cn": "限定不是贴标签；不能假定所有年轻人都爱冒险，也不能说涉及工资的理由一律无效。",
+      "example_en": "For early-career employees who regularly receive short contracts, changing employers may be a repeated response to insecure work rather than simply a preference for variety.",
+      "example_cn": "对经常签短期合同的初入职场者，频繁换雇主可能是对工作不稳定的反复应对，而不只是喜欢新鲜。",
+      "filled_frame_en": "For early-career employees who regularly receive short contracts, employment stability matters because frequent contract endings can force them to search repeatedly for new work.",
+      "filled_frame_cn": "对经常签短期合同的初入职场者，工作稳定性很重要，因为合同反复到期可能迫使他们多次寻找新工作。",
+      "filled_frame_slots": {
+        "specific group": "early-career employees",
+        "repeated activity": "regularly receive short contracts",
+        "factor": "employment stability",
+        "why repetition or their circumstances changes the effect": "frequent contract endings can force them to search repeatedly for new work"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D03",
+      "title": "补上从行动到结果的中间一步",
+      "frame": "[Action] first changes [intermediate condition]. This allows [response], which can then produce [final result].",
+      "use_cn": "遇到活动能培养能力、科技能改善生活等抽象观点时，解释中间到底改变了什么。",
+      "slots": [
+        "Action=题目中的行动",
+        "condition=先改变的具体条件",
+        "response=对象作出的反应",
+        "result=最终结果"
+      ],
+      "replacement_steps": [
+        "写出起点和终点。",
+        "在两者间补一个可观察的变化。",
+        "说明谁利用这个变化做了什么。",
+        "逐个箭头检查是否有逻辑跳跃。"
+      ],
+      "pitfall_cn": "中间步骤要服务同一观点；不能一路跳到成功、幸福等很远的结果。",
+      "example_en": "A shared science project first gives pupils tasks that depend on one another. They then need to explain their decisions and coordinate their work, creating practical opportunities to practise cooperation.",
+      "example_cn": "共同科学项目先让学生承担相互依赖的任务，继而需要解释决定、协调工作，从而提供练习合作的具体机会。",
+      "filled_frame_en": "Dividing a group project into linked tasks first changes how pupils depend on one another's work. This allows pupils to practise explaining decisions, which can then produce clearer communication within the group.",
+      "filled_frame_cn": "把小组项目分成相互关联的任务，首先改变了学生工作之间的依赖方式。这使学生有机会练习解释决定，继而可能使组内沟通更清晰。",
+      "filled_frame_slots": {
+        "Action": "Dividing a group project into linked tasks",
+        "intermediate condition": "how pupils depend on one another's work",
+        "response": "pupils to practise explaining decisions",
+        "final result": "clearer communication within the group"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D04",
+      "title": "区分眼前成本与长期效果",
+      "frame": "Initially, [measure] requires [short-term cost]. Over time, [accumulating mechanism] may lead to [long-term result].",
+      "use_cn": "适合培训、设施或习惯改变等需要先投入、效果后出现的主张。",
+      "slots": [
+        "measure=措施",
+        "cost=开始阶段的代价",
+        "mechanism=长期累积机制",
+        "result=长期结果"
+      ],
+      "replacement_steps": [
+        "明确两个时间尺度。",
+        "分别写初始成本和以后发生的机制。",
+        "解释效果为何会累积，而非只说以后更好。",
+        "据题目判断哪一阶段更重要。"
+      ],
+      "pitfall_cn": "长远并不自动胜过短期；若措施不可持续，长期好处可能无法实现。",
+      "example_en": "Initially, training teachers to give clearer feedback requires time away from other duties. Over time, more precise comments may reduce repeated misunderstandings, making later practice more productive.",
+      "example_cn": "教师学习提供更清晰反馈，起初需要从其他事务中抽出时间；之后更准确的评语可能减少反复误解，提高后续练习的效果。",
+      "filled_frame_en": "Initially, teacher training requires paid time away from other duties. Over time, repeated use of more precise feedback may lead to fewer recurring misunderstandings.",
+      "filled_frame_cn": "起初，教师培训需要从其他职责中安排带薪时间。长远来看，反复采用更准确的反馈，可能减少一再出现的误解。",
+      "filled_frame_slots": {
+        "measure": "teacher training",
+        "short-term cost": "paid time away from other duties",
+        "accumulating mechanism": "repeated use of more precise feedback",
+        "long-term result": "fewer recurring misunderstandings"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D05",
+      "title": "比较一次性投入与反复发生的需求",
+      "frame": "[Cost or event] occurs [once / occasionally], whereas [need or benefit] recurs [frequency]. The comparison should therefore consider [practical effect over that period].",
+      "use_cn": "权衡活动或设施时，把出现频率与真实需求结合。",
+      "slots": [
+        "cost/event=一次性或偶发事项",
+        "need/benefit=反复需要的事项",
+        "frequency=频率",
+        "effect=整个期间的实际作用"
+      ],
+      "replacement_steps": [
+        "写清两者的发生频率。",
+        "说明谁在这段期间反复需要帮助。",
+        "把频率转成具体可用性。",
+        "同时承认持续服务也有持续成本。"
+      ],
+      "pitfall_cn": "不能把重复自动等同更好；年度活动也可能提供一次很有价值的机会。",
+      "example_en": "A careers fair takes place on one day, whereas job applications continue throughout the year. Regular advice can therefore reach residents when they actually receive a rejection or interview invitation.",
+      "example_cn": "招聘会只在某一天举行，而求职全年都在继续；定期建议能在居民实际收到拒信或面试邀请时提供帮助。",
+      "filled_frame_en": "A large careers fair occurs once a year, whereas the need for job-search advice recurs throughout the year. The comparison should therefore consider whether advice is available when applicants receive feedback.",
+      "filled_frame_cn": "大型招聘会每年举办一次，而求职建议的需求在全年反复出现。因此，比较时应考虑求职者收到反馈时能否获得建议。",
+      "filled_frame_slots": {
+        "Cost or event": "A large careers fair",
+        "once / occasionally": "once a year",
+        "need or benefit": "the need for job-search advice",
+        "frequency": "throughout the year",
+        "practical effect over that period": "whether advice is available when applicants receive feedback"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D06",
+      "title": "在固定预算下说明机会成本",
+      "frame": "If the same budget is used for [A], less remains for [B]. Choosing [A] is justified only if [comparative need or value].",
+      "use_cn": "公共资金、学校经费或个人时间不能无限增加时，说明选择意味着放弃什么。",
+      "slots": [
+        "A/B=同一资源竞争的用途",
+        "budget=有限资源",
+        "value=可比的用途价值"
+      ],
+      "replacement_steps": [
+        "先说明资源受限，不能凭空假定。",
+        "指出一项投入挤占的具体替代用途。",
+        "用同一标准比较两种用途。",
+        "回应题目究竟应优先哪一个。"
+      ],
+      "pitfall_cn": "不要只说costs money；机会成本是被放弃的替代用途，不等同价格标签。",
+      "example_en": "If a school uses its limited improvement budget to replace functioning tablets, less remains for feedback time. That choice needs to be justified by a learning benefit the existing devices cannot provide.",
+      "example_cn": "学校若用有限改进经费更换仍能用的平板，就会减少反馈时间的经费；必须说明新设备能提供现有设备没有的学习收益。",
+      "filled_frame_en": "If the same budget is used for new tablets, less remains for paid feedback time. Choosing new tablets is justified only if the replacements meet learning needs that existing devices cannot meet.",
+      "filled_frame_cn": "如果同一笔预算用于新平板，留给有偿反馈时间的经费就会减少。只有新设备能够满足旧设备无法满足的学习需要时，选择新平板才有理由。",
+      "filled_frame_slots": {
+        "A": "new tablets",
+        "B": "paid feedback time",
+        "comparative need or value": "the replacements meet learning needs that existing devices cannot meet"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D07",
+      "title": "从口号落到执行环节",
+      "frame": "The effectiveness of [rule] depends not only on its wording but also on [staff / systems / monitoring] that [specific implementation task].",
+      "use_cn": "提出法律、规则或宣传之后，进一步解释谁执行、用什么资源执行。",
+      "slots": [
+        "rule=具体规则",
+        "capacity=执行资源",
+        "task=必须完成的具体动作"
+      ],
+      "replacement_steps": [
+        "写规则要求发生什么。",
+        "列出兑现要求必须做的一项工作。",
+        "明确谁负责及需要的资源。",
+        "说明没有这些条件会卡在哪一步。"
+      ],
+      "pitfall_cn": "不能把出台规定当作问题已经解决；也不用列无穷执行细节。",
+      "example_en": "A recycling rule needs more than labelled bins. Collection staff must keep the separated material apart; otherwise, residents' sorting effort may not lead to usable recycled material.",
+      "example_cn": "回收规定不能只靠贴标签的垃圾箱；收运人员还须保持分类材料分开，否则居民的分类付出未必转化为可用再生材料。",
+      "filled_frame_en": "The effectiveness of a recycling rule depends not only on its wording but also on collection systems that keep separated material apart.",
+      "filled_frame_cn": "回收规定是否有效，不只取决于规定文字，也取决于能否在收运系统中让已分类材料保持分开。",
+      "filled_frame_slots": {
+        "rule": "a recycling rule",
+        "staff / systems / monitoring": "collection systems",
+        "specific implementation task": "keep separated material apart"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D08",
+      "title": "通过行为激励解释政策作用",
+      "frame": "By changing [relative cost or reward], [measure] gives [group] a stronger incentive to [behaviour], as long as [feasible option].",
+      "use_cn": "解释收费、补贴等为什么可能改变选择，而不是直接跳到环境或社会改善。",
+      "slots": [
+        "cost/reward=相对价格或回报",
+        "measure=措施",
+        "behaviour=选择如何变化",
+        "option=能实际选择的替代做法"
+      ],
+      "replacement_steps": [
+        "找出人们面临的两个选择。",
+        "说明措施改变了哪项相对成本。",
+        "解释选择为何可能变化。",
+        "检查可行替代方案是否存在。"
+      ],
+      "pitfall_cn": "incentive不等于保证行为；不能省略替代选项与现实约束。",
+      "example_en": "A repair voucher lowers the price of fixing an appliance relative to replacing it. This may encourage repair when a reliable service and suitable spare parts are available.",
+      "example_cn": "维修券降低维修相对于更换的价格；在有可靠服务及配件的情况下，这可能鼓励维修。",
+      "filled_frame_en": "By changing the cost of repair relative to replacement, a repair voucher gives households a stronger incentive to repair appliances, as long as reliable repair services and suitable spare parts are available.",
+      "filled_frame_cn": "维修券改变维修相对于更换的成本，使家庭更有动力维修电器，前提是有可靠维修服务及合适配件。",
+      "filled_frame_slots": {
+        "relative cost or reward": "the cost of repair relative to replacement",
+        "measure": "a repair voucher",
+        "group": "households",
+        "behaviour": "repair appliances",
+        "feasible option": "reliable repair services and suitable spare parts are available"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D09",
+      "title": "区分缓解症状与处理成因",
+      "frame": "[Action] may reduce [visible symptom] without changing [underlying cause]. A more lasting response would [action addressing that cause].",
+      "use_cn": "比较表面补救和更根本的措施时，说明两者分别处理什么。",
+      "slots": [
+        "symptom=可见困难",
+        "cause=产生困难的原因",
+        "response=针对原因的行动"
+      ],
+      "replacement_steps": [
+        "把困难和它的原因分别写出来。",
+        "判断现有措施改变的是哪一个。",
+        "提出直接作用于原因的办法。",
+        "承认短期缓解可能仍有价值。"
+      ],
+      "pitfall_cn": "不要把多方合作、提高意识等口号自动称作根治；应解释作用关系。",
+      "example_en": "Extra revision sessions may cover unfinished work without resolving unclear explanations. Better feedback on pupils' specific errors would address why those errors keep returning.",
+      "example_cn": "额外复习课可能补完进度，却不解决讲解不清的问题；对具体错误给更好反馈，才能回应错误为何反复出现。",
+      "filled_frame_en": "Extra revision sessions may reduce unfinished classwork without changing the unclear explanations that led to it. A more lasting response would improve feedback on the errors pupils repeatedly make.",
+      "filled_frame_cn": "额外复习课可能减少未完成的课堂作业，却没有改变导致该问题的讲解不清。若要作更持久的应对，就应改善针对学生反复错误的反馈。",
+      "filled_frame_slots": {
+        "Action": "Extra revision sessions",
+        "visible symptom": "unfinished classwork",
+        "underlying cause": "the unclear explanations that led to it",
+        "action addressing that cause": "improve feedback on the errors pupils repeatedly make"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D10",
+      "title": "同一趋势的原因与后果分开写",
+      "frame": "[Cause] helps explain why [trend] occurs. A consequence of that trend is [result for a specified group].",
+      "use_cn": "遇到原因加影响双问题，分清箭头方向：成因→现象→后果。",
+      "slots": [
+        "cause=在现象之前的推动因素",
+        "trend=题设现象",
+        "result=现象之后的影响"
+      ],
+      "replacement_steps": [
+        "在纸上把题设现象放中间。",
+        "左边写促使它发生的因素。",
+        "右边写它进一步造成的影响。",
+        "检查主体段各自回答哪一问。"
+      ],
+      "pitfall_cn": "并非任何相关现象都能当成因；同一事实若形成循环关系，要解释时间与作用方向。",
+      "example_en": "Scarce local jobs may explain why young residents leave a rural area. A smaller working-age population is then a consequence that can affect the demand for local services.",
+      "example_cn": "本地工作稀缺可能解释青年为何离开乡村；之后劳动年龄人口减少，才是这种迁出的后果，并可能影响本地服务需求。",
+      "filled_frame_en": "A shortage of local jobs helps explain why migration from rural towns occurs. A consequence of that trend is a smaller pool of working-age residents for local employers.",
+      "filled_frame_cn": "本地工作不足有助于解释人们为何迁离乡村城镇。这一趋势的一个后果，是当地雇主可招募的劳动年龄居民减少。",
+      "filled_frame_slots": {
+        "Cause": "A shortage of local jobs",
+        "trend": "migration from rural towns",
+        "result for a specified group": "a smaller pool of working-age residents for local employers"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D11",
+      "title": "选择一个现实比较对象",
+      "frame": "Compared with [feasible alternative], [preferred option] changes [same dimension] by [specific mechanism].",
+      "use_cn": "题目要求比较两种做法时，对照相同维度与合理替代方案。",
+      "slots": [
+        "alternative=现实可用的替代方案",
+        "dimension=同一评判维度",
+        "mechanism=差别怎样形成"
+      ],
+      "replacement_steps": [
+        "照题目确定A和B，不替换题意。",
+        "选择一个两者都有的比较维度。",
+        "具体解释差距怎样发生。",
+        "不用最差版本的B来抬高A。"
+      ],
+      "pitfall_cn": "不能拿成熟优质A与故意设计失败的B比较，也不能只说明A有好处。",
+      "example_en": "Compared with an annual advice fair, weekly workshops make feedback available during successive applications. Their advantage lies in timely revision, not simply in holding more meetings.",
+      "example_cn": "与一年一次的咨询会相比，每周工作坊可在连续申请期间提供反馈；优势在及时修改，而不是会议次数更多。",
+      "filled_frame_en": "Compared with an annual careers fair, a weekly workshop changes the timing of advice by making support available during successive job applications.",
+      "filled_frame_cn": "与年度招聘会相比，每周工作坊通过在接连求职申请期间提供帮助，改变了建议可获得的时点。",
+      "filled_frame_slots": {
+        "feasible alternative": "an annual careers fair",
+        "preferred option": "a weekly workshop",
+        "same dimension": "the timing of advice",
+        "specific mechanism": "making support available during successive job applications"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D12",
+      "title": "承认约束并提出可执行规模",
+      "frame": "A full version of [proposal] may be impractical where [constraint]. A smaller scheme focused on [priority group or place] could [achievable result].",
+      "use_cn": "不是全盘否定，而是把建议调整到现实资源允许的规模。",
+      "slots": [
+        "proposal=原建议",
+        "constraint=人手、资金或时间限制",
+        "priority=优先对象",
+        "result=较小但可实现的效果"
+      ],
+      "replacement_steps": [
+        "确定具体约束。",
+        "解释约束卡住哪一步。",
+        "缩小到最需要或最可实施的范围。",
+        "写清缩小后保留了什么效果。"
+      ],
+      "pitfall_cn": "不能把原因措施题变成只说做不到；缩小范围也须符合题目对象。",
+      "example_en": "Keeping every library open late may be impractical with limited staff. A smaller scheme at branches near shift workers could extend access where evening demand is greatest.",
+      "example_cn": "人员有限时，每家图书馆都深夜开放可能难以实施；优先在轮班工作者附近的分馆试行，可满足夜间需求最大的区域。",
+      "filled_frame_en": "A full version of the proposed late-opening library scheme may be impractical where trained staff are scarce. A smaller scheme focused on branches near shift workers could extend access where evening demand is greatest.",
+      "filled_frame_cn": "受训人员不足时，完整实行延长图书馆开放的方案可能不现实。优先覆盖轮班工作者附近分馆的小规模方案，或能在夜间需求最大的地区延长服务。",
+      "filled_frame_slots": {
+        "proposal": "the proposed late-opening library scheme",
+        "constraint": "trained staff are scarce",
+        "priority group or place": "branches near shift workers",
+        "achievable result": "extend access where evening demand is greatest"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D13",
+      "title": "检查执行指标是否引出意外激励",
+      "frame": "If success is measured only by [easy indicator], [actor] may focus on [indicator-raising action] rather than [intended outcome].",
+      "use_cn": "讨论政策执行时，区分表面指标和真正目的。",
+      "slots": [
+        "indicator=容易计数的指标",
+        "actor=执行者",
+        "action=提高指标的行为",
+        "outcome=原本目标"
+      ],
+      "replacement_steps": [
+        "写出政策希望改善什么。",
+        "指出实际用什么数来评价。",
+        "说明两者为何可能不一致。",
+        "提出能更接近目标的核对方式。"
+      ],
+      "pitfall_cn": "这是可能的激励问题，不要无证据指控所有执行者作弊。",
+      "example_en": "If a training subsidy rewards enrolment alone, providers may concentrate on sign-ups rather than completed learning. Checking participation and useful progress would better reflect the policy's purpose.",
+      "example_cn": "培训补贴若只奖励报名，机构可能重报名而轻完成学习；核对参与及实际进展会更贴近政策目的。",
+      "filled_frame_en": "If success is measured only by enrolment numbers, training providers may focus on increasing sign-ups rather than helping learners complete useful training.",
+      "filled_frame_cn": "如果只用报名人数衡量成功，培训机构可能更注重增加报名，而非帮助学习者完成有用的培训。",
+      "filled_frame_slots": {
+        "easy indicator": "enrolment numbers",
+        "actor": "training providers",
+        "indicator-raising action": "increasing sign-ups",
+        "intended outcome": "helping learners complete useful training"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-D14",
+      "title": "区分提供条件与实现结果",
+      "frame": "[Resource] makes [opportunity] available, but [required use or support] helps determine whether that opportunity becomes [outcome].",
+      "use_cn": "写设施、科技和机会时，不把拥有或接触直接等同于能力提升。",
+      "slots": [
+        "resource=新增资源",
+        "opportunity=创造的机会",
+        "support=把机会转成结果的使用方式",
+        "outcome=题目关心的结果"
+      ],
+      "replacement_steps": [
+        "把资源与最终结果分开。",
+        "指出资源先提供什么机会。",
+        "补上实际使用和支持环节。",
+        "回扣题目考察的是机会还是结果。"
+      ],
+      "pitfall_cn": "不能因此否认资源价值；要解释还需要什么，避免抽象说depends。 该支持是影响因素之一，不单独保证最终效果。",
+      "example_en": "Laptops make online exercises available, but clear tasks and feedback determine whether screen time becomes useful practice.",
+      "example_cn": "笔记本电脑让线上练习可获得，但明确任务和反馈才决定屏幕时间能否转化为有效练习。",
+      "filled_frame_en": "A laptop makes online practice available, but guided use of exercises and feedback helps determine whether that opportunity becomes useful learning.",
+      "filled_frame_cn": "笔记本电脑使线上练习成为可用的机会，但这种机会能否转化为有效学习，还取决于是否有指导地使用练习和反馈。",
+      "filled_frame_slots": {
+        "Resource": "A laptop",
+        "opportunity": "online practice",
+        "required use or support": "guided use of exercises and feedback",
+        "outcome": "useful learning"
+      },
+      "task_types": [
+        "按题目实际要求选择"
+      ]
+    },
+    {
+      "id": "T2-F01",
+      "title": "直接回应具体主张",
+      "frame": "I [agree / disagree] that [precise claim], mainly because [reason 1] and [reason 2].",
+      "use_cn": "适合能明确表态的同意程度题；先填完整主张，再列两个后文确实展开的理由。",
+      "slots": [
+        "precise claim=题目具体主张及限定",
+        "reason 1/2=两个可展开理由"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "不能只写I agree with this view却不说明this view指什么；列两个理由后都要写到。",
+      "example_en": "I disagree that online information makes schools unnecessary, mainly because teachers provide structured feedback and schools offer daily social interaction.",
+      "example_cn": "我不同意网络信息使学校变得多余，主要因为教师提供系统反馈，学校也提供日常社交互动。",
+      "filled_frame_en": "I disagree that online information makes schools unnecessary, mainly because teachers provide structured feedback and schools offer daily social interaction.",
+      "filled_frame_cn": "我不同意网络信息使学校变得多余，主要因为教师提供系统反馈，学校也提供日常社交互动。",
+      "task_types": [
+        "同意与否"
+      ]
+    },
+    {
+      "id": "T2-F02",
+      "title": "有条件或部分同意",
+      "frame": "[Limited proposal] is reasonable where [condition], but I do not support [broader claim].",
+      "use_cn": "把支持的范围与反对的范围分清，适合题目含all、only、best等强限定时。",
+      "slots": [
+        "Limited proposal=同意的具体范围",
+        "condition=成立条件",
+        "broader claim=题目更强的主张"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "部分同意不是每段换立场；两个范围必须在全文保持一致。",
+      "example_en": "Subsidised bus fares are reasonable for low-income commuters, but I do not support making every journey free for every passenger.",
+      "example_cn": "对低收入通勤者补贴公交票价有道理，但我不支持所有乘客的每次出行都免费。",
+      "filled_frame_en": "Subsidised bus fares are reasonable where low-income commuters lack affordable alternatives, but I do not support making every journey free for everyone.",
+      "filled_frame_cn": "当低收入通勤者缺少可负担的替代方式时，公交补贴是合理的；但我不支持所有人所有出行一律免费。",
+      "task_types": [
+        "同意与否"
+      ]
+    },
+    {
+      "id": "T2-F03",
+      "title": "两种立场与自己的取舍",
+      "frame": "Supporters of [A] emphasise [benefit], whereas advocates of [B] prioritise [different concern]. I favour [position] because [criterion].",
+      "use_cn": "交代双方真正分歧，并明确自己的评价标准。",
+      "slots": [
+        "A/B=题目两方主张",
+        "benefit/concern=各方核心理由",
+        "position=自己的判断",
+        "criterion=取舍标准"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "不能自动说双方equally important；只有论证了同等重要才可这样判断。",
+      "example_en": "Supporters of economic growth emphasise jobs, whereas advocates of environmental protection prioritise long-term resources. I favour limits on development that would cause irreversible damage.",
+      "example_cn": "支持经济增长者重视就业，支持环保者重视长期资源；我倾向于限制会造成不可逆破坏的开发。",
+      "filled_frame_en": "Supporters of economic growth emphasise jobs, whereas advocates of environmental protection prioritise long-term resources. I favour limits on harmful development because irreversible damage creates lasting costs.",
+      "filled_frame_cn": "经济增长支持者强调就业，环境保护支持者重视长期资源。我支持限制有害开发，因为不可逆损害会带来长期代价。",
+      "task_types": [
+        "讨论双方"
+      ]
+    },
+    {
+      "id": "T2-F04",
+      "title": "明确谁获得什么效果",
+      "frame": "[Specific action] can help [defined group] to [concrete outcome].",
+      "use_cn": "主体段开头先给一个可解释、范围明确的主旨。",
+      "slots": [
+        "Specific action=具体行动或政策",
+        "defined group=受到影响的人",
+        "outcome=具体结果"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "不要只说benefit society或improve life；应说明具体帮助谁、做成什么。",
+      "example_en": "Subsidised childcare can help parents with limited incomes remain in paid work.",
+      "example_cn": "育儿服务补贴可以帮助收入有限的父母继续从事有偿工作。",
+      "filled_frame_en": "Subsidised childcare can help parents with limited incomes to remain in paid work.",
+      "filled_frame_cn": "托育补贴可帮助收入有限的父母继续从事有薪工作。",
+      "task_types": [
+        "各类主体段"
+      ]
+    },
+    {
+      "id": "T2-F05",
+      "title": "从情境解释因果",
+      "frame": "When [situation], [immediate change], which makes [result] more likely.",
+      "use_cn": "把观点展开成一个能理解的过程，不只堆同义词。",
+      "slots": [
+        "situation=具体情境",
+        "immediate change=先发生的变化",
+        "result=后续结果"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "which的指代要清楚；机制只能支持可能性时不要写成必然结果。",
+      "example_en": "When buses run frequently, commuters spend less time waiting, which makes public transport a more practical option.",
+      "example_cn": "公交班次频繁时，通勤者等待时间减少，因此公共交通更有实际可用性。",
+      "filled_frame_en": "When buses run frequently, passengers spend less time waiting, which makes public transport use more likely.",
+      "filled_frame_cn": "公交班次频繁时，乘客候车时间减少，从而增加选择公交的可能性。",
+      "task_types": [
+        "各类主体段"
+      ]
+    },
+    {
+      "id": "T2-F06",
+      "title": "障碍减少后产生结果",
+      "frame": "This reduces [specific obstacle], enabling [group] to [result].",
+      "use_cn": "适合承接上一句已解释清楚的政策或变化。",
+      "slots": [
+        "This=上句具体行动",
+        "obstacle=具体障碍",
+        "group=受益对象",
+        "result=因此能完成的事"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "this不能悬空；enabling应和前面的变化有真实关系，不能只用来拉长句子。",
+      "example_en": "Lower upfront course fees reduce the immediate financial barrier, enabling more employed adults to begin retraining.",
+      "example_cn": "降低课程预付费用能减轻眼前的经济门槛，让更多在职成年人开始再培训。",
+      "filled_frame_en": "This reduces the immediate financial barrier, enabling more employed adults to begin retraining.",
+      "filled_frame_cn": "这减少了眼前的经济障碍，使更多在职成年人能够开始再培训。",
+      "task_types": [
+        "各类主体段"
+      ]
+    },
+    {
+      "id": "T2-F07",
+      "title": "给可理解的具体场景",
+      "frame": "Consider [a concrete case]: [specific detail] illustrates why [link to the claim].",
+      "use_cn": "例子展示前面的机制；无需虚构调查、专家或百分比。",
+      "slots": [
+        "case=具体人物或场景",
+        "detail=能说明问题的细节",
+        "link=与主旨的联系"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "例子不能占满整段；例子前后仍需解释它证明什么。",
+      "example_en": "Consider a night-shift worker: a bus service that stops at ten cannot replace a car for the journey home.",
+      "example_cn": "以夜班工人为例：十点停运的公交无法替代其回家所需的汽车。",
+      "filled_frame_en": "Consider a night-shift worker: a bus service that stops at ten illustrates why daytime transport alone may not replace a car.",
+      "filled_frame_cn": "设想一位夜班工作者：十点停止运营的公交，说明仅有白天交通为何未必能替代汽车。",
+      "task_types": [
+        "各类主体段"
+      ]
+    },
+    {
+      "id": "T2-F08",
+      "title": "承认有限好处后回应强主张",
+      "frame": "Although [valid point], this alone does not show that [stronger claim].",
+      "use_cn": "适合处理反方的一个合理点，并说明它不能推出题目中的更强结论。",
+      "slots": [
+        "valid point=承认的真实好处",
+        "stronger claim=尚未被证明的主张"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "although不能同时再配but；让步后必须解释两者间缺少什么逻辑。",
+      "example_en": "Although online lessons offer flexibility, this alone does not show that schools are unnecessary.",
+      "example_cn": "虽然网课提供灵活性，但这一个好处不足以证明学校已无必要。",
+      "filled_frame_en": "Although online lessons offer flexibility, this alone does not show that schools are unnecessary.",
+      "filled_frame_cn": "虽然网课提供灵活性，但这一个好处不足以证明学校已无必要。",
+      "task_types": [
+        "同意与否",
+        "讨论双方"
+      ]
+    },
+    {
+      "id": "T2-F09",
+      "title": "检查论证依赖的前提",
+      "frame": "That argument assumes [condition]. Where this condition is absent, [different result] may follow.",
+      "use_cn": "针对前提提出有限反驳，适合best、only等容易过度概括的主张。",
+      "slots": [
+        "condition=对方推论需要的条件",
+        "different result=条件不成立时的结果"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "不能凭空替反方发明一个它根本不需要的前提。",
+      "example_en": "That argument assumes all households have reliable internet. Where this is absent, a digital-only service may exclude some residents.",
+      "example_cn": "这一论证假定各家庭都有可靠网络；如果没有，仅提供线上服务可能把部分居民排除在外。",
+      "filled_frame_en": "That argument assumes all households have reliable internet. Where this condition is absent, exclusion from a digital-only service may follow.",
+      "filled_frame_cn": "该论证假定所有家庭都有可靠网络；如果没有，部分人可能无法使用仅在线上提供的服务。",
+      "task_types": [
+        "同意与否",
+        "讨论双方"
+      ]
+    },
+    {
+      "id": "T2-F10",
+      "title": "用同一个标准比较轻重",
+      "frame": "[Benefit] carries more weight than [cost] because [comparison using the same criterion].",
+      "use_cn": "适合outweigh题，比较持续时间、影响人数、严重程度或可逆性等具体标准。",
+      "slots": [
+        "benefit/cost=前面已解释的利弊",
+        "criterion=同一比较标准"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "不能只说advantages are greater；必须解释为何更大，且回应题目比较方向。",
+      "example_en": "The daily time saved by nearby services carries more weight than occasional delivery inconvenience because the saving benefits residents throughout the week.",
+      "example_cn": "附近服务每天节省的时间更重要，因为居民一周都能获益，而配送不便只是偶尔发生。",
+      "filled_frame_en": "The daily time saved by nearby services carries more weight than occasional delivery inconvenience because the saving benefits residents throughout the week.",
+      "filled_frame_cn": "附近服务每天节省的时间更重要，因为居民一周都能获益，而配送不便只是偶尔发生。",
+      "task_types": [
+        "利弊权衡"
+      ]
+    },
+    {
+      "id": "T2-F11",
+      "title": "原因与现象对应",
+      "frame": "One factor behind [trend] is [cause], since [how the cause produces the trend].",
+      "use_cn": "原因句后再说明形成机制，避免把原因和后果混写。",
+      "slots": [
+        "trend=题设趋势",
+        "cause=主要成因",
+        "how=怎样推动趋势"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "原因不能只是换个词复述现象；不要在问原因时只写产生的危害。",
+      "example_en": "One factor behind delayed parenthood is insecure employment, since unpredictable income makes long-term care arrangements harder to plan.",
+      "example_cn": "晚育的一项原因是工作不稳定，因为收入难以预测会增加长期照护安排的规划难度。",
+      "filled_frame_en": "One factor behind delayed parenthood is insecure employment, since unpredictable income makes long-term care arrangements harder to plan.",
+      "filled_frame_cn": "晚育的一项原因是工作不稳定，因为收入难以预测会增加长期照护安排的规划难度。",
+      "task_types": [
+        "原因与措施",
+        "原因与评价",
+        "原因与影响"
+      ]
+    },
+    {
+      "id": "T2-F12",
+      "title": "写清现象造成的困难",
+      "frame": "[Trend] can create [problem] for [group] because [mechanism].",
+      "use_cn": "用于问题措施题的后果段，交代谁遇到什么困难。",
+      "slots": [
+        "trend=题设变化",
+        "problem=具体问题",
+        "group=受影响的人",
+        "mechanism=怎样发生"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "题目问problems时，不能把整段写成该现象为什么出现。",
+      "example_en": "A decline in local bus services can restrict employment choices for residents without cars because fewer workplaces are reachable.",
+      "example_cn": "本地公交服务减少会限制没有汽车者的就业选择，因为他们能到达的工作地点变少。",
+      "filled_frame_en": "A decline in local bus services can create difficulties in finding work for residents without cars because fewer workplaces are reachable.",
+      "filled_frame_cn": "本地公交服务减少可能使没有汽车的居民更难找工作，因为可到达的工作地点变少。",
+      "task_types": [
+        "问题与措施"
+      ]
+    },
+    {
+      "id": "T2-F13",
+      "title": "执行者、行动和作用机制",
+      "frame": "To reduce [problem], [actor] could [specific action], which would [mechanism].",
+      "use_cn": "措施应与前面的原因或问题对应，并说明怎样起作用。",
+      "slots": [
+        "problem=需要缓解的问题",
+        "actor=执行者",
+        "action=具体措施",
+        "mechanism=预期作用"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "governments should raise awareness太空泛；不能只有执行者和口号。",
+      "example_en": "To reduce missed appointments, service providers could send reminders that make the time and location easier to check.",
+      "example_cn": "为减少错过预约，服务方可发送提醒，让时间和地点更容易核对。",
+      "filled_frame_en": "To reduce missed appointments, service providers could send reminders, which would make the time and location easier to check.",
+      "filled_frame_cn": "为减少错过预约，服务方可发送提醒，让时间和地点更容易核对。",
+      "task_types": [
+        "原因与措施",
+        "问题与措施"
+      ]
+    },
+    {
+      "id": "T2-F14",
+      "title": "用反事实说明现有条件的重要性",
+      "frame": "Without [required condition], [group] would [likely limitation], even if [other improvement].",
+      "use_cn": "适合指出单一政策不足，或说明某个条件为何重要。",
+      "slots": [
+        "required condition=必要条件",
+        "limitation=缺失时的限制",
+        "other improvement=其他进步"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "这是条件推理，不是事实数据；would和时态要配合，不能声称所有人都会如此。",
+      "example_en": "Without affordable evening buses, some workers would still need cars even if daytime travel were free.",
+      "example_cn": "如果没有负担得起的夜间公交，即使白天乘车免费，部分工人仍会需要汽车。",
+      "filled_frame_en": "Without affordable evening buses, some workers would still need cars even if daytime travel were free.",
+      "filled_frame_cn": "如果没有负担得起的夜间公交，即使白天乘车免费，部分工人仍会需要汽车。",
+      "task_types": [
+        "同意与否",
+        "原因与措施",
+        "利弊权衡"
+      ]
+    },
+    {
+      "id": "T2-F15",
+      "title": "在明确条件下给总体判断",
+      "frame": "On balance, [trend] is [positive / negative] because [main impact], provided that [necessary condition].",
+      "use_cn": "适合积极消极发展评价；先给总判断，再说明关键边界。",
+      "slots": [
+        "trend=题设变化",
+        "main impact=主导影响",
+        "condition=必要条件"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "不能用provided that回避总体立场；条件也不能与正文完全无关。",
+      "example_en": "On balance, expanding online public services is positive, provided that residents can still obtain help through accessible offline channels.",
+      "example_cn": "总体而言，扩大线上公共服务是积极的，条件是居民仍可通过容易获得的线下渠道得到帮助。",
+      "filled_frame_en": "On balance, expanding online public services is positive because routine applications become easier to complete, provided that accessible offline help remains available.",
+      "filled_frame_cn": "总体而言，扩大线上公共服务是积极的，因为日常申请更方便完成，条件是仍保留容易获得的线下帮助。",
+      "task_types": [
+        "积极或消极",
+        "原因与评价"
+      ]
+    },
+    {
+      "id": "T2-F16",
+      "title": "保持与正文一致的判断",
+      "frame": "In conclusion, [direct answer to the question]. The main reason is that [central argument].",
+      "use_cn": "用自己的话收束已经论证的立场，不突然换成一律要平衡双方。",
+      "slots": [
+        "direct answer=回应本题全部任务的结论",
+        "central argument=正文已经展开的核心理由"
+      ],
+      "replacement_steps": [
+        "先确定这道题要回答的任务与本段中心，给每个槽位写具体内容。",
+        "逐句检查理由是否解释了题目中的对象与限定；删掉无关分支。"
+      ],
+      "pitfall_cn": "结尾须覆盖本题全部任务，并与正文立场一致；概括已经论证过的理由，删去不适用的内容。",
+      "example_en": "In conclusion, I favour targeted transport subsidies. The main reason is that they improve access to essential services without making every journey free.",
+      "example_cn": "总之，我赞成有针对性的交通补贴。主要原因是这能改善获得基本服务的机会，同时不必让每次出行都免费。",
+      "filled_frame_en": "In conclusion, I favour targeted transport subsidies. The main reason is that they improve access to essential services without making every journey free.",
+      "filled_frame_cn": "总之，我赞成有针对性的交通补贴。主要原因是这能改善获得基本服务的机会，同时不必让每次出行都免费。",
+      "task_types": [
+        "同意与否",
+        "讨论双方",
+        "利弊权衡"
+      ]
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "gain access to [resource]",
+      "meaning_cn": "获得……资源的使用机会",
+      "pitfall_cn": "access通常不可数；写清谁得到何种资源。",
+      "id": "T2C35-01",
+      "example_en": "Students can gain access to specialist courses through shared online classes.",
+      "example_cn": "学生可通过共享网课获得专门课程的学习机会。",
+      "use_cn": "获得……资源的使用机会",
+      "slots": [
+        "resource=具体资源，如 specialist courses；补充谁通过什么途径获得。"
+      ],
+      "replacement_steps": [
+        "先明确本段要表达的关系，再填入实际对象；补一句解释作用机制。"
+      ]
+    },
+    {
+      "phrase": "place pressure on [service]",
+      "meaning_cn": "给……服务带来压力",
+      "pitfall_cn": "说明压力体现为排队、容量不足等什么结果。",
+      "id": "T2C35-02",
+      "example_en": "A rapid increase in residents can place pressure on local health services.",
+      "example_cn": "居民人数迅速增加可能给本地医疗服务带来压力。",
+      "use_cn": "给……服务带来压力",
+      "slots": [
+        "service=具体服务，如 local health services；再解释候诊或容量压力。"
+      ],
+      "replacement_steps": [
+        "先明确本段要表达的关系，再填入实际对象；补一句解释作用机制。"
+      ]
+    },
+    {
+      "phrase": "remove a barrier to [activity]",
+      "meaning_cn": "消除从事……活动的障碍",
+      "pitfall_cn": "to是介词，后接名词或动词-ing；明确是哪项障碍。",
+      "id": "T2C35-03",
+      "example_en": "Evening childcare can remove a barrier to attending vocational classes.",
+      "example_cn": "晚间托儿服务可以消除参加职业课程的一项障碍。",
+      "use_cn": "消除从事……活动的障碍",
+      "slots": [
+        "activity=名词或-ing短语，如 attending vocational classes；指出原障碍。"
+      ],
+      "replacement_steps": [
+        "先明确本段要表达的关系，再填入实际对象；补一句解释作用机制。"
+      ]
+    },
+    {
+      "phrase": "bear the cost of [policy]",
+      "meaning_cn": "承担……政策的成本",
+      "pitfall_cn": "写清家庭、企业或政府谁承担。",
+      "id": "T2C35-04",
+      "example_en": "Local taxpayers would bear the cost of maintaining the new sports centre.",
+      "example_cn": "维护新体育中心的费用将由本地纳税人承担。",
+      "use_cn": "承担……政策的成本",
+      "slots": [
+        "policy=具体行动或政策，如 maintaining the new sports centre；明确承担者。"
+      ],
+      "replacement_steps": [
+        "先明确本段要表达的关系，再填入实际对象；补一句解释作用机制。"
+      ]
+    },
+    {
+      "phrase": "give priority to [goal]",
+      "meaning_cn": "优先考虑……目标",
+      "pitfall_cn": "to后接名词或动词-ing，不自动等于完全取消其他投入。",
+      "id": "T2C35-05",
+      "example_en": "Schools should give priority to repairing unsafe buildings.",
+      "example_cn": "学校应优先修缮不安全的建筑。",
+      "use_cn": "优先考虑……目标",
+      "slots": [
+        "goal=具体目标或-ing短语，如 repairing unsafe buildings；解释为何优先。"
+      ],
+      "replacement_steps": [
+        "先明确本段要表达的关系，再填入实际对象；补一句解释作用机制。"
+      ]
+    },
+    {
+      "phrase": "come at the expense of [other value]",
+      "meaning_cn": "以牺牲……为代价",
+      "pitfall_cn": "需要解释被牺牲的东西如何受损。",
+      "id": "T2C35-06",
+      "example_en": "Longer opening hours should not come at the expense of staff safety.",
+      "example_cn": "延长营业时间不应以员工安全为代价。",
+      "use_cn": "以牺牲……为代价",
+      "slots": [
+        "other value=具体受损方面，如 staff safety；说明如何受损。"
+      ],
+      "replacement_steps": [
+        "先明确本段要表达的关系，再填入实际对象；补一句解释作用机制。"
+      ]
+    },
+    {
+      "phrase": "address the underlying cause of [problem]",
+      "meaning_cn": "处理……问题的深层原因",
+      "pitfall_cn": "不能把只缓解症状的措施说成根除成因。",
+      "id": "T2C35-07",
+      "example_en": "Better rural transport could address an underlying cause of missed appointments.",
+      "example_cn": "改善乡村交通可处理错过预约的一项深层原因。",
+      "use_cn": "处理……问题的深层原因",
+      "slots": [
+        "problem=具体问题；先解释交通不足与错过预约的联系。"
+      ],
+      "replacement_steps": [
+        "先明确本段要表达的关系，再填入实际对象；补一句解释作用机制。"
+      ]
+    },
+    {
+      "phrase": "strike a balance between [A] and [B]",
+      "meaning_cn": "在……与……之间取得平衡",
+      "pitfall_cn": "只有说明如何分配或限制时才有内容，不作为所有题的万能结论。",
+      "id": "T2C35-08",
+      "example_en": "A capped group size can strike a balance between access and individual feedback.",
+      "example_cn": "限制小组人数可在参与机会与个人反馈之间取得平衡。",
+      "use_cn": "在……与……之间取得平衡",
+      "slots": [
+        "A/B=确有取舍的两个目标，如 access/individual feedback；给出实现方式。"
+      ],
+      "replacement_steps": [
+        "先明确本段要表达的关系，再填入实际对象；补一句解释作用机制。"
+      ]
+    },
+    {
+      "id": "C36-01",
+      "phrase": "allocate [resources] to [service / activity]",
+      "meaning_cn": "把资源分配给某项服务或活动",
+      "use_cn": "讨论政府、学校或企业如何分配有限资金、人力和时间；说明资源的实际用途。",
+      "slots": [
+        "resources：资金、人员、时间等具体资源",
+        "service / activity：具体服务或活动",
+        "句子主语：有分配权的主体"
+      ],
+      "replacement_steps": [
+        "先写有分配权的主体。",
+        "把 resources 换成 funding、staff 或其他资源。",
+        "to 后填具体名词或动词-ing，再说明投入能解决哪项不足。"
+      ],
+      "example_en": "Local authorities could allocate more funding to evening bus services in areas poorly served by public transport.",
+      "example_cn": "地方政府可以向公共交通服务不足的地区的夜间公交投入更多资金。",
+      "pitfall_cn": "allocate A to B，不能写 allocate A for to B。也可用 allocate funding for a project，但本句练 to 结构。分配资金本身不等于问题已经解决。"
+    },
+    {
+      "id": "C36-02",
+      "phrase": "provide an incentive for [group] to [verb]",
+      "meaning_cn": "为某类人做某事提供激励",
+      "use_cn": "解释补贴、奖励或押金为什么可能改变行为；把激励与目标行动对应起来。",
+      "slots": [
+        "group：被激励的人群",
+        "verb：希望他们采取的行动",
+        "句子主语：具体政策、奖励或安排"
+      ],
+      "replacement_steps": [
+        "确定希望谁改变什么行为。",
+        "把政策或安排放在句子主语位置。",
+        "for 后填人群，to 后填动词原形，并解释对方获得什么好处。"
+      ],
+      "example_en": "A refundable deposit provides an incentive for customers to return reusable cups.",
+      "example_cn": "可退还的押金会激励顾客归还可重复使用的杯子。",
+      "pitfall_cn": "for 后是受到激励的对象，to 后是行动；不要把 an incentive 误写成不可数。激励可能有效，不代表人人一定照做。"
+    },
+    {
+      "id": "C36-03",
+      "phrase": "reduce [group's] dependence on [resource / system]",
+      "meaning_cn": "减少某类人对某种资源或系统的依赖",
+      "use_cn": "讨论交通、能源或技术替代方案；指出替代方式如何使原选项不再不可缺少。",
+      "slots": [
+        "group's：依赖该资源的人群的所有格",
+        "resource / system：当前依赖的资源或系统",
+        "句子主语：可用的替代方案"
+      ],
+      "replacement_steps": [
+        "写清谁依赖什么。",
+        "选择能实际替代部分需求的措施作为主语。",
+        "on 后填被依赖的对象，再解释替代方案何时可用。"
+      ],
+      "example_en": "Reliable buses can reduce commuters' dependence on private cars.",
+      "example_cn": "可靠的公交服务可以减少通勤者对私家车的依赖。",
+      "pitfall_cn": "dependence on，不是 dependence of。reduce 不等于 eliminate；如果只覆盖部分行程，不要写成完全不需要汽车。"
+    },
+    {
+      "id": "C36-04",
+      "phrase": "offset [a cost / a negative effect]",
+      "meaning_cn": "抵消或弥补某项成本或负面影响",
+      "use_cn": "比较收益与代价，或解释补助能承担多少费用；可以明确只抵消一部分。",
+      "slots": [
+        "a cost / a negative effect：需要抵消的具体成本或影响",
+        "句子主语：用于补偿的收益或支持",
+        "程度：part of、some of 或全部，按实际论证选择"
+      ],
+      "replacement_steps": [
+        "先指出确切的费用或不利影响。",
+        "确定什么收益或支持能对冲它。",
+        "若不能证明完全抵消，写 offset part of the cost 或 help offset。"
+      ],
+      "example_en": "A targeted grant can offset part of the cost of insulating older homes.",
+      "example_cn": "有针对性的补助可以抵消老旧住宅保温改造的部分费用。",
+      "pitfall_cn": "offset 后直接接宾语，不加 for。抵消部分成本不等于该措施没有成本，也不自动证明利大于弊。"
+    },
+    {
+      "id": "C36-05",
+      "phrase": "impose restrictions on [activity]",
+      "meaning_cn": "对某项活动施加限制",
+      "use_cn": "提出管理措施；最好明确限制的时间、地点、对象或程度。",
+      "slots": [
+        "activity：被限制的活动或行为",
+        "句子主语：有权实施限制的机构",
+        "范围：适用时间、地点和对象"
+      ],
+      "replacement_steps": [
+        "先确定具体受损对象和需要控制的活动。",
+        "on 后填活动名词或动词-ing。",
+        "补上限制范围及其作用，避免只写空泛的严格管理。"
+      ],
+      "example_en": "Cities could impose restrictions on night-time deliveries in residential streets.",
+      "example_cn": "城市可以限制在住宅街道进行夜间送货。",
+      "pitfall_cn": "restrictions on，不是 restrictions to。限制不一定是全面禁止；只有需要禁令时才使用 ban。还需考虑执行与替代安排。"
+    },
+    {
+      "id": "C36-06",
+      "phrase": "raise awareness of [issue]",
+      "meaning_cn": "提高对某问题的认识",
+      "use_cn": "说明教育或信息传播的作用；适合处理因不了解风险而产生的问题。",
+      "slots": [
+        "issue：需要认识的具体风险或问题",
+        "句子主语：课程、宣传或信息安排",
+        "对象：哪些人会接触这些信息"
+      ],
+      "replacement_steps": [
+        "把宽泛话题缩小成一个实际风险。",
+        "选定受众能接触到的传播方式。",
+        "用 of 连接问题，再解释认识提高后可能发生什么行为变化。"
+      ],
+      "example_en": "School workshops can raise awareness of the risks of sharing personal data online.",
+      "example_cn": "学校的专题活动可以提高学生对网上分享个人数据风险的认识。",
+      "pitfall_cn": "awareness 通常不可数；不用 raise an awareness。认识提高不等于行为必然改变，不能用宣传一句话代替完整措施。"
+    },
+    {
+      "id": "C36-07",
+      "phrase": "hold [group] accountable for [action / outcome]",
+      "meaning_cn": "要求某类人对某行为或结果负责",
+      "use_cn": "讨论监管、透明度或管理责任；说明责任主体、职责和检查方式。",
+      "slots": [
+        "group：承担职责的机构或人员",
+        "action / outcome：其有权控制且应负责的行为或结果",
+        "句子主语：规则、机构或监督机制"
+      ],
+      "replacement_steps": [
+        "先写清谁负有什么职责。",
+        "把责任主体放在 hold 与 accountable 之间。",
+        "for 后填具体责任，再说明报告、审查或后果如何让问责可执行。"
+      ],
+      "example_en": "Clear reporting rules can help hold contractors accountable for delays in publicly funded housing projects.",
+      "example_cn": "清晰的报告规则有助于要求承包商对公共资助住房项目的延误负责。",
+      "pitfall_cn": "accountable for 后接责任事项，不是要求对方负责的受众。不要把不受该主体控制的所有结果都归责给它；问责不自动等于法律定罪。"
+    },
+    {
+      "id": "C36-08",
+      "phrase": "equip [group] with [skills / resources]",
+      "meaning_cn": "使某类人具备某些技能或资源",
+      "use_cn": "解释培训或教育的具体作用；要指出能用于什么任务的技能。",
+      "slots": [
+        "group：接受支持的人群",
+        "skills / resources：具体技能或资源",
+        "句子主语：培训、课程或支持措施"
+      ],
+      "replacement_steps": [
+        "确定目标岗位或活动需要什么能力。",
+        "把接受支持的人放在 equip 后。",
+        "with 后写具体能力，必要时补 needed for 或 to do 说明用途。"
+      ],
+      "example_en": "Short training courses can equip older workers with the digital skills needed for office jobs.",
+      "example_cn": "短期培训课程可以帮助年长劳动者具备办公室工作所需的数字技能。",
+      "pitfall_cn": "equip people with skills，不是 equip skills to people。不要只写 useful skills，也不要断言某一年龄群体人人缺少这些能力。"
+    },
+    {
+      "id": "C36-09",
+      "phrase": "enable [group] to [verb]",
+      "meaning_cn": "使某类人能够做某事",
+      "use_cn": "解释资源或条件如何让原本困难的行动变得可行。",
+      "slots": [
+        "group：获得行动条件的人群",
+        "verb：变得可行的具体行动",
+        "句子主语：提供条件的措施或资源"
+      ],
+      "replacement_steps": [
+        "指出原先缺少的条件，如时间、资金或照护支持。",
+        "把受益人群放在 enable 后。",
+        "to 后填动词原形，再说明措施提供了哪项条件。"
+      ],
+      "example_en": "Subsidised childcare can enable more parents to take up paid work.",
+      "example_cn": "有补贴的托育服务可以使更多父母有条件从事有薪工作。",
+      "pitfall_cn": "enable somebody to do，不是 enable somebody doing。能够做不等于一定选择去做；不要把可能作用写成对所有人的保证。"
+    },
+    {
+      "id": "C36-10",
+      "phrase": "be associated with [outcome / condition]",
+      "meaning_cn": "与某种结果或情况相关",
+      "use_cn": "谨慎表达两个现象之间的联系；适用于不能确认因果关系时。",
+      "slots": [
+        "句子主语：一个现象、因素或变化",
+        "outcome / condition：与之相关的另一现象",
+        "证据语境：题目给出的资料或明确的假设讨论"
+      ],
+      "replacement_steps": [
+        "先判断材料能证明相关还是因果。",
+        "把另一现象放在 with 后。",
+        "不能排除其他因素时，用 may 并补充局限，不把相关改写为导致。"
+      ],
+      "example_en": "A fall in car use may be associated with higher parking fees, but other factors could also matter.",
+      "example_cn": "汽车使用量的下降可能与更高的停车费有关，但其他因素也可能起作用。",
+      "pitfall_cn": "be associated with 不等于 cause。例句为假设性论证，不能据此宣称某城市已出现这一统计关系。"
+    },
+    {
+      "id": "C36-11",
+      "phrase": "have a disproportionate impact on [group]",
+      "meaning_cn": "对某类人产生相对更重或不成比例的影响",
+      "use_cn": "比较不同群体承受的负担；须交代为什么相同规则对某群体影响更大。",
+      "slots": [
+        "group：承担相对更大影响的人群",
+        "句子主语：费用、规定或变化",
+        "比较依据：收入占比、接触频率或替代选项等"
+      ],
+      "replacement_steps": [
+        "先确定比较的是费用占收入、时间负担还是其他尺度。",
+        "on 后填影响更大的人群。",
+        "用 because 等结构解释不成比例体现在哪里。"
+      ],
+      "example_en": "A fixed monthly fee can have a disproportionate impact on low-income households because it absorbs more of their income.",
+      "example_cn": "固定月费对低收入家庭的影响可能更重，因为它占这些家庭收入的比例更大。",
+      "pitfall_cn": "disproportionate 不只是很大或负面，必须有相对比较依据。例句以同额收费作比较；如果有减免，须按实际负担重新判断。"
+    },
+    {
+      "id": "C36-12",
+      "phrase": "meet the demand for [service / product]",
+      "meaning_cn": "满足对某种服务或产品的需求",
+      "use_cn": "解释扩充容量、供给或服务时段的目的；说明谁在何时需要它。",
+      "slots": [
+        "service / product：被需要的具体服务或产品",
+        "句子主语：新增供给或能力",
+        "需求情境：人群、地点和时段"
+      ],
+      "replacement_steps": [
+        "确定实际需求是什么，而不是先写增加供给。",
+        "for 后填服务或产品。",
+        "供给不足以覆盖全部需求时，写 help meet 或 partly meet。"
+      ],
+      "example_en": "Additional evening bus services could help meet the demand for late-night travel.",
+      "example_cn": "增加夜间公交班次可能有助于满足深夜出行需求。",
+      "pitfall_cn": "demand for，不是 demand of。没有证据时不要随手加 rapidly growing；供给增加也不能自动证明所有需求都已满足。"
+    },
+    {
+      "id": "C36-13",
+      "phrase": "make [option] more affordable for [group]",
+      "meaning_cn": "使某个选项对某类人更负担得起",
+      "use_cn": "讨论价格、补贴与收入；比单写 cheap 更能说明谁获得什么机会。",
+      "slots": [
+        "option：课程、住房或具体服务",
+        "group：受益人群",
+        "句子主语：降低实际支付负担的措施"
+      ],
+      "replacement_steps": [
+        "写明需要负担的服务或产品。",
+        "把它放在 make 后，再接 more affordable。",
+        "for 后填人群，并说明价格或实际负担怎样降低。"
+      ],
+      "example_en": "Reduced tuition fees can make vocational courses more affordable for low-income adults.",
+      "example_cn": "降低学费可以让低收入成年人更负担得起职业课程。",
+      "pitfall_cn": "affordable 表示相对支付能力，不等于免费或质量低。结构是 make something more affordable，不是 make something to be affordable。"
+    },
+    {
+      "id": "C36-14",
+      "phrase": "contribute to [outcome]",
+      "meaning_cn": "促成某种结果；是影响因素之一",
+      "use_cn": "表达多因素问题中的部分作用，随后补充实际机制。",
+      "slots": [
+        "句子主语：一个影响因素或变化",
+        "outcome：具体结果，名词或动词-ing",
+        "机制：这个因素如何推动结果"
+      ],
+      "replacement_steps": [
+        "确认这只是因素之一，还是足以单独导致结果。",
+        "to 后填结果名词或动词-ing。",
+        "接 if、by 或 because 解释作用条件或过程。"
+      ],
+      "example_en": "Longer opening hours can contribute to higher energy use if shops keep lights and heating on for longer.",
+      "example_cn": "如果商店更长时间开启照明和供暖，延长营业时间就可能增加能源使用。",
+      "pitfall_cn": "to 是介词，如 contribute to reducing waste。contribute 可用于好结果或坏结果；不能把它固定翻成积极贡献，也不等于唯一原因。"
+    }
+  ],
+  "task1_overview_exercises": [
+    {
+      "id": "T1OV36-01",
+      "title": "三线趋势与排名逆转",
+      "type": "折线图",
+      "source_group": "practice",
+      "origin": "编者自拟完整数据与图；非真实考题",
+      "prompt": "Compare the percentages of journeys made by transport options A, B and C between 2010 and 2025. Summarise the main trends and relevant comparisons.",
+      "data": {
+        "years": [
+          2010,
+          2015,
+          2020,
+          2025
+        ],
+        "unit": "percent of journeys",
+        "series": {
+          "A": [
+            10,
+            25,
+            40,
+            50
+          ],
+          "B": [
+            65,
+            45,
+            30,
+            15
+          ],
+          "C": [
+            25,
+            30,
+            30,
+            35
+          ]
+        }
+      },
+      "overview": "Overall, A rose from the least-used option to the most common one, while B followed the opposite trend. C increased more moderately and finished between the other two.",
+      "overview_cn": "A由最少使用变为最多，B走势相反；C较温和地上升，末期位于二者之间。",
+      "selection_steps": [
+        "分别排出首末年份顺序：首期B 高于 C 高于 A，末期A 高于 C 高于 B。",
+        "找最大方向反差A升B降，再判断C相对温和的上升。",
+        "交叉发生在2015和2020两次观察之间，图不能支持精确交叉年份。"
+      ],
+      "common_misuse": "三组是完整互斥的出行构成，各年合计100%。不得据折线插值猜精确交叉年；C有一个相邻区间不变，不说它每期都增长。",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 700 420\" width=\"700\" height=\"420\"><rect width=\"700\" height=\"420\" fill=\"#171c21\"/><text x=\"20\" y=\"30\" font-family=\"Arial,sans-serif\" font-size=\"22\" text-anchor=\"start\" fill=\"#dfdfd4\">Original practice: transport shares (%)</text><text x=\"20\" y=\"56\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"start\" fill=\"#dfdfd4\">Invented data for overview practice; not an exam recall</text><path d=\"M65 340H650\" stroke=\"#47545e\"/><text x=\"52\" y=\"345\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"end\" fill=\"#dfdfd4\">0</text><path d=\"M65 280H650\" stroke=\"#47545e\"/><text x=\"52\" y=\"285\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"end\" fill=\"#dfdfd4\">20</text><path d=\"M65 220H650\" stroke=\"#47545e\"/><text x=\"52\" y=\"225\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"end\" fill=\"#dfdfd4\">40</text><path d=\"M65 160H650\" stroke=\"#47545e\"/><text x=\"52\" y=\"165\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"end\" fill=\"#dfdfd4\">60</text><path d=\"M65 100H650\" stroke=\"#47545e\"/><text x=\"52\" y=\"105\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"end\" fill=\"#dfdfd4\">80</text><text x=\"80\" y=\"365\" font-family=\"Arial,sans-serif\" font-size=\"15\" text-anchor=\"middle\" fill=\"#dfdfd4\">2010</text><text x=\"265\" y=\"365\" font-family=\"Arial,sans-serif\" font-size=\"15\" text-anchor=\"middle\" fill=\"#dfdfd4\">2015</text><text x=\"450\" y=\"365\" font-family=\"Arial,sans-serif\" font-size=\"15\" text-anchor=\"middle\" fill=\"#dfdfd4\">2020</text><text x=\"635\" y=\"365\" font-family=\"Arial,sans-serif\" font-size=\"15\" text-anchor=\"middle\" fill=\"#dfdfd4\">2025</text><polyline points=\"80,310 265,265 450,220 635,190\" fill=\"none\" stroke=\"#a8c8bc\" stroke-width=\"3\"/><circle cx=\"80\" cy=\"310\" r=\"4\" fill=\"#a8c8bc\"/><circle cx=\"265\" cy=\"265\" r=\"4\" fill=\"#a8c8bc\"/><circle cx=\"450\" cy=\"220\" r=\"4\" fill=\"#a8c8bc\"/><circle cx=\"635\" cy=\"190\" r=\"4\" fill=\"#a8c8bc\"/><rect x=\"100\" y=\"390\" width=\"20\" height=\"5\" fill=\"#a8c8bc\"/><text x=\"128\" y=\"398\" font-family=\"Arial,sans-serif\" font-size=\"16\" text-anchor=\"start\" fill=\"#dfdfd4\">A</text><polyline points=\"80,145 265,205 450,250 635,295\" fill=\"none\" stroke=\"#e1ba92\" stroke-width=\"3\"/><circle cx=\"80\" cy=\"145\" r=\"4\" fill=\"#e1ba92\"/><circle cx=\"265\" cy=\"205\" r=\"4\" fill=\"#e1ba92\"/><circle cx=\"450\" cy=\"250\" r=\"4\" fill=\"#e1ba92\"/><circle cx=\"635\" cy=\"295\" r=\"4\" fill=\"#e1ba92\"/><rect x=\"280\" y=\"390\" width=\"20\" height=\"5\" fill=\"#e1ba92\"/><text x=\"308\" y=\"398\" font-family=\"Arial,sans-serif\" font-size=\"16\" text-anchor=\"start\" fill=\"#dfdfd4\">B</text><polyline points=\"80,265 265,250 450,250 635,235\" fill=\"none\" stroke=\"#9fb7d9\" stroke-width=\"3\"/><circle cx=\"80\" cy=\"265\" r=\"4\" fill=\"#9fb7d9\"/><circle cx=\"265\" cy=\"250\" r=\"4\" fill=\"#9fb7d9\"/><circle cx=\"450\" cy=\"250\" r=\"4\" fill=\"#9fb7d9\"/><circle cx=\"635\" cy=\"235\" r=\"4\" fill=\"#9fb7d9\"/><rect x=\"460\" y=\"390\" width=\"20\" height=\"5\" fill=\"#9fb7d9\"/><text x=\"488\" y=\"398\" font-family=\"Arial,sans-serif\" font-size=\"16\" text-anchor=\"start\" fill=\"#dfdfd4\">C</text></svg>",
+      "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/expression-charts/T1OV36-01.png",
+      "raw_image_url": "https://raw.githubusercontent.com/cyhcyh070126-bot/ielts-writing-study/main/expression-charts/T1OV36-01.png"
+    },
+    {
+      "id": "T1OV36-02",
+      "title": "人数不变、占比下降",
+      "type": "混合图",
+      "source_group": "practice",
+      "origin": "编者自拟完整数据与图；非真实考题",
+      "prompt": "Compare total membership and student membership of a club in 2015 and 2025, together with the percentage of members who were students. Summarise the main features across both panels.",
+      "data": {
+        "years": [
+          2015,
+          2025
+        ],
+        "total_members": [
+          1000,
+          2000
+        ],
+        "student_members": [
+          400,
+          400
+        ],
+        "student_share_percent": [
+          40,
+          20
+        ]
+      },
+      "overview": "Overall, total membership doubled, while the number of student members was unchanged. Students therefore represented a smaller share of the enlarged membership.",
+      "overview_cn": "总会员数翻倍，学生会员人数不变；学生因此占扩大的会员总体中更小份额。",
+      "selection_steps": [
+        "先读左图人数，再读右图比例，不能把单位混为一谈。",
+        "核对400/1000=40%，400/2000=20%。",
+        "概述连接两图的数学关系，细节再给400、1000、2000等数值。"
+      ],
+      "common_misuse": "不能写学生人数减半；减半的是学生占比。不能把会员总量与其中的学生人数相加。",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 700 420\" width=\"700\" height=\"420\"><rect width=\"700\" height=\"420\" fill=\"#171c21\"/><text x=\"20\" y=\"30\" font-family=\"Arial,sans-serif\" font-size=\"22\" text-anchor=\"start\" fill=\"#dfdfd4\">Original practice: club membership</text><text x=\"20\" y=\"56\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"start\" fill=\"#dfdfd4\">Invented data; figures and shares use the same membership totals</text><text x=\"35\" y=\"93\" font-family=\"Arial,sans-serif\" font-size=\"18\" text-anchor=\"start\" fill=\"#dfdfd4\">Members (people)</text><text x=\"395\" y=\"93\" font-family=\"Arial,sans-serif\" font-size=\"18\" text-anchor=\"start\" fill=\"#dfdfd4\">Student share (%)</text><path d=\"M55 330.0H340\" stroke=\"#47545e\"/><text x=\"45\" y=\"334.0\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">0</text><path d=\"M55 280.0H340\" stroke=\"#47545e\"/><text x=\"45\" y=\"284.0\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">500</text><path d=\"M55 230.0H340\" stroke=\"#47545e\"/><text x=\"45\" y=\"234.0\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">1000</text><path d=\"M55 180.0H340\" stroke=\"#47545e\"/><text x=\"45\" y=\"184.0\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">1500</text><path d=\"M55 130.0H340\" stroke=\"#47545e\"/><text x=\"45\" y=\"134.0\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">2000</text><rect x=\"90\" y=\"230.0\" width=\"44\" height=\"100.0\" fill=\"#a8c8bc\"/><text x=\"112\" y=\"223.0\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"middle\" fill=\"#dfdfd4\">1000</text><rect x=\"138\" y=\"290\" width=\"38\" height=\"40\" fill=\"#e1ba92\"/><text x=\"157\" y=\"283\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"middle\" fill=\"#dfdfd4\">400</text><text x=\"130\" y=\"355\" font-family=\"Arial,sans-serif\" font-size=\"15\" text-anchor=\"middle\" fill=\"#dfdfd4\">2015</text><rect x=\"220\" y=\"130.0\" width=\"44\" height=\"200.0\" fill=\"#a8c8bc\"/><text x=\"242\" y=\"123.0\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"middle\" fill=\"#dfdfd4\">2000</text><rect x=\"268\" y=\"290\" width=\"38\" height=\"40\" fill=\"#e1ba92\"/><text x=\"287\" y=\"283\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"middle\" fill=\"#dfdfd4\">400</text><text x=\"260\" y=\"355\" font-family=\"Arial,sans-serif\" font-size=\"15\" text-anchor=\"middle\" fill=\"#dfdfd4\">2025</text><path d=\"M420 330H660\" stroke=\"#47545e\"/><text x=\"410\" y=\"334\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">0</text><path d=\"M420 290H660\" stroke=\"#47545e\"/><text x=\"410\" y=\"294\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">10</text><path d=\"M420 250H660\" stroke=\"#47545e\"/><text x=\"410\" y=\"254\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">20</text><path d=\"M420 210H660\" stroke=\"#47545e\"/><text x=\"410\" y=\"214\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">30</text><path d=\"M420 170H660\" stroke=\"#47545e\"/><text x=\"410\" y=\"174\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">40</text><path d=\"M420 130H660\" stroke=\"#47545e\"/><text x=\"410\" y=\"134\" font-family=\"Arial,sans-serif\" font-size=\"12\" text-anchor=\"end\" fill=\"#dfdfd4\">50</text><rect x=\"465\" y=\"170\" width=\"45\" height=\"160\" fill=\"#9fb7d9\"/><text x=\"487\" y=\"163\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"middle\" fill=\"#dfdfd4\">40%</text><text x=\"487\" y=\"355\" font-family=\"Arial,sans-serif\" font-size=\"15\" text-anchor=\"middle\" fill=\"#dfdfd4\">2015</text><rect x=\"580\" y=\"250\" width=\"45\" height=\"80\" fill=\"#9fb7d9\"/><text x=\"602\" y=\"243\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"middle\" fill=\"#dfdfd4\">20%</text><text x=\"602\" y=\"355\" font-family=\"Arial,sans-serif\" font-size=\"15\" text-anchor=\"middle\" fill=\"#dfdfd4\">2025</text><rect x=\"50\" y=\"388\" width=\"18\" height=\"8\" fill=\"#a8c8bc\"/><text x=\"76\" y=\"398\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"start\" fill=\"#dfdfd4\">All members</text><rect x=\"205\" y=\"388\" width=\"18\" height=\"8\" fill=\"#e1ba92\"/><text x=\"231\" y=\"398\" font-family=\"Arial,sans-serif\" font-size=\"14\" text-anchor=\"start\" fill=\"#dfdfd4\">Student members</text></svg>",
+      "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/expression-charts/T1OV36-02.png",
+      "raw_image_url": "https://raw.githubusercontent.com/cyhcyh070126-bot/ielts-writing-study/main/expression-charts/T1OV36-02.png"
+    }
+  ],
+  "task2_paragraph_examples": [
+    {
+      "id": "T2-P01",
+      "title": "教育：反馈时间与新增设备",
+      "theme": "教育",
+      "prompt": "Schools with limited budgets should spend more on teachers' feedback time than on additional digital devices. To what extent do you agree or disagree?",
+      "task_prompt": "Schools with limited budgets should spend more on teachers' feedback time than on additional digital devices. To what extent do you agree or disagree?",
+      "original_practice": true,
+      "source_status": "编者原创练习题与主体段，不是真题回忆、不是他人范文。",
+      "position_cn": "倾向同意，重点是现有设备已能满足基础练习时的边际投入选择。",
+      "points_cn": [
+        "对象是预算有限的学校。",
+        "具体机制：找到误解→改练习→减少重复错误。",
+        "对照的是额外设备，并非禁止科技。",
+        "若现有设备不足，另一主体段可以解释例外。"
+      ],
+      "paragraph_en": "Protected feedback time can improve learning more directly than replacing devices that already work. When teachers examine a pupil's errors, they can identify the misunderstanding behind several wrong answers. The next task can then target that problem instead of repeating practice the pupil has not understood. For example, a student who confuses percentages with totals needs a clear correction and another suitable question. Buying another tablet would not provide that diagnosis by itself, so feedback deserves priority when basic equipment is already adequate.",
+      "word_count": 83,
+      "sentences": [
+        {
+          "role": "观点：给出本段支持的具体投入",
+          "text": "Protected feedback time can improve learning more directly than replacing devices that already work.",
+          "translation_cn": "对已有设备仍可用的学校，保证反馈时间能更直接改善学习。"
+        },
+        {
+          "role": "机制一：解释教师先发现什么",
+          "text": "When teachers examine a pupil's errors, they can identify the misunderstanding behind several wrong answers.",
+          "translation_cn": "教师检查错误时，可以发现多个错答背后的同一个误解。"
+        },
+        {
+          "role": "机制二：把发现转成下一步行动",
+          "text": "The next task can then target that problem instead of repeating practice the pupil has not understood.",
+          "translation_cn": "下一项任务便可针对该问题，而非重复学生尚未理解的练习。"
+        },
+        {
+          "role": "具体例子：让机制可见",
+          "text": "For example, a student who confuses percentages with totals needs a clear correction and another suitable question.",
+          "translation_cn": "例如混淆百分比与总数的学生，需要清晰纠正及另一道合适的题。"
+        },
+        {
+          "role": "回扣比较对象与题意",
+          "text": "Buying another tablet would not provide that diagnosis by itself, so feedback deserves priority when basic equipment is already adequate.",
+          "translation_cn": "再买一台平板本身不能完成这种诊断，因此基础设备已足够时应优先反馈。"
+        }
+      ],
+      "source_url": "https://www.e-world.cc/ielts-essay-body-paragraph-development.html",
+      "access_type": "机构公开教学正文直接读取；非页面AI摘要替代全文",
+      "source_note": "仅参考先观点、解释机制、用例子说明并回扣任务的方法；题目和段落独立编写。"
+    },
+    {
+      "id": "T2-P02",
+      "title": "科技：非紧急工作信息与恢复时间",
+      "theme": "科技与工作",
+      "prompt": "Some organisations are considering a rule that non-urgent work messages should be sent only during employees' working hours. Discuss the benefits and drawbacks and give your own opinion.",
+      "task_prompt": "Some organisations are considering a rule that non-urgent work messages should be sent only during employees' working hours. Discuss the benefits and drawbacks and give your own opinion.",
+      "original_practice": true,
+      "source_status": "编者原创练习题与主体段，不是真题回忆、不是他人范文。",
+      "position_cn": "支持限制非紧急消息，同时保留真正紧急事项的清楚渠道。",
+      "points_cn": [
+        "限定non-urgent，不能把所有紧急沟通也禁止。",
+        "机制是减少被打断和继续处理工作的压力。",
+        "例子写清团队如何保存信息。",
+        "最后解释例外而非突然换立场。"
+      ],
+      "paragraph_en": "Restricting non-urgent messages can protect employees' recovery time. Even a short notification may prompt someone to check a discussion and begin solving a problem that could wait. Repeated interruptions leave less uninterrupted time for family activities or rest. A team could instead schedule routine updates for the next shift, so useful information is preserved without demanding an evening response. An agreed channel for genuine emergencies would keep this rule workable while maintaining its main benefit.",
+      "word_count": 75,
+      "sentences": [
+        {
+          "role": "观点：先说明主要好处",
+          "text": "Restricting non-urgent messages can protect employees' recovery time.",
+          "translation_cn": "限制非紧急消息可以保护员工恢复精力的时间。"
+        },
+        {
+          "role": "机制：解释信息为何影响休息",
+          "text": "Even a short notification may prompt someone to check a discussion and begin solving a problem that could wait.",
+          "translation_cn": "简短通知也可能使人查看讨论，开始处理原本可以等待的问题。"
+        },
+        {
+          "role": "结果：说明反复发生的影响",
+          "text": "Repeated interruptions leave less uninterrupted time for family activities or rest.",
+          "translation_cn": "反复打断会减少完整的家庭活动或休息时间。"
+        },
+        {
+          "role": "例子：给一个可执行情境",
+          "text": "A team could instead schedule routine updates for the next shift, so useful information is preserved without demanding an evening response.",
+          "translation_cn": "团队可将日常更新安排到下个班次，保存有用信息而不要求晚间回复。"
+        },
+        {
+          "role": "条件边界：回应实际限制",
+          "text": "An agreed channel for genuine emergencies would keep this rule workable while maintaining its main benefit.",
+          "translation_cn": "为真正紧急事项约定渠道，可使规则可执行且保留主要好处。"
+        }
+      ],
+      "source_url": "https://www.e-world.cc/ielts-essay-body-paragraph-development.html",
+      "access_type": "机构公开教学正文直接读取；非页面AI摘要替代全文",
+      "source_note": "仅参考先观点、解释机制、用例子说明并回扣任务的方法；题目和段落独立编写。"
+    },
+    {
+      "id": "T2-P03",
+      "title": "环境：维修补贴的作用与边界",
+      "theme": "环境",
+      "prompt": "To reduce household waste, local governments should subsidise repair services for ordinary appliances rather than expand facilities for processing discarded products. To what extent do you agree or disagree?",
+      "task_prompt": "To reduce household waste, local governments should subsidise repair services for ordinary appliances rather than expand facilities for processing discarded products. To what extent do you agree or disagree?",
+      "original_practice": true,
+      "source_status": "编者原创练习题与主体段，不是真题回忆、不是他人范文。",
+      "position_cn": "支持适度优先维修，但报废品仍需处理设施；本段专写维修的理由和条件。",
+      "points_cn": [
+        "不要声称所有电器都能修。",
+        "机制：维修相对更便宜→保留仍可用物品→延后废弃。",
+        "例子只是假设的常见情境。",
+        "回扣限定为值得维修的物品。"
+      ],
+      "paragraph_en": "Repair subsidies can reduce waste from appliances that are still practical to fix. A lower repair bill gives households a reason to keep an item when replacement would otherwise seem easier. For instance, replacing a faulty switch may let a serviceable lamp remain in use. This delays disposal and avoids replacing the whole product for one damaged component. The benefit depends on reliable services and available parts, however, so repair support should complement facilities for items that cannot safely or economically be restored.",
+      "word_count": 83,
+      "sentences": [
+        {
+          "role": "观点：限定受益对象",
+          "text": "Repair subsidies can reduce waste from appliances that are still practical to fix.",
+          "translation_cn": "维修补贴可减少仍值得修理的电器所形成的废物。"
+        },
+        {
+          "role": "机制一：相对成本改变选择",
+          "text": "A lower repair bill gives households a reason to keep an item when replacement would otherwise seem easier.",
+          "translation_cn": "维修费用降低，让原本可能图方便更换物品的家庭更愿保留它。"
+        },
+        {
+          "role": "例子：不编统计的具体情况",
+          "text": "For instance, replacing a faulty switch may let a serviceable lamp remain in use.",
+          "translation_cn": "例如更换坏掉的开关，可能使仍可用的台灯继续使用。"
+        },
+        {
+          "role": "机制二与结果：连接到废弃量",
+          "text": "This delays disposal and avoids replacing the whole product for one damaged component.",
+          "translation_cn": "这会延后丢弃，避免因一个部件损坏就更换整件产品。"
+        },
+        {
+          "role": "边界与回扣：保留另一措施的用途",
+          "text": "The benefit depends on reliable services and available parts, however, so repair support should complement facilities for items that cannot safely or economically be restored.",
+          "translation_cn": "但这依赖可靠服务和配件，因此维修支持仍需配合处理无法安全或经济修复之物的设施。"
+        }
+      ],
+      "source_url": "https://www.e-world.cc/ielts-essay-body-paragraph-development.html",
+      "access_type": "机构公开教学正文直接读取；非页面AI摘要替代全文",
+      "source_note": "仅参考先观点、解释机制、用例子说明并回扣任务的方法；题目和段落独立编写。"
+    },
+    {
+      "id": "T2-P04",
+      "title": "政府与工作：年度招聘会与每周工作坊",
+      "theme": "政府与工作",
+      "prompt": "Some towns use public money to host one large careers fair each year. Others fund small weekly employment workshops throughout the year. Discuss both approaches and give your own opinion.",
+      "task_prompt": "Some towns use public money to host one large careers fair each year. Others fund small weekly employment workshops throughout the year. Discuss both approaches and give your own opinion.",
+      "original_practice": true,
+      "source_status": "编者原创练习题与主体段，不是真题回忆、不是他人范文。",
+      "position_cn": "本段支持每周工作坊的持续帮助；另一段可讨论大型招聘会集中接触雇主的优势。",
+      "points_cn": [
+        "比较同一用途下的不同服务安排。",
+        "机制：反馈到来时间不同→需要能及时修改。",
+        "具体例子展示怎样利用多次服务。",
+        "承认持续人员成本，不因频次多就自动判好。"
+      ],
+      "paragraph_en": "Weekly employment workshops can provide more useful support for active jobseekers than an annual fair. Applications produce feedback at different times, so advice is most useful when people can act on it during their current search. For example, a resident whose applications repeatedly fail could return the next week with a revised CV and discuss what remains unclear. This repeated support helps turn general advice into concrete improvements. Although it needs regular staffing, it addresses a recurring task rather than relying on one opportunity each year.",
+      "word_count": 86,
+      "sentences": [
+        {
+          "role": "观点与比较对象",
+          "text": "Weekly employment workshops can provide more useful support for active jobseekers than an annual fair.",
+          "translation_cn": "对正在持续求职的人，每周工作坊可能比年度招聘会提供更实用的支持。"
+        },
+        {
+          "role": "机制：时点与任务匹配",
+          "text": "Applications produce feedback at different times, so advice is most useful when people can act on it during their current search.",
+          "translation_cn": "申请反馈在不同时点到来，人们能在当次求职中据此行动时，建议最有用。"
+        },
+        {
+          "role": "例子：具体重复使用过程",
+          "text": "For example, a resident whose applications repeatedly fail could return the next week with a revised CV and discuss what remains unclear.",
+          "translation_cn": "例如申请接连失败的居民，可下周带着修改过的简历再来讨论仍不清楚之处。"
+        },
+        {
+          "role": "结果：解释重复服务的价值",
+          "text": "This repeated support helps turn general advice into concrete improvements.",
+          "translation_cn": "这样的持续支持有助于把一般建议变成具体改进。"
+        },
+        {
+          "role": "权衡与回扣",
+          "text": "Although it needs regular staffing, it addresses a recurring task rather than relying on one opportunity each year.",
+          "translation_cn": "虽然需要持续人员投入，但它回应的是反复发生的任务，而非依赖每年一次机会。"
+        }
+      ],
+      "source_url": "https://www.e-world.cc/ielts-essay-body-paragraph-development.html",
+      "access_type": "机构公开教学正文直接读取；非页面AI摘要替代全文",
+      "source_note": "仅参考先观点、解释机制、用例子说明并回扣任务的方法；题目和段落独立编写。"
+    }
+  ]
+}
