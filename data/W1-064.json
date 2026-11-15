@@ -1,0 +1,70 @@
+{
+  "id": "W1-064",
+  "task": 1,
+  "title": "七国男女退休年龄：小幅变化与例外",
+  "prompt": "Compare the average retirement ages of men and women in seven countries in 2004 and 2008. The independently drawn charts use approximate readings; identify the main country, gender and time contrasts.",
+  "source_group": "recall",
+  "source_url": "https://ieltswritingpractice.app/zh/questions/academic-task-1/average-retirement-age-in-seven-countries/",
+  "data": {
+    "countries": [
+      "Denmark",
+      "France",
+      "Germany",
+      "Italy",
+      "Netherlands",
+      "Sweden",
+      "UK"
+    ],
+    "years": [
+      2004,
+      2008
+    ],
+    "men": [
+      [
+        62,
+        58.6,
+        61,
+        60,
+        62.6,
+        63.2,
+        62.4
+      ],
+      [
+        62.4,
+        59,
+        62,
+        60,
+        63,
+        63.6,
+        62.8
+      ]
+    ],
+    "women": [
+      [
+        59.7,
+        58.5,
+        60.3,
+        59.6,
+        62,
+        62.7,
+        61
+      ],
+      [
+        60.3,
+        58.5,
+        61,
+        59.2,
+        62.4,
+        63.4,
+        61.6
+      ]
+    ],
+    "approximate": true
+  },
+  "exam_date": "2026-10-31",
+  "exam_mode": "reported-computer",
+  "source_status": "实际查看公开完整题图后独立重绘；图中近似读数均有标注。英文任务与指导另写，非官方核实原题。Tram逐场记录同题日期标注comp；图上没有数值标签，重绘保留近似读数说明。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-064.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-064.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-064.html"
+}

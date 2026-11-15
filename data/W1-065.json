@@ -1,0 +1,49 @@
+{
+  "id": "W1-065",
+  "task": 1,
+  "title": "博物馆1998与2008：展厅与访客服务",
+  "prompt": "Describe the changes to the museum layout between 1998 and 2008, including facilities that moved, newly introduced amenities and the areas that remained in use. The independent plans are schematic.",
+  "source_group": "recall",
+  "source_url": "https://ieltswritingpractice.app/zh/questions/academic-task-1/museum-floor-plan-1998-and-2008/",
+  "data": {
+    "1998": {
+      "top_centre": "cafe",
+      "centre": "garden",
+      "left": "permanent exhibition rooms",
+      "right": "permanent exhibition rooms",
+      "bottom_left": "temporary exhibition room",
+      "bottom_centre": "tickets / entrance / exit",
+      "bottom_right": [
+        "shop",
+        "WC",
+        "bags and coats"
+      ]
+    },
+    "2008": {
+      "top_left": "restaurant",
+      "top_centre": [
+        "cafe",
+        "WC"
+      ],
+      "centre": [
+        "garden",
+        "cafe sitting area",
+        "fountains"
+      ],
+      "left_middle": "temporary exhibition room",
+      "right": "permanent exhibition rooms",
+      "bottom_left": [
+        "bags and coats",
+        "shop"
+      ],
+      "bottom_centre": "tickets / entrance / exit"
+    },
+    "scale": "not to scale; no compass is given"
+  },
+  "exam_date": "2026-09-10",
+  "exam_mode": "reported-computer",
+  "source_status": "实际查看公开完整题图后独立重绘；图中近似读数均有标注。英文任务与指导另写，非官方核实原题。机考日期按Tram逐场记录；题图在另一汇总页也被报告于10月18日，不把两个日期计为两题。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-065.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-065.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-065.html"
+}

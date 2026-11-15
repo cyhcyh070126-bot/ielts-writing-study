@@ -1,0 +1,29 @@
+{
+  "id": "W1-062",
+  "task": 1,
+  "title": "陶罐生产：干燥、烧制和着色",
+  "prompt": "Explain the sequence used to manufacture ceramic pots, beginning with raw-material collection and ending with the finished coloured products. Report the stated drying time and firing temperature.",
+  "source_group": "recall",
+  "source_url": "https://ieltswritingpractice.app/zh/questions/academic-task-1/manufacturing-process-of-ceramic-pots/",
+  "data": {
+    "stages": [
+      "Dig raw materials from the ground",
+      "Transport raw materials by truck to the factory",
+      "Crush the materials",
+      "Mix the crushed material",
+      "Put the mixture into moulds",
+      "Dry for 4-6 hours",
+      "Remove / assemble clay pots",
+      "Fire in an oven at 1,000°C",
+      "Add colour",
+      "Colour firing",
+      "Finished pots"
+    ]
+  },
+  "exam_date": "2026-10-15",
+  "exam_mode": "not-confirmed",
+  "source_status": "实际查看公开完整题图后独立重绘；图中近似读数均有标注。英文任务与指导另写，非官方核实原题。本题详情页报告近期考题日期，但未确认该场考试模式。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-062.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-062.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-062.html"
+}

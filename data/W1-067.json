@@ -1,0 +1,56 @@
+{
+  "id": "W1-067",
+  "task": 1,
+  "title": "电影发行与票房份额：不同指标的排名",
+  "prompt": "Compare the shares of films released and cinema ticket sales for four genres in one country in 1996 and 2000. Values in the independent redraw are approximate readings of the publicly reported figure.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "years": [
+      1996,
+      2000
+    ],
+    "films_released": [
+      [
+        27,
+        20,
+        12,
+        5
+      ],
+      [
+        35,
+        25,
+        16,
+        5
+      ]
+    ],
+    "ticket_sales": [
+      [
+        16,
+        20,
+        3,
+        5
+      ],
+      [
+        17,
+        23,
+        7,
+        2
+      ]
+    ],
+    "approximate": true,
+    "scope": "four selected genres, not the complete market"
+  },
+  "exam_date": "2026-11-08",
+  "exam_mode": "reported-computer",
+  "source_status": "实际查看公开完整题图后独立重绘；图中近似读数均有标注。英文任务与指导另写，非官方核实原题。图中柱高按刻度约读，保留approximate标记；不补未显示的其他电影类别。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-067.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-067.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-067.html"
+}

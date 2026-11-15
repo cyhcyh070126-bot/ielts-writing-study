@@ -1,0 +1,60 @@
+{
+  "id": "W1-066",
+  "task": 1,
+  "title": "驾照持有率：总体与17—20岁组",
+  "prompt": "Compare the male and female driving-licence percentages in a European country across 1967–2006, together with the figures for young drivers aged 17–20 in 1996 and 2006. Summarise the principal contrasts in the two charts.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "overall": {
+      "years": [
+        1967,
+        1981,
+        1986,
+        1991,
+        1996,
+        2001,
+        2006
+      ],
+      "men": [
+        70,
+        70,
+        72,
+        75,
+        78,
+        79,
+        80
+      ],
+      "women": [
+        30,
+        35,
+        40,
+        44,
+        50,
+        53,
+        60
+      ]
+    },
+    "young": {
+      "years": [
+        1996,
+        2006
+      ],
+      "men": [
+        50,
+        45
+      ],
+      "women": [
+        28,
+        20
+      ]
+    },
+    "unit": "percentage; retain each chart's population definition"
+  },
+  "exam_date": "2026-11-10",
+  "exam_mode": "reported-computer",
+  "source_status": "实际查看公开完整题图后独立重绘；图中近似读数均有标注。英文任务与指导另写，非官方核实原题。全部柱顶标签从机构回忆图逐一核对；国家未命名，不自行补国名。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-066.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-066.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-066.html"
+}

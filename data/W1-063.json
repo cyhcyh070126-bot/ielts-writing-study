@@ -1,0 +1,35 @@
+{
+  "id": "W1-063",
+  "task": 1,
+  "title": "简易滤水器：滤层、软管与储水桶",
+  "prompt": "Describe the structure of the simple filter and trace how impure water moves through the filtering materials to the drinking-water storage tank and tap.",
+  "source_group": "recall",
+  "source_url": "https://ieltswritingpractice.app/zh/questions/academic-task-1/simple-water-filter-construction-and-function/",
+  "data": {
+    "filter_layers_top_to_bottom": [
+      "sand",
+      "charcoal",
+      "gravel"
+    ],
+    "components": [
+      "barrel",
+      "lid",
+      "hose / pipe",
+      "drinking-water storage tank",
+      "tap"
+    ],
+    "water_route": [
+      "poured from above",
+      "passes through layers",
+      "collected from bottom via pipe",
+      "stored in second tank",
+      "drawn from tap"
+    ]
+  },
+  "exam_date": "2026-10-15",
+  "exam_mode": "not-confirmed",
+  "source_status": "实际查看公开完整题图后独立重绘；图中近似读数均有标注。英文任务与指导另写，非官方核实原题。详情页报告日期，考试形式未确认；这是装置描述练习，不是饮水处理建议。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-063.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-063.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-063.html"
+}

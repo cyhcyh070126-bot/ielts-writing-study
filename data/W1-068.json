@@ -1,0 +1,61 @@
+{
+  "id": "W1-068",
+  "task": 1,
+  "title": "六国垃圾产量：缺失值与总体比较",
+  "prompt": "Compare waste production in six countries in 1980, 1990 and 2000, measured in millions of tonnes. An asterisk marks an unavailable figure. Identify the main changes without treating missing data as zero.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "years": [
+      1980,
+      1990,
+      2000
+    ],
+    "unit": "million tonnes",
+    "rows": [
+      [
+        "Ireland",
+        "0.6",
+        "*",
+        "5"
+      ],
+      [
+        "Japan",
+        "28",
+        "32",
+        "53"
+      ],
+      [
+        "Korea",
+        "*",
+        "31",
+        "19"
+      ],
+      [
+        "Poland",
+        "4",
+        "5",
+        "6.6"
+      ],
+      [
+        "Portugal",
+        "2",
+        "3",
+        "5"
+      ],
+      [
+        "US",
+        "131",
+        "151",
+        "192"
+      ]
+    ],
+    "missing_value": "* = figure not available"
+  },
+  "exam_date": "2026-11-06",
+  "exam_mode": "reported-computer",
+  "source_status": "实际查看公开完整题图后独立重绘；图中近似读数均有标注。英文任务与指导另写，非官方核实原题。与剑雅旧题有重合；此条按机构明确标注的机考回忆收录，不冒充官方考场扫描件。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-068.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-068.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-068.html"
+}
