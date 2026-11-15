@@ -1,0 +1,41 @@
+{
+  "id": "W1-033",
+  "task": 1,
+  "title": "纽约人口：总量与行政区份额",
+  "prompt": "Compare the population of New York City, Manhattan and the other four districts combined in 1800, 1900 and 2000, using both resident totals and shares. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 20 Academic · Test 1 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-20-test-1-writing-task-1",
+  "data": {
+    "rows": [
+      [
+        "1800",
+        "79,216",
+        "60,515",
+        "76%",
+        "18,701",
+        "24%"
+      ],
+      [
+        "1900",
+        "3,437,202",
+        "1,850,093",
+        "54%",
+        "1,587,109",
+        "46%"
+      ],
+      [
+        "2000",
+        "8,009,185",
+        "1,538,096",
+        "19%",
+        "6,471,089",
+        "81%"
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-033.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-033.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-033.html"
+}

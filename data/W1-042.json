@@ -1,0 +1,21 @@
+{
+  "id": "W1-042",
+  "task": 1,
+  "title": "鲑鱼生命周期",
+  "prompt": "Describe the salmon life cycle, including habitats, approximate durations and fish sizes. Show the return to the original habitat.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 10 Academic · Test 4 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-10-test-4-writing-task-1",
+  "data": {
+    "stages": [
+      "Eggs among reeds and small stones in the slow upper river: about 5-6 months",
+      "Fry, 3-8 cm, move to the fast-flowing lower river: about 4 years",
+      "Smolt, 12-15 cm, migrate to the open sea: about 5 years",
+      "Adult salmon, 70-76 cm, return upstream to reproduce"
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-042.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-042.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-042.html"
+}

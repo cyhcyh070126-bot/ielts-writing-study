@@ -1,0 +1,33 @@
+{
+  "id": "W1-041",
+  "task": 1,
+  "title": "毕业生和研究生的非全职去向",
+  "prompt": "Compare the destinations of UK graduates and postgraduates who did not enter full-time work after college in 2008. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 10 Academic · Test 3 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-10-test-3-writing-task-1",
+  "data": {
+    "categories": [
+      "Part-time work",
+      "Voluntary work",
+      "Further study",
+      "Unemployment"
+    ],
+    "graduates": [
+      17735,
+      3500,
+      29665,
+      16235
+    ],
+    "postgraduates": [
+      2535,
+      345,
+      2725,
+      1625
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-041.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-041.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-041.html"
+}

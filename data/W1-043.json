@@ -1,0 +1,59 @@
+{
+  "id": "W1-043",
+  "task": 1,
+  "title": "美国快餐消费频率",
+  "prompt": "Compare how often people in the USA ate at fast-food restaurants in 2003, 2006 and 2013. Values in this redraw are approximate percentages. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 12 Academic · Test 3 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-12-test-3-writing-task-1",
+  "data": {
+    "categories": [
+      "Every day",
+      "Several times / week",
+      "Once / week",
+      "1-2 times / month",
+      "Few times / year",
+      "Never"
+    ],
+    "series": [
+      [
+        "2003",
+        [
+          4,
+          17,
+          31,
+          30,
+          13,
+          5
+        ]
+      ],
+      [
+        "2006",
+        [
+          3,
+          20,
+          33,
+          25,
+          15,
+          4
+        ]
+      ],
+      [
+        "2013",
+        [
+          3,
+          16,
+          28,
+          33,
+          15,
+          5
+        ]
+      ]
+    ],
+    "approximate": true
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-043.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-043.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-043.html"
+}

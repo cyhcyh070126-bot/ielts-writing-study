@@ -1,0 +1,53 @@
+<svg role="img" aria-label="上网用途｜官方数据改编" width="350" height="335" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 335" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="335"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-335)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="4" y="320" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,640) scale(1,-1)">Four selected internet activities, 2013</text>
+			<text x="4" y="300" style="font-family: V17CN; font-size: 10px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,600) scale(1,-1)">ONS公开数据改编练习图，非考场原图</text>
+			<text x="4" y="281" style="font-family: Helvetica; font-size: 10.2px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,562) scale(1,-1)">Adults aged 16+ in Great Britain</text>
+			<rect x="5" y="260" width="11" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,87%,83%); fill-rule: evenodd;"/>
+			<text x="22" y="260" style="font-family: Helvetica; font-size: 10.2px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,520) scale(1,-1)">Men</text>
+			<rect x="99" y="260" width="11" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,55%,36%); fill-rule: evenodd;"/>
+			<text x="116" y="260" style="font-family: Helvetica; font-size: 10.2px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,520) scale(1,-1)">Women</text>
+			<path d="M 119,78 L 119,250 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="112.4975" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,124) scale(1,-1)">0%</text>
+			<path d="M 170.75,78 L 170.75,250 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="161.7455" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,124) scale(1,-1)">20%</text>
+			<path d="M 222.5,78 L 222.5,250 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="213.4955" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,124) scale(1,-1)">40%</text>
+			<path d="M 274.25,78 L 274.25,250 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="265.2455" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,124) scale(1,-1)">60%</text>
+			<path d="M 326,78 L 326,250 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="316.9955" y="62" style="font-family: Helvetica; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,124) scale(1,-1)">80%</text>
+			<text x="5" y="241" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,482) scale(1,-1)">Sending/receiving</text>
+			<text x="5" y="228" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,456) scale(1,-1)">emails</text>
+			<rect x="119" y="238" width="201.825" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,87%,83%); fill-rule: evenodd;"/>
+			<text x="324.825" y="240" style="font-family: Helvetica-Bold; font-size: 9.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,480) scale(1,-1)">78%</text>
+			<rect x="119" y="223" width="186.3" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,55%,36%); fill-rule: evenodd;"/>
+			<text x="309.3" y="225" style="font-family: Helvetica-Bold; font-size: 9.6px;fill: rgb(84%,55%,36%); stroke:none;" transform="translate(0,450) scale(1,-1)">72%</text>
+			<text x="5" y="195" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,390) scale(1,-1)">Online news</text>
+			<rect x="119" y="192" width="155.25" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,87%,83%); fill-rule: evenodd;"/>
+			<text x="278.25" y="194" style="font-family: Helvetica-Bold; font-size: 9.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">60%</text>
+			<rect x="119" y="177" width="126.7875" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,55%,36%); fill-rule: evenodd;"/>
+			<text x="249.7875" y="179" style="font-family: Helvetica-Bold; font-size: 9.6px;fill: rgb(84%,55%,36%); stroke:none;" transform="translate(0,358) scale(1,-1)">49%</text>
+			<text x="5" y="149" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,298) scale(1,-1)">Health information</text>
+			<rect x="119" y="146" width="100.9125" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,87%,83%); fill-rule: evenodd;"/>
+			<text x="223.9125" y="148" style="font-family: Helvetica-Bold; font-size: 9.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,296) scale(1,-1)">39%</text>
+			<rect x="119" y="131" width="119.025" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,55%,36%); fill-rule: evenodd;"/>
+			<text x="242.025" y="133" style="font-family: Helvetica-Bold; font-size: 9.6px;fill: rgb(84%,55%,36%); stroke:none;" transform="translate(0,266) scale(1,-1)">46%</text>
+			<text x="5" y="103" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,206) scale(1,-1)">Job seeking</text>
+			<rect x="119" y="100" width="64.6875" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,87%,83%); fill-rule: evenodd;"/>
+			<text x="187.6875" y="102" style="font-family: Helvetica-Bold; font-size: 9.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,204) scale(1,-1)">25%</text>
+			<rect x="119" y="85" width="56.92500000000001" height="11" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,55%,36%); fill-rule: evenodd;"/>
+			<text x="179.925" y="87" style="font-family: Helvetica-Bold; font-size: 9.6px;fill: rgb(84%,55%,36%); stroke:none;" transform="translate(0,174) scale(1,-1)">22%</text>
+			<path d="M 119,78 L 119,250 Z" style="stroke: rgb(87%,87%,83%); stroke-linecap: butt; stroke-width: 0.8;"/>
+			<text x="4" y="42" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,84) scale(1,-1)">Each bar is a percentage of all adults of that sex.</text>
+			<text x="4" y="25" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,50) scale(1,-1)">Four activities selected from ONS Table 2 (2013).</text>
+			<text x="4" y="9" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,18) scale(1,-1)">Activities overlap: the percentages should not total 100%.</text>
+		</g>
+	</g>
+<title>上网用途｜官方数据改编</title></svg>

@@ -1,0 +1,48 @@
+{
+  "id": "W1-039",
+  "task": 1,
+  "title": "博物馆翻修：访客总量和满意度",
+  "prompt": "Compare attendance at Ashdown Museum before and after refurbishment and the corresponding visitor satisfaction distributions. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 11 Academic · Test 4 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-11-test-4-writing-task-1",
+  "data": {
+    "attendance": [
+      74000,
+      92000
+    ],
+    "categories": [
+      "Very satisfied",
+      "Satisfied",
+      "Dissatisfied",
+      "Very dissatisfied",
+      "No response"
+    ],
+    "panels": [
+      [
+        "Before",
+        [
+          15,
+          30,
+          40,
+          10,
+          5
+        ]
+      ],
+      [
+        "After",
+        [
+          35,
+          40,
+          15,
+          5,
+          5
+        ]
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-039.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-039.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-039.html"
+}

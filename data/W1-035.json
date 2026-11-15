@@ -1,0 +1,26 @@
+{
+  "id": "W1-035",
+  "task": 1,
+  "title": "竹子制衣：农业阶段到制造阶段",
+  "prompt": "Explain how bamboo is grown and processed to produce fabric and clothing. Describe the principal phases and the order of the nine stages.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 20 Academic · Test 4 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-20-test-4-writing-task-1",
+  "data": {
+    "stages": [
+      "Plant bamboo in spring",
+      "Harvest bamboo in autumn",
+      "Cut stems into strips",
+      "Crush strips to make liquid pulp",
+      "Filter to separate long fibres",
+      "Soften fibres using water and amine oxide",
+      "Spin softened fibres into yarn",
+      "Weave yarn into fabric",
+      "Make clothing such as T-shirts and socks"
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-035.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-035.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-035.html"
+}

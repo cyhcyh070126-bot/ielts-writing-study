@@ -1,0 +1,40 @@
+{
+  "id": "W1-059",
+  "task": 1,
+  "title": "不同部门用电份额变化",
+  "prompt": "Compare the shares of electricity consumption accounted for by four sectors in a fictional region in 2007 and 2017. Figures have been created for this practice exercise.",
+  "source_group": "practice",
+  "source_url": "https://ieltsactualtests.com/ielts-writing-recalls/2026-06",
+  "data": {
+    "categories": [
+      "Industry",
+      "Homes",
+      "Transport",
+      "Other"
+    ],
+    "panels": [
+      [
+        "2007",
+        [
+          45,
+          30,
+          15,
+          10
+        ]
+      ],
+      [
+        "2017",
+        [
+          38,
+          32,
+          22,
+          8
+        ]
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-059.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-059.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-059.html"
+}

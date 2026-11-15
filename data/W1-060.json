@@ -1,0 +1,51 @@
+{
+  "id": "W1-060",
+  "task": 1,
+  "title": "产业就业份额及预测",
+  "prompt": "Compare the percentage distribution of employment across five industries in 2010 and 2020, with a forecast for 2030. The region and figures are fictional. Summarise the main patterns and comparisons.",
+  "source_group": "practice",
+  "data": {
+    "years": [
+      2010,
+      2020,
+      2030
+    ],
+    "rows": [
+      [
+        "Manufacturing",
+        28,
+        19,
+        15
+      ],
+      [
+        "Retail",
+        22,
+        20,
+        17
+      ],
+      [
+        "Education",
+        18,
+        23,
+        25
+      ],
+      [
+        "Healthcare",
+        17,
+        24,
+        29
+      ],
+      [
+        "Other",
+        15,
+        14,
+        14
+      ]
+    ],
+    "forecast_from": 2030
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-060.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-060.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-060.html"
+}

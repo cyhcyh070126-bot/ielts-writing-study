@@ -1,0 +1,45 @@
+{
+  "id": "W1-048",
+  "task": 1,
+  "title": "悉尼双折线｜自编练习，非考场原图",
+  "prompt": "You should spend about 20 minutes on this task. The two line graphs show annual passenger journeys on Sydney trains, in millions, and the percentage of train services arriving on time in five selected years between 2015 and 2023. All figures have been invented for this practice task. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "years": [
+      2015,
+      2017,
+      2019,
+      2021,
+      2023
+    ],
+    "annual_passenger_journeys_millions": [
+      300,
+      340,
+      380,
+      220,
+      360
+    ],
+    "trains_arriving_on_time_percent": [
+      90,
+      88,
+      86,
+      94,
+      89
+    ],
+    "punctuality_denominator": "train services, not passengers",
+    "passenger_axis": [
+      0,
+      400
+    ],
+    "punctuality_axis": [
+      80,
+      100
+    ],
+    "all_years_values_and_definitions_invented": true,
+    "source_theme": "X16-04; original post supplies no years or figures"
+  },
+  "source_status": "本套图、数据及英文练习由编者撰写；不是回忆原图。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-048.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-048.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-048.html"
+}

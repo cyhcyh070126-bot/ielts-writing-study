@@ -1,0 +1,48 @@
+<svg role="img" aria-label="课程饼图｜份额不等于人数" width="350" height="340" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 340" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="340"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-340)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="3" y="324" style="font-family: Helvetica-Bold; font-size: 10.9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,648) scale(1,-1)">Adult education: share of courses offered</text>
+			<text x="3" y="303" style="font-family: V18CN; font-size: 10px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,606) scale(1,-1)">据回忆主题自编练习图，非考场原图</text>
+			<text x="3" y="282" style="font-family: Helvetica; font-size: 9.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,564) scale(1,-1)">All subject categories and values are original practice data.</text>
+			<text x="73.656" y="262" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,524) scale(1,-1)">1985</text>
+			<path d="M 87,180 L 33.740835,162.695048 A 56,56 0 0 0 87,236 L 87,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(87%,87%,83%); fill-rule: evenodd;"/>
+			<text x="17.019075421878945" y="221.0838939219355" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,442) scale(1,-1)">30%</text>
+			<path d="M 87,180 L 104.304952,126.740835 A 56,56 0 0 0 33.740835,162.695048 L 87,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(36%,79%,84%); fill-rule: evenodd;"/>
+			<text x="43.64606251953398" y="110.17451068587242" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,220) scale(1,-1)">25%</text>
+			<path d="M 87,180 L 119.915974,134.695048 A 56,56 0 0 0 104.304952,126.740835 L 87,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(84%,55%,36%); fill-rule: evenodd;"/>
+			<text x="114.330037480466" y="110.1745106858724" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,220) scale(1,-1)">5%</text>
+			<path d="M 87,180 L 143,180 A 56,56 0 0 0 119.915974,134.695048 L 87,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(58%,69%,50%); fill-rule: evenodd;"/>
+			<text x="144.52083931412758" y="142.95071251953397" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,285) scale(1,-1)">15%</text>
+			<path d="M 87,180 L 87,236 A 56,56 0 0 0 143,180 L 87,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(61%,54%,65%); fill-rule: evenodd;"/>
+			<text x="130.72835858899106" y="230.03300858899104" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,460) scale(1,-1)">25%</text>
+			<text x="248.656" y="262" style="font-family: Helvetica-Bold; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,524) scale(1,-1)">2015</text>
+			<path d="M 262,180 L 208.740835,197.304952 A 56,56 0 0 0 262,236 L 262,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(87%,87%,83%); fill-rule: evenodd;"/>
+			<text x="208.61145607806452" y="237.67627457812105" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,475) scale(1,-1)">20%</text>
+			<path d="M 262,180 L 216.695048,147.084026 A 56,56 0 0 0 208.740835,197.304952 L 262,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(36%,79%,84%); fill-rule: evenodd;"/>
+			<text x="178.61872445536466" y="165.2674151219827" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,330) scale(1,-1)">15%</text>
+			<path d="M 262,180 L 315.259165,162.695048 A 56,56 0 0 0 216.695048,147.084026 L 262,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(84%,55%,36%); fill-rule: evenodd;"/>
+			<text x="264.4279348780173" y="102.92337445536467" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,205) scale(1,-1)">35%</text>
+			<path d="M 262,180 L 294.915974,225.304952 A 56,56 0 0 0 315.259165,162.695048 L 262,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(58%,69%,50%); fill-rule: evenodd;"/>
+			<text x="324.02458872213657" y="200.17627457812102" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,400) scale(1,-1)">20%</text>
+			<path d="M 262,180 L 262,236 A 56,56 0 0 0 294.915974,225.304952 L 262,180 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.9; fill: rgb(61%,54%,65%); fill-rule: evenodd;"/>
+			<text x="275.8716245781211" y="248.3292387221365" style="font-family: Helvetica-Bold; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,496) scale(1,-1)">10%</text>
+			<rect x="8" y="83" width="10" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(87%,87%,83%); fill-rule: evenodd;"/>
+			<text x="24" y="84" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,168) scale(1,-1)">Languages</text>
+			<rect x="180" y="83" width="10" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,79%,84%); fill-rule: evenodd;"/>
+			<text x="196" y="84" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,168) scale(1,-1)">Arts</text>
+			<rect x="8" y="64" width="10" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,55%,36%); fill-rule: evenodd;"/>
+			<text x="24" y="65" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,130) scale(1,-1)">Computing</text>
+			<rect x="180" y="64" width="10" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(58%,69%,50%); fill-rule: evenodd;"/>
+			<text x="196" y="65" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,130) scale(1,-1)">Business</text>
+			<rect x="8" y="45" width="10" height="10" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(61%,54%,65%); fill-rule: evenodd;"/>
+			<text x="24" y="46" style="font-family: Helvetica; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,92) scale(1,-1)">Practical skills</text>
+			<text x="3" y="24" style="font-family: Helvetica; font-size: 9.0px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,48) scale(1,-1)">2015 is an editor-chosen practice year; each pie totals 100%.</text>
+			<text x="3" y="9" style="font-family: Helvetica; font-size: 8.9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,18) scale(1,-1)">These are course shares, not student numbers or enrolment shares.</text>
+		</g>
+	</g>
+<title>课程饼图｜份额不等于人数</title></svg>

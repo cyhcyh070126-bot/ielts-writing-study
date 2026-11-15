@@ -1,0 +1,65 @@
+{
+  "id": "W1-038",
+  "task": 1,
+  "title": "四国人均二氧化碳排放",
+  "prompt": "Compare average CO2 emissions per person in the UK, Sweden, Italy and Portugal from 1967 to 2007. Readings in the study redraw are approximate. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 11 Academic · Test 3 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-11-test-3-writing-task-1",
+  "data": {
+    "years": [
+      1967,
+      1977,
+      1987,
+      1997,
+      2007
+    ],
+    "series": [
+      [
+        "UK",
+        [
+          10.8,
+          10.7,
+          10.2,
+          9.5,
+          8.8
+        ]
+      ],
+      [
+        "Sweden",
+        [
+          8.5,
+          10.2,
+          7,
+          6,
+          5.5
+        ]
+      ],
+      [
+        "Italy",
+        [
+          4.2,
+          6.3,
+          6.7,
+          7.5,
+          7.5
+        ]
+      ],
+      [
+        "Portugal",
+        [
+          1.1,
+          2,
+          3.2,
+          5.2,
+          5.5
+        ]
+      ]
+    ],
+    "approximate": true
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-038.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-038.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-038.html"
+}

@@ -1,0 +1,52 @@
+<svg role="img" aria-label="文字表｜没有数字也能比较" width="350" height="333" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 333" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="333"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-333)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="3" y="317" style="font-family: Helvetica-Bold; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,634) scale(1,-1)">Consumer actions and their intended mechanisms</text>
+			<text x="3" y="295" style="font-family: V18CN; font-size: 10px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,590) scale(1,-1)">据回忆主题自编练习表，非考场原表</text>
+			<text x="3" y="275" style="font-family: Helvetica; font-size: 9.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,550) scale(1,-1)">Original information table: no numerical measurements</text>
+			<rect x="0" y="225" width="350" height="32" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="7" y="237" style="font-family: Helvetica-Bold; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,474) scale(1,-1)">Action</text>
+			<text x="111" y="237" style="font-family: Helvetica-Bold; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,474) scale(1,-1)">When it applies</text>
+			<text x="228" y="237" style="font-family: Helvetica-Bold; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,474) scale(1,-1)">Intended mechanism</text>
+			<rect x="0" y="180" width="350" height="45" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="7" y="208" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,416) scale(1,-1)">Use a bus or</text>
+			<text x="7" y="194" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">share a ride</text>
+			<text x="111" y="208" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,416) scale(1,-1)">A suitable shared</text>
+			<text x="111" y="194" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">service is available</text>
+			<text x="228" y="208" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,416) scale(1,-1)">Replaces separate</text>
+			<text x="228" y="194" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">car journeys</text>
+			<rect x="0" y="135" width="350" height="45" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="7" y="163" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,326) scale(1,-1)">Choose efficient</text>
+			<text x="7" y="149" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,298) scale(1,-1)">lighting</text>
+			<text x="111" y="163" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,326) scale(1,-1)">Worn-out bulbs</text>
+			<text x="111" y="149" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,298) scale(1,-1)">need replacing</text>
+			<text x="228" y="163" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,326) scale(1,-1)">Uses less electricity</text>
+			<text x="228" y="149" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,298) scale(1,-1)">for the same light</text>
+			<rect x="0" y="90" width="350" height="45" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="7" y="118" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,236) scale(1,-1)">Repair durable</text>
+			<text x="7" y="104" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,208) scale(1,-1)">items</text>
+			<text x="111" y="118" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,236) scale(1,-1)">An item can</text>
+			<text x="111" y="104" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,208) scale(1,-1)">be repaired</text>
+			<text x="228" y="118" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,236) scale(1,-1)">Delays buying a</text>
+			<text x="228" y="104" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,208) scale(1,-1)">replacement product</text>
+			<rect x="0" y="45" width="350" height="45" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="7" y="73" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,146) scale(1,-1)">Plan food</text>
+			<text x="7" y="59" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,118) scale(1,-1)">purchases</text>
+			<text x="111" y="73" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,146) scale(1,-1)">Before shopping,</text>
+			<text x="111" y="59" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,118) scale(1,-1)">using a list</text>
+			<text x="228" y="73" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,146) scale(1,-1)">Avoids buying food</text>
+			<text x="228" y="59" style="font-family: Helvetica; font-size: 9.7px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,118) scale(1,-1)">unlikely to be used</text>
+			<path d="M 0,45 L 0,257 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<path d="M 104,45 L 104,257 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<path d="M 221,45 L 221,257 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<path d="M 350,45 L 350,257 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="3" y="27" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,54) scale(1,-1)">Rows and wording are invented for this summary exercise.</text>
+			<text x="3" y="10" style="font-family: Helvetica; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,20) scale(1,-1)">The table gives no percentages or effectiveness ranking.</text>
+		</g>
+	</g>
+<title>文字表｜没有数字也能比较</title></svg>

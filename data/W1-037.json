@@ -1,0 +1,47 @@
+{
+  "id": "W1-037",
+  "task": 1,
+  "title": "英国大学生的外语能力结构",
+  "prompt": "Compare the proportions of students at an English university in six language-ability groups in 2000 and 2010. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 11 Academic · Test 2 · Writing Task 1",
+  "source_url": "https://hasanboy.uz/wp-content/uploads/2018/06/Cambridge-Practice-Tests-for-IELTS-11.pdf",
+  "data": {
+    "categories": [
+      "No other language",
+      "French only",
+      "German only",
+      "Spanish only",
+      "Another language",
+      "Two other languages"
+    ],
+    "panels": [
+      [
+        "2000",
+        [
+          20,
+          15,
+          10,
+          30,
+          15,
+          10
+        ]
+      ],
+      [
+        "2010",
+        [
+          10,
+          10,
+          10,
+          35,
+          20,
+          15
+        ]
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-037.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-037.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-037.html"
+}

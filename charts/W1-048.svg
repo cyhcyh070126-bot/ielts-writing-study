@@ -1,0 +1,73 @@
+<svg role="img" aria-label="悉尼双折线｜自编练习，非考场原图" width="350" height="350" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 350" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="350"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-350)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="5" y="336" style="font-family: Helvetica-Bold; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,672) scale(1,-1)">Sydney trains | Invented observations</text>
+			<text x="5" y="316" style="font-family: V16CN; font-size: 10.2px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,632) scale(1,-1)">据回忆主题自编练习图，非考场原图</text>
+			<text x="5" y="299" style="font-family: Helvetica-Bold; font-size: 10.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,598) scale(1,-1)">Annual passenger journeys (millions)</text>
+			<path d="M 39,207 L 333,207 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="27.2184" y="204.0" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,408) scale(1,-1)">0</text>
+			<path d="M 39,225.5 L 333,225.5 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="17.6552" y="222.5" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,445) scale(1,-1)">100</text>
+			<path d="M 39,244 L 333,244 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="17.6552" y="241.0" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,482) scale(1,-1)">200</text>
+			<path d="M 39,262.5 L 333,262.5 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="17.6552" y="259.5" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,519) scale(1,-1)">300</text>
+			<path d="M 39,281 L 333,281 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="17.6552" y="278.0" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,556) scale(1,-1)">400</text>
+			<path d="M 39,207 L 39,281 Z" style="stroke: rgb(87%,87%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 39,207 L 333,207 Z" style="stroke: rgb(87%,87%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<polyline points="48 262.5, 115 269.9, 182 277.3, 249 247.7, 316 273.6" style="stroke: rgb(36%,79%,84%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<circle cx="48" cy="262.5" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(36%,79%,84%); fill-rule: evenodd;"/>
+			<text x="40.494" y="269.5" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,539) scale(1,-1)">300</text>
+			<circle cx="115" cy="269.9" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(36%,79%,84%); fill-rule: evenodd;"/>
+			<text x="107.494" y="256.9" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,513) scale(1,-1)">340</text>
+			<circle cx="182" cy="277.3" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(36%,79%,84%); fill-rule: evenodd;"/>
+			<text x="174.494" y="264.3" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,528) scale(1,-1)">380</text>
+			<circle cx="249" cy="247.7" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(36%,79%,84%); fill-rule: evenodd;"/>
+			<text x="241.494" y="254.7" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,509) scale(1,-1)">220</text>
+			<circle cx="316" cy="273.6" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(36%,79%,84%); fill-rule: evenodd;"/>
+			<text x="308.494" y="260.6" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(36%,79%,84%); stroke:none;" transform="translate(0,521) scale(1,-1)">360</text>
+			<text x="38.2144" y="193" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,386) scale(1,-1)">2015</text>
+			<text x="105.2144" y="193" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,386) scale(1,-1)">2017</text>
+			<text x="172.2144" y="193" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,386) scale(1,-1)">2019</text>
+			<text x="239.2144" y="193" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,386) scale(1,-1)">2021</text>
+			<text x="306.2144" y="193" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,386) scale(1,-1)">2023</text>
+			<text x="5" y="163" style="font-family: Helvetica-Bold; font-size: 10.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,326) scale(1,-1)">Train services arriving on time (%)</text>
+			<path d="M 39,69 L 333,69 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.436799999999998" y="66.0" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,132) scale(1,-1)">80</text>
+			<path d="M 39,88 L 333,88 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.436799999999998" y="85.0" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,170) scale(1,-1)">85</text>
+			<path d="M 39,107 L 333,107 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.436799999999998" y="104.0" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,208) scale(1,-1)">90</text>
+			<path d="M 39,126 L 333,126 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.436799999999998" y="123.0" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,246) scale(1,-1)">95</text>
+			<path d="M 39,145 L 333,145 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="17.6552" y="142.0" style="font-family: Helvetica; font-size: 8.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,284) scale(1,-1)">100</text>
+			<path d="M 39,69 L 39,145 Z" style="stroke: rgb(87%,87%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<path d="M 39,69 L 333,69 Z" style="stroke: rgb(87%,87%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<polyline points="48 107, 115 99.4, 182 91.8, 249 122.2, 316 103.2" style="stroke: rgb(84%,56%,36%); stroke-linecap: butt; stroke-width: 1.5; fill: None; fill-rule: evenodd;"/>
+			<circle cx="48" cy="107.0" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(84%,56%,36%); fill-rule: evenodd;"/>
+			<text x="38.9955" y="114.0" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(84%,56%,36%); stroke:none;" transform="translate(0,228) scale(1,-1)">90%</text>
+			<circle cx="115" cy="99.4" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(84%,56%,36%); fill-rule: evenodd;"/>
+			<text x="105.99549999999999" y="106.4" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(84%,56%,36%); stroke:none;" transform="translate(0,212) scale(1,-1)">88%</text>
+			<circle cx="182" cy="91.8" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(84%,56%,36%); fill-rule: evenodd;"/>
+			<text x="172.9955" y="98.8" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(84%,56%,36%); stroke:none;" transform="translate(0,197) scale(1,-1)">86%</text>
+			<circle cx="249" cy="122.2" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(84%,56%,36%); fill-rule: evenodd;"/>
+			<text x="239.9955" y="129.2" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(84%,56%,36%); stroke:none;" transform="translate(0,258) scale(1,-1)">94%</text>
+			<circle cx="316" cy="103.2" r="2.7" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.4; fill: rgb(84%,56%,36%); fill-rule: evenodd;"/>
+			<text x="306.9955" y="110.2" style="font-family: Helvetica-Bold; font-size: 9px;fill: rgb(84%,56%,36%); stroke:none;" transform="translate(0,220) scale(1,-1)">89%</text>
+			<text x="38.2144" y="55" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">2015</text>
+			<text x="105.2144" y="55" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">2017</text>
+			<text x="172.2144" y="55" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">2019</text>
+			<text x="239.2144" y="55" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">2021</text>
+			<text x="306.2144" y="55" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">2023</text>
+			<text x="5" y="35" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,70) scale(1,-1)">Punctuality axis: 80-100%. Journeys are not unique passengers.</text>
+			<text x="5" y="18" style="font-family: Helvetica; font-size: 8.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,36) scale(1,-1)">Years, values and indicator definitions are invented for practice.</text>
+		</g>
+	</g>
+<title>悉尼双折线｜自编练习，非考场原图</title></svg>

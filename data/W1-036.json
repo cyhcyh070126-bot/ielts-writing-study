@@ -1,0 +1,70 @@
+{
+  "id": "W1-036",
+  "task": 1,
+  "title": "六地区用水结构",
+  "prompt": "Compare how water use is divided between industry, agriculture and domestic purposes in six regions. Figures are percentages of water use, not quantities. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 11 Academic · Test 1 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-11-test-1-writing-task-1",
+  "data": {
+    "categories": [
+      "Industry",
+      "Agriculture",
+      "Domestic"
+    ],
+    "panels": [
+      [
+        "North America",
+        [
+          48,
+          39,
+          13
+        ]
+      ],
+      [
+        "South America",
+        [
+          10,
+          71,
+          19
+        ]
+      ],
+      [
+        "Europe",
+        [
+          53,
+          32,
+          15
+        ]
+      ],
+      [
+        "Africa",
+        [
+          7,
+          84,
+          9
+        ]
+      ],
+      [
+        "Central Asia",
+        [
+          5,
+          88,
+          7
+        ]
+      ],
+      [
+        "South East Asia",
+        [
+          12,
+          81,
+          7
+        ]
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-036.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-036.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-036.html"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "W1-056",
+  "task": 1,
+  "title": "社区学习中心未来改造",
+  "prompt": "Compare the present layout of the fictional community learning centre with its proposed redevelopment. Describe the main changes and retained features. The diagram is schematic.",
+  "source_group": "practice",
+  "data": {
+    "panels": [
+      [
+        "Current",
+        [
+          [
+            "Main entrance",
+            4,
+            78,
+            25,
+            16
+          ],
+          [
+            "Reading hall",
+            4,
+            10,
+            40,
+            45
+          ],
+          [
+            "Computer room",
+            51,
+            10,
+            42,
+            45
+          ],
+          [
+            "Corridor",
+            4,
+            58,
+            89,
+            14
+          ]
+        ]
+      ],
+      [
+        "Planned",
+        [
+          [
+            "Main entrance",
+            4,
+            78,
+            25,
+            16
+          ],
+          [
+            "Reading hall",
+            4,
+            10,
+            40,
+            45
+          ],
+          [
+            "Group rooms",
+            51,
+            10,
+            42,
+            25
+          ],
+          [
+            "Cafe",
+            51,
+            38,
+            42,
+            17
+          ],
+          [
+            "Corridor",
+            4,
+            58,
+            89,
+            14
+          ]
+        ]
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-056.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-056.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-056.html"
+}

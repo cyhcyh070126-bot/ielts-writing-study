@@ -1,0 +1,82 @@
+{
+  "id": "W1-052",
+  "task": 1,
+  "title": "男女就业｜确认表重绘",
+  "prompt": "You should spend about 20 minutes on this task. The table gives the percentages of working men and working women employed in four selected sectors in one town in 1990, 2000 and 2010. The figures have been independently redrawn from a comment table confirmed by a candidate and are not an official exam image. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "id": "T17-M03",
+    "key": "v17_employment",
+    "source_id": "X17-04",
+    "title": "男女就业类别｜据已确认评论表重绘",
+    "required_caption": "据考生确认表重绘，非官方原卷",
+    "chart_type": "actual compact table",
+    "years": [
+      1990,
+      2000,
+      2010
+    ],
+    "rows": [
+      {
+        "sector": "Retail/shops",
+        "men": [
+          13,
+          13,
+          13
+        ],
+        "women": [
+          7,
+          8,
+          9
+        ]
+      },
+      {
+        "sector": "Health",
+        "men": [
+          7,
+          7,
+          9
+        ],
+        "women": [
+          9,
+          11,
+          15
+        ]
+      },
+      {
+        "sector": "Manufacturing",
+        "men": [
+          30,
+          15,
+          10
+        ],
+        "women": [
+          7,
+          8,
+          3
+        ]
+      },
+      {
+        "sector": "Tourism",
+        "men": [
+          13,
+          10,
+          10
+        ],
+        "women": [
+          23,
+          25,
+          27
+        ]
+      }
+    ],
+    "unit": "percentage of working men / working women in one town",
+    "source_url": "https://www.xiaohongshu.com/explore/6aeaa857000000001f015966",
+    "image_file": "work/recall_sources_v17/xhs_employment_confirmed.webp",
+    "source_caution": "评论者教师贴图，作者回复确认是该题；来源页面称预测题目，不等于官方认证原图。数值清晰可读，独立表格重绘；每性别每年四项不合100，不能假称全部就业分布，也不能把13%男人误成全体人口13%。"
+  },
+  "source_status": "据考生确认表重绘，非官方原卷。作者确认教师评论表是同题；评论图来自教师预测练习网站，不等于官方认证。本表独立重绘四行业、男女、三年共24个清晰数值；不补其他行业。[X17-04]",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-052.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-052.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-052.html"
+}

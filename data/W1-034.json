@@ -1,0 +1,63 @@
+{
+  "id": "W1-034",
+  "task": 1,
+  "title": "图书馆会员、借阅构成与年度借阅量",
+  "prompt": "Describe Little Chalfont library membership by age and loan categories in 2016, together with annual loans between 2007 and 2016. The bar-series values in this study redraw are approximate. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 20 Academic · Test 3 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-20-test-3-writing-task-1",
+  "data": {
+    "ages": [
+      22,
+      15,
+      51,
+      12
+    ],
+    "categories": [
+      "Child fiction",
+      "Adult fiction",
+      "Adult non-fiction",
+      "Child non-fiction",
+      "Young adult books",
+      "Adult audio books",
+      "Child DVDs"
+    ],
+    "loans_shares": [
+      38,
+      38,
+      13,
+      6,
+      2,
+      2,
+      1
+    ],
+    "years": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "loans_approx": [
+      16000,
+      19000,
+      19500,
+      21000,
+      20500,
+      20500,
+      19500,
+      21000,
+      21000,
+      21500
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-034.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-034.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-034.html"
+}

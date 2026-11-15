@@ -1,0 +1,60 @@
+{
+  "id": "W1-047",
+  "task": 1,
+  "title": "加拿大三校表格｜自编，非考场原图",
+  "prompt": "You should spend about 20 minutes on this task. The table gives four percentage indicators for three fictional Canadian universities in 2025: lecturers holding a PhD, highly rated courses, student course completion and graduate employment six months after graduation. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "year": 2025,
+    "labels": [
+      "A",
+      "B",
+      "C"
+    ],
+    "labels_are_fictitious": true,
+    "indicators": [
+      {
+        "label": "Lecturers with a PhD",
+        "denominator": "lecturers",
+        "values": [
+          75,
+          90,
+          60
+        ]
+      },
+      {
+        "label": "Highly rated courses",
+        "denominator": "courses",
+        "values": [
+          80,
+          70,
+          90
+        ]
+      },
+      {
+        "label": "Course completion",
+        "denominator": "students",
+        "values": [
+          88,
+          92,
+          84
+        ]
+      },
+      {
+        "label": "Employed after 6 months",
+        "denominator": "graduates",
+        "values": [
+          82,
+          76,
+          88
+        ]
+      }
+    ],
+    "source_theme": "X16-01; original post supplies no table or values",
+    "all_percentages_are_invented": true
+  },
+  "source_status": "本套图、数据及英文练习由编者撰写；不是回忆原图。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-047.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-047.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-047.html"
+}

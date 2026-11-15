@@ -1,0 +1,49 @@
+{
+  "id": "W1-046",
+  "task": 1,
+  "title": "英格兰和威尔士自住与租住比例",
+  "prompt": "Compare home ownership and renting among households in England and Wales between 1918 and 2011. The redraw uses approximate whole-percentage readings. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 13 Academic · Test 2 · Writing Task 1",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-13-academic/",
+  "data": {
+    "years": [
+      1918,
+      1939,
+      1953,
+      1961,
+      1971,
+      1981,
+      1991,
+      2001,
+      2011
+    ],
+    "owned": [
+      22,
+      31,
+      32,
+      42,
+      50,
+      60,
+      68,
+      69,
+      64
+    ],
+    "rented": [
+      78,
+      69,
+      68,
+      58,
+      50,
+      40,
+      32,
+      31,
+      36
+    ],
+    "approximate": true
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-046.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-046.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-046.html"
+}

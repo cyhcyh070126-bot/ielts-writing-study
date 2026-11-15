@@ -1,0 +1,40 @@
+{
+  "id": "W1-058",
+  "task": 1,
+  "title": "公交准点率目标与乘客投诉",
+  "prompt": "Compare actual and target punctuality for a fictional bus operator and the number of complaints in four months of 2025. All figures are original training data inspired by a reported topic.",
+  "source_group": "practice",
+  "source_url": "https://ieltsactualtests.com/ielts-writing-recalls/2026-07",
+  "data": {
+    "rows": [
+      [
+        "Jan",
+        92,
+        95,
+        35
+      ],
+      [
+        "Apr",
+        94,
+        95,
+        26
+      ],
+      [
+        "Jul",
+        88,
+        95,
+        57
+      ],
+      [
+        "Oct",
+        96,
+        95,
+        18
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-058.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-058.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-058.html"
+}

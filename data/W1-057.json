@@ -1,0 +1,88 @@
+{
+  "id": "W1-057",
+  "task": 1,
+  "title": "湖畔公园的设施替换",
+  "prompt": "Compare the layout of the fictional lakeside park in 2005 and 2025. Summarise changes to land use, visitor facilities and access; the plans are not to scale.",
+  "source_group": "practice",
+  "data": {
+    "panels": [
+      [
+        "2005",
+        [
+          [
+            "Car park",
+            4,
+            73,
+            28,
+            22
+          ],
+          [
+            "Woodland",
+            4,
+            7,
+            38,
+            48
+          ],
+          [
+            "Lake",
+            52,
+            7,
+            38,
+            48
+          ],
+          [
+            "Footpath",
+            4,
+            59,
+            86,
+            10
+          ]
+        ]
+      ],
+      [
+        "2025",
+        [
+          [
+            "Cycle parking",
+            4,
+            73,
+            28,
+            22
+          ],
+          [
+            "Playground",
+            4,
+            7,
+            38,
+            48
+          ],
+          [
+            "Lake",
+            52,
+            7,
+            38,
+            48
+          ],
+          [
+            "Footpath",
+            4,
+            59,
+            86,
+            10
+          ],
+          [
+            "Visitor kiosk",
+            44,
+            77,
+            35,
+            17
+          ]
+        ]
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-057.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-057.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-057.html"
+}

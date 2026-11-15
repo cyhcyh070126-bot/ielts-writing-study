@@ -1,0 +1,23 @@
+{
+  "id": "W1-045",
+  "task": 1,
+  "title": "水电站的白天与夜间运行",
+  "prompt": "Describe how a hydroelectric station operates during the day and at night, including the direction of water movement and electricity generation.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 14 Academic · Test 3 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-14-test-3-writing-task-1",
+  "data": {
+    "stages": [
+      "DAY: River water is stored in a high-level reservoir behind a dam",
+      "DAY: An open intake allows water to flow downhill to reversible turbines",
+      "DAY: Turbines drive a generator; electricity enters the national grid",
+      "DAY: Used water enters the low-level reservoir",
+      "NIGHT: The intake is closed and turbines pump water uphill",
+      "NIGHT: Water returns to the high-level reservoir for reuse"
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-045.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-045.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-045.html"
+}

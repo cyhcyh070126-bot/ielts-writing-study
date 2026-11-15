@@ -1,0 +1,41 @@
+{
+  "id": "W1-049",
+  "task": 1,
+  "title": "菠萝加工分支｜自编练习，非考场原图",
+  "prompt": "You should spend about 20 minutes on this task. The diagram shows an invented, simplified system for growing pineapples and preparing three products: boxed fresh fruit, bottled juice and packaged dried fruit. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "shared": [
+      "Plant young plants",
+      "Grow to maturity",
+      "Harvest fruit",
+      "Wash and sort"
+    ],
+    "fresh": [
+      "Pack whole fruit in boxes"
+    ],
+    "juice": [
+      "Peel and chop",
+      "Press fruit",
+      "Bottle juice"
+    ],
+    "dried": [
+      "Peel and slice",
+      "Dry slices",
+      "Pack dried fruit"
+    ],
+    "branch_point": "after washing and sorting",
+    "all_steps_and_branches_invented": true,
+    "not_supplied": [
+      "growing time",
+      "temperature",
+      "size grades",
+      "processing quantities"
+    ],
+    "source_theme": "X16-03; original post supplies no steps or product details"
+  },
+  "source_status": "本套图、数据及英文练习由编者撰写；不是回忆原图。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-049.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-049.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-049.html"
+}

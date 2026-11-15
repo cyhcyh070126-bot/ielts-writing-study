@@ -1,0 +1,43 @@
+{
+  "id": "W1-050",
+  "task": 1,
+  "title": "上网用途｜官方数据改编",
+  "prompt": "You should spend about 20 minutes on this task. The bar chart compares four selected internet activities among men and women aged 16 and over in Great Britain in 2013. Each percentage refers to adults of that sex. The chart has been adapted from published ONS data for this practice exercise. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "id": "T17-M01",
+    "key": "v17_ons_internet",
+    "data_file": "work/ons_v17_data.json",
+    "source_id": "X17-01/R17-O01",
+    "title": "男女上网用途｜ONS数据改编，非考场原图",
+    "required_caption": "ONS公开数据改编练习图，非考场原图",
+    "chart_type": "horizontal grouped bars",
+    "notes": "四项8值见ONS文件；4项并非原回忆6类完整还原；GB16岁以上成年人，不是UK所有网民。保留类别例外和两性百分点比较。",
+    "activities": [
+      {
+        "activity": "Email",
+        "men": 78,
+        "women": 72
+      },
+      {
+        "activity": "Online news",
+        "men": 60,
+        "women": 49
+      },
+      {
+        "activity": "Health information",
+        "men": 39,
+        "women": 46
+      },
+      {
+        "activity": "Job seeking",
+        "men": 25,
+        "women": 22
+      }
+    ]
+  },
+  "source_status": "ONS公开数据改编练习图，非考场原图。考生回忆说有六类，只记得四类，且明确数字是考后找到的参考资料。本图独立采用ONS官方表2中这四项的八个数值，不补造另外两类。[R17-O01；X17-01]",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-050.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-050.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-050.html"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "W1-053",
+  "task": 1,
+  "title": "文字表｜没有数字也能比较",
+  "prompt": "You should spend about 20 minutes on this task. The information table presents four consumer actions, the conditions in which they apply, and their intended mechanisms for reducing emissions. All rows are editor-written practice material inspired by an incomplete recollected topic, not a reconstruction of an exam table. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "caption": "据回忆主题自编练习表，非考场原表",
+    "columns": [
+      "Action",
+      "When it applies",
+      "Intended mechanism"
+    ],
+    "rows": [
+      [
+        "Use a bus or\nshare a ride",
+        "A suitable shared\nservice is available",
+        "Replaces separate\ncar journeys"
+      ],
+      [
+        "Choose efficient\nlighting",
+        "Worn-out bulbs\nneed replacing",
+        "Uses less electricity\nfor the same light"
+      ],
+      [
+        "Repair durable\nitems",
+        "An item can\nbe repaired",
+        "Delays buying a\nreplacement product"
+      ],
+      [
+        "Plan food\npurchases",
+        "Before shopping,\nusing a list",
+        "Avoids buying food\nunlikely to be used"
+      ]
+    ]
+  },
+  "source_status": "据回忆主题自编练习表，非考场原表。原帖只记消费者减少温室效应及无数字文字表，未提供具体行列。本表四项措施、使用条件、机制和完整英文题均由编者另写，不是还原题面，也不是实测减排效果表。[X18-04]",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-053.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-053.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-053.html"
+}

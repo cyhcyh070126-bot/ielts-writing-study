@@ -1,0 +1,53 @@
+{
+  "id": "W1-054",
+  "task": 1,
+  "title": "人口双图｜分清实值与预测",
+  "prompt": "You should spend about 20 minutes on this task. The two line graphs show the total population and the percentages in three age groups in Latoa, a fictional country, from 2010 to 2050. Data for 2010 and 2020 are presented as reported figures; later values are projections. All country details, dates and values are editor-written practice data, not recalled exam data. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "caption": "据回忆主题自编练习图，非考场原图",
+    "country": "Latoa (fictional)",
+    "years": [
+      2010,
+      2020,
+      2030,
+      2040,
+      2050
+    ],
+    "last_reported_year": 2020,
+    "population_millions": [
+      2.0,
+      2.4,
+      2.8,
+      3.1,
+      3.3
+    ],
+    "age_shares": {
+      "0-14": [
+        30,
+        27,
+        24,
+        22,
+        20
+      ],
+      "15-64": [
+        60,
+        59,
+        58,
+        56,
+        54
+      ],
+      "65+": [
+        10,
+        14,
+        18,
+        22,
+        26
+      ]
+    }
+  },
+  "source_status": "据回忆主题自编练习图，非考场原图。考生只记南太平洋某国人口与年龄结构的两折线，似有至2050的预测，国名、年份起点和数值均缺。本练习的Latoa为虚构国家；所有年份、人口和年龄比例均由编者设置。2010/2020列为练习中的已报数值，2020之后为预测，不是任何国家实际统计。[X18-01]",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-054.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-054.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-054.html"
+}

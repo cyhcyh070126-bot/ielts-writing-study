@@ -1,0 +1,91 @@
+{
+  "id": "W1-051",
+  "task": 1,
+  "title": "香蕉价格｜近似重绘",
+  "prompt": "You should spend about 20 minutes on this task. The line graph shows banana prices in four countries from 1994 to 2004, in US dollars per kilogram. The points are approximate readings from a comment image associated with a candidate recall, redrawn for practice rather than presented as an official exam image. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "id": "T17-M02",
+    "key": "v17_bananas",
+    "source_id": "X17-02",
+    "title": "香蕉价格｜回忆关联图近似重绘",
+    "required_caption": "据考生确认图近似重绘，非官方原卷",
+    "chart_type": "four-line chart",
+    "years": [
+      1994,
+      1995,
+      1996,
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004
+    ],
+    "unit": "US dollars per kilogram",
+    "series": {
+      "Japan": [
+        1.9,
+        2.85,
+        2.0,
+        1.9,
+        2.05,
+        2.25,
+        2.1,
+        1.6,
+        2.1,
+        2.2,
+        2.6
+      ],
+      "France": [
+        1.7,
+        1.7,
+        1.7,
+        1.7,
+        1.6,
+        1.8,
+        1.35,
+        1.8,
+        1.65,
+        1.0,
+        1.6
+      ],
+      "Germany": [
+        1.4,
+        1.25,
+        1.55,
+        1.5,
+        1.35,
+        1.55,
+        1.25,
+        1.45,
+        1.25,
+        1.2,
+        1.2
+      ],
+      "USA": [
+        0.8,
+        1.2,
+        1.2,
+        1.05,
+        1.2,
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1,
+        1.1
+      ]
+    },
+    "approximation_status": "从评论图按刻度近似读取，未给原始数据；数据表仅用于重绘练习。不要在范文把2.85写成精确观测，所有报告数值用about/approximately/just under；最值日本约2.9和末值约2.6、法国2001暂超日本、2003约1、美国后期约1.1。",
+    "source_url": "https://www.xiaohongshu.com/explore/6aed7b64000000002b03cc4e",
+    "image_file": "work/recall_sources_v17/xhs_banana_confirmed.webp",
+    "source_caution": "评论图来自教师网站预测练习页并有原水印，作者回复同题确认；不等于官方原图认证。只重绘事实关系，不转载整个网页或外部范文。"
+  },
+  "source_status": "据考生确认图近似重绘，非官方原卷。作者回忆四国香蕉价格，并确认教师评论贴出的练习图是同题。该图来自教师预测练习网站，不能当官方认证；全部44点按刻度约读，本图不伪装成精确原始数据。[X17-02]",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-051.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-051.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-051.html"
+}

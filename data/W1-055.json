@@ -1,0 +1,43 @@
+{
+  "id": "W1-055",
+  "task": 1,
+  "title": "课程饼图｜份额不等于人数",
+  "prompt": "You should spend about 20 minutes on this task. The pie charts show the percentages of courses offered in five subject areas at an adult education centre in 1985 and 2015. The categories, values and comparison year 2015 have been created for this practice exercise and are not recalled exam data. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "caption": "据回忆主题自编练习图，非考场原图",
+    "years": [
+      1985,
+      2015
+    ],
+    "unit": "Percentage of courses offered",
+    "categories": [
+      "Languages",
+      "Arts",
+      "Computing",
+      "Business",
+      "Practical skills"
+    ],
+    "series": [
+      [
+        30,
+        25,
+        5,
+        15,
+        25
+      ],
+      [
+        20,
+        15,
+        35,
+        20,
+        10
+      ]
+    ],
+    "year_note": "2015 is an editor-chosen practice year, not an interpretation of this year."
+  },
+  "source_status": "据回忆主题自编练习图，非考场原图。原帖只记成人教育中心课程饼图、1985与this year，没有课程名称、数值或图。本练习保留1985作练习起点，自行选择2015作比较年；2015不是把this year解释为2015，亦不擅自解释成2026。五类课程、十个比例、分母和完整题均为自编。[X18-03]",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-055.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-055.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-055.html"
+}

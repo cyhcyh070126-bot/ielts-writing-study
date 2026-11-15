@@ -1,0 +1,22 @@
+{
+  "id": "W1-044",
+  "task": 1,
+  "title": "地热发电",
+  "prompt": "Describe how the geothermal station uses underground heat to produce electricity. Follow the five labelled stages; retain labels as shown.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 12 Academic · Test 4 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-12-test-4-writing-task-1",
+  "data": {
+    "stages": [
+      "Cold water is pumped down an injection well, 4.5 km underground",
+      "Water passes through the geothermal zone of hot rocks",
+      "Heated water is pumped up a production well",
+      "At the surface, the unit labelled condenser produces steam",
+      "Steam drives a turbine and generator; electricity goes to the grid"
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-044.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-044.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-044.html"
+}

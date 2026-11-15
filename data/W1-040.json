@@ -1,0 +1,47 @@
+{
+  "id": "W1-040",
+  "task": 1,
+  "title": "家庭能源消耗与温室气体份额",
+  "prompt": "Compare the distribution of household energy use in Australia with the greenhouse-gas emissions associated with the same uses. Summarise the main features and make relevant comparisons.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 10 Academic · Test 1 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-10-test-1-writing-task-1",
+  "data": {
+    "categories": [
+      "Heating",
+      "Water heating",
+      "Other appliances",
+      "Refrigeration",
+      "Lighting",
+      "Cooling"
+    ],
+    "panels": [
+      [
+        "Energy use",
+        [
+          42,
+          30,
+          15,
+          7,
+          4,
+          2
+        ]
+      ],
+      [
+        "Emissions",
+        [
+          15,
+          32,
+          28,
+          14,
+          8,
+          3
+        ]
+      ]
+    ]
+  },
+  "source_status": "题意和事实单独核对；指导由编者撰写，不转载外部范文。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-040.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-040.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-040.html"
+}
