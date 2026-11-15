@@ -1,0 +1,65 @@
+{
+  "id": "W1-073",
+  "task": 1,
+  "title": "滑雪场积雪深度：月份变化与年度差异",
+  "prompt": "Compare average snow depth at a ski resort from November to April over three years. The independent redraw uses approximate centimetre readings; summarise the main seasonal pattern and differences between the years.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "source_urls": [
+    "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t"
+  ],
+  "recall_evidence_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "months": [
+      "Nov",
+      "Dec",
+      "Jan",
+      "Feb",
+      "Mar",
+      "Apr"
+    ],
+    "series": [
+      [
+        "Year one",
+        [
+          100,
+          140,
+          150,
+          440,
+          450,
+          400
+        ]
+      ],
+      [
+        "Year two",
+        [
+          90,
+          75,
+          120,
+          400,
+          400,
+          470
+        ]
+      ],
+      [
+        "Year three",
+        [
+          115,
+          150,
+          170,
+          350,
+          350,
+          300
+        ]
+      ]
+    ],
+    "unit": "centimetres",
+    "approximate": true
+  },
+  "exam_date": "2026-10-06",
+  "exam_mode": "reported-computer",
+  "source_status": "机构逐场公开记录标注comp；本轮实际查看完整公开题图后独立重绘。图上约读均标明近似，英文任务、概述和框架另写，非官方认证原卷。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-073.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-073.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-073.html"
+}

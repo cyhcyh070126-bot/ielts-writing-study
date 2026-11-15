@@ -1,0 +1,55 @@
+{
+  "id": "W1-072",
+  "task": 1,
+  "title": "学院改建：园地转换与教学空间增加",
+  "prompt": "Compare the present college site with the proposed future layout. Report the expansion and redistribution of teaching and visitor facilities, together with the external features that are retained.",
+  "source_group": "recall",
+  "source_url": "https://ieltswritingpractice.app/zh/questions/academic-task-1/present-and-future-college-site-plans/",
+  "source_urls": [
+    "https://ieltswritingpractice.app/zh/questions/academic-task-1/present-and-future-college-site-plans/",
+    "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t"
+  ],
+  "recall_evidence_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "present": {
+      "classrooms": 3,
+      "left": "car park",
+      "top": "garden and footpath",
+      "inside": [
+        "lunch area",
+        "fountain",
+        "reception",
+        "library",
+        "toilet"
+      ],
+      "bottom": [
+        "bus stop",
+        "road"
+      ]
+    },
+    "future": {
+      "classrooms": 5,
+      "left": "car park retained",
+      "new": "shop in expanded upper-left building area",
+      "inside": [
+        "lunch area relocated",
+        "reception central",
+        "library lower left",
+        "toilet upper centre"
+      ],
+      "removed": "fountain",
+      "bottom": [
+        "bus stop retained",
+        "road retained"
+      ],
+      "footpath": "vertical footpath beside car park retained; most of upper horizontal section replaced"
+    },
+    "scale": "schematic; no compass"
+  },
+  "exam_date": "2026-10-12",
+  "exam_mode": "reported-computer",
+  "source_status": "机构逐场公开记录标注comp；本轮实际查看完整公开题图后独立重绘。图上约读均标明近似，英文任务、概述和框架另写，非官方认证原卷。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-072.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-072.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-072.html"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "W1-074",
+  "task": 1,
+  "title": "马拉松参赛人数：年龄组与总量",
+  "prompt": "Compare the numbers of marathon participants aged 18–39 and 40 or older in one country from 2008 to 2012, including the combined annual totals. Select the main growth patterns and comparisons.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "source_urls": [
+    "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t"
+  ],
+  "recall_evidence_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "years": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "age_18_39": [
+      1200,
+      1350,
+      1500,
+      1600,
+      1750
+    ],
+    "age_40_plus": [
+      800,
+      850,
+      900,
+      950,
+      1050
+    ],
+    "totals": [
+      2000,
+      2200,
+      2400,
+      2550,
+      2800
+    ],
+    "unit": "participants"
+  },
+  "exam_date": "2026-10-10",
+  "exam_mode": "reported-computer",
+  "source_status": "机构逐场公开记录标注comp；本轮实际查看完整公开题图后独立重绘。图上约读均标明近似，英文任务、概述和框架另写，非官方认证原卷。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-074.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-074.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-074.html"
+}

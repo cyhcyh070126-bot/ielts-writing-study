@@ -1,0 +1,35 @@
+{
+  "id": "W1-071",
+  "task": 1,
+  "title": "太阳能井水系统：电力路线与水路线",
+  "prompt": "Explain how sunlight powers a pump and filter system that supplies drinking water. Describe both the electrical connection and the movement of water from the underground well to the portable container.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "source_urls": [
+    "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t"
+  ],
+  "recall_evidence_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "energy_route": [
+      "sunlight",
+      "solar panel",
+      "converter",
+      "electricity to pump"
+    ],
+    "water_route": [
+      "underground well",
+      "pump",
+      "pipe to raised water tank",
+      "water filter",
+      "tap",
+      "moveable container"
+    ],
+    "other_component": "wooden platform supporting tank"
+  },
+  "exam_date": "2026-08-23",
+  "exam_mode": "reported-computer",
+  "source_status": "机构逐场公开记录标注comp；本轮实际查看完整公开题图后独立重绘。图上约读均标明近似，英文任务、概述和框架另写，非官方认证原卷。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-071.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-071.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-071.html"
+}

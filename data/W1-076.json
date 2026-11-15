@@ -1,0 +1,53 @@
+{
+  "id": "W1-076",
+  "task": 1,
+  "title": "四国牛奶产量：规模差异与变化速度",
+  "prompt": "Compare annual milk production in four countries in 1990, 2000 and 2010. Use the values in litres to identify the leading producers, the major trends and useful differences in growth.",
+  "source_group": "recall",
+  "source_url": "https://ieltswritingpractice.app/zh/questions/academic-task-1/milk-production-in-four-countries/",
+  "source_urls": [
+    "https://ieltswritingpractice.app/zh/questions/academic-task-1/milk-production-in-four-countries/",
+    "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t"
+  ],
+  "recall_evidence_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "years": [
+      1990,
+      2000,
+      2010
+    ],
+    "unit": "litres",
+    "rows": [
+      [
+        "Netherlands",
+        "11,262,000",
+        "11,155,000",
+        "11,466,000"
+      ],
+      [
+        "Australia",
+        "11,246,000",
+        "11,105,000",
+        "9,165,000"
+      ],
+      [
+        "Tanzania",
+        "87,000",
+        "142,000",
+        "155,000"
+      ],
+      [
+        "Guatemala",
+        "26,000",
+        "55,000",
+        "84,000"
+      ]
+    ]
+  },
+  "exam_date": "2026-10-03",
+  "exam_mode": "reported-computer",
+  "source_status": "机构逐场公开记录标注comp；本轮实际查看完整公开题图后独立重绘。图上约读均标明近似，英文任务、概述和框架另写，非官方认证原卷。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-076.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-076.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-076.html"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "W1-075",
+  "task": 1,
+  "title": "预期寿命：最终水平与长期增量",
+  "prompt": "Compare life expectancy for people born in 2008 in Japan, Korea, the USA and Indonesia, and the increases recorded between 1953 and 2008. Explain the main contrasts across the bar chart and table.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "source_urls": [
+    "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t"
+  ],
+  "recall_evidence_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "countries": [
+      "Japan",
+      "Korea",
+      "USA",
+      "Indonesia"
+    ],
+    "life_expectancy_2008": [
+      81.7,
+      79.1,
+      77,
+      70.2
+    ],
+    "increase_1953_to_2008": [
+      3.5,
+      12.5,
+      3,
+      15.7
+    ],
+    "unit": "years"
+  },
+  "exam_date": "2026-10-08",
+  "exam_mode": "reported-computer",
+  "source_status": "机构逐场公开记录标注comp；本轮实际查看完整公开题图后独立重绘。图上约读均标明近似，英文任务、概述和框架另写，非官方认证原卷。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-075.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-075.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-075.html"
+}

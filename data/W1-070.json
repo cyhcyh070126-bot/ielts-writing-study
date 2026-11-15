@@ -1,0 +1,37 @@
+{
+  "id": "W1-070",
+  "task": 1,
+  "title": "太阳能板：加热空气与加热水",
+  "prompt": "Describe the structure of the simple solar panel and explain its two applications: warming air and warming water. Compare the routes through the device and identify the component used only in the water-heating version.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "source_urls": [
+    "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t"
+  ],
+  "recall_evidence_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "structure": [
+      "box",
+      "transparent glass",
+      "inlet",
+      "outlet"
+    ],
+    "air_route": [
+      "air inlet",
+      "space beneath glass heated by sunlight",
+      "warm-air outlet"
+    ],
+    "water_route": [
+      "water inlet",
+      "winding tube heated by sunlight",
+      "warm-water outlet"
+    ],
+    "energy_type": "heat, not electrical generation"
+  },
+  "exam_date": "2026-09-08",
+  "exam_mode": "reported-computer",
+  "source_status": "机构逐场公开记录标注comp；本轮实际查看完整公开题图后独立重绘。图上约读均标明近似，英文任务、概述和框架另写，非官方认证原卷。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-070.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-070.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-070.html"
+}

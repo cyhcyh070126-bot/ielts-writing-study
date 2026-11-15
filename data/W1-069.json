@@ -1,0 +1,62 @@
+{
+  "id": "W1-069",
+  "task": 1,
+  "title": "互联网使用频率：日用增长与从不使用下降",
+  "prompt": "Compare adults in a European country across four internet-use frequency categories from 2006 to 2010. Report the major shifts and relevant comparisons in the percentage table.",
+  "source_group": "recall",
+  "source_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "source_urls": [
+    "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t"
+  ],
+  "recall_evidence_url": "https://www.tramnguyenielts.com/post/t%E1%BB%95ng-h%E1%BB%A3p-%C4%91%E1%BB%81-thi-ielts-writing-2024-2025-m%E1%BB%9Bi-nh%E1%BA%A5t",
+  "data": {
+    "years": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "rows": [
+      [
+        "Daily",
+        36,
+        40,
+        45,
+        65,
+        72
+      ],
+      [
+        "Weekly",
+        15,
+        25,
+        29,
+        25,
+        22
+      ],
+      [
+        "3 times per month",
+        15,
+        15,
+        10,
+        8,
+        5
+      ],
+      [
+        "Never",
+        34,
+        20,
+        16,
+        2,
+        1
+      ]
+    ],
+    "unit": "percent of adults"
+  },
+  "exam_date": "2026-10-17",
+  "exam_mode": "reported-computer",
+  "source_status": "机构逐场公开记录标注comp；本轮实际查看完整公开题图后独立重绘。图上约读均标明近似，英文任务、概述和框架另写，非官方认证原卷。",
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-069.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-069.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-069.html"
+}
