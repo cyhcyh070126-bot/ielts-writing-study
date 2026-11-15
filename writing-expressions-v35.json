@@ -1,0 +1,513 @@
+{
+  "updated": "2026-11-15",
+  "kind": "sentence-frames-not-exam-questions",
+  "teaching_note": "Use after the learner has attempted a plan. Independently compiled study expressions, not attributed verbatim to a creator.",
+  "task1": [
+    {
+      "id": "T1F35-01",
+      "title": "引言：改写对象与范围",
+      "frame": "The [chart / table] compares [measure] for [groups] in [place] in [year].",
+      "use_cn": "交代图种、指标、对象和已给出的地点、时间。时间为区间时，将句末 in [year] 改为 between [year A] and [year B]；题目没给的槽位删除。",
+      "slots": [
+        "图种",
+        "指标与单位",
+        "比较对象",
+        "已给出的地点",
+        "单一年份或时间区间"
+      ],
+      "pitfall_cn": "改写后仍要准确保留比较对象、指标和时间范围；不要为换词改变意思。单位应在报告中准确交代，不必硬塞进每个句子。"
+    },
+    {
+      "id": "T1F35-02",
+      "title": "引言：两图分别测量什么",
+      "frame": "The [first visual] presents [measure A], while the [second visual] shows [measure B].",
+      "use_cn": "适合不同单位或不同指标的混合图；先把两图的衡量对象分清。",
+      "slots": [
+        "first/second visual",
+        "measure A",
+        "measure B"
+      ],
+      "pitfall_cn": "两图的单位不同也不能将它们当作同一数列相加或直接比较高低。"
+    },
+    {
+      "id": "T1F35-03",
+      "title": "概述：主要趋势加例外",
+      "frame": "Overall, [dominant trend], whereas [major contrast or exception].",
+      "use_cn": "概括真正突出的整体走向或相反变化，不列每个数据点。",
+      "slots": [
+        "dominant trend",
+        "contrast/exception"
+      ],
+      "pitfall_cn": "不要无图乱填everything increased；静态图没有跨期数据时不写rose/fell。Overall是方便的信号词，不是唯一合法开头。"
+    },
+    {
+      "id": "T1F35-04",
+      "title": "概述：静态高低对照",
+      "frame": "Overall, [group A] recorded the highest [measure], while the lowest figure was for [group B].",
+      "use_cn": "适合没有时间变化的表格、柱图等，强调主要排序。",
+      "slots": [
+        "group A/B",
+        "precise measure"
+      ],
+      "pitfall_cn": "最多、最少必须按同一指标判断；金额最多不等于人数最多。 本句 recorded 用于过去的静态资料；现在或预测信息须相应调整时态。"
+    },
+    {
+      "id": "T1F35-05",
+      "title": "变化：起点终点与增量",
+      "frame": "The figure for [group] rose from [start] to [end] between [year A] and [year B], an increase of [difference].",
+      "use_cn": "同时写起点、终点与算出的增量；下降时相应换fell/a decrease。",
+      "slots": [
+        "group",
+        "start/end含单位",
+        "years",
+        "difference"
+      ],
+      "pitfall_cn": "to后是终值，by后是增减量；不要把from 20 to 30写成increased by 30。"
+    },
+    {
+      "id": "T1F35-06",
+      "title": "占比：某类占总体",
+      "frame": "[Category] accounted for [share] of [clearly defined total].",
+      "use_cn": "饼图或构成表用来交代分子与分母。",
+      "slots": [
+        "category",
+        "share",
+        "total"
+      ],
+      "pitfall_cn": "share是百分比时分母必须明确；不要把占比直接当绝对数量，也不要随意把rate改写为占总体构成。"
+    },
+    {
+      "id": "T1F35-07",
+      "title": "百分点：两个比例之差",
+      "frame": "The proportion increased from [A]% to [B]%, a rise of [B minus A] percentage points.",
+      "use_cn": "百分比水平之间相减，用百分点；此处示例数据由编者自拟。",
+      "slots": [
+        "A",
+        "B",
+        "difference"
+      ],
+      "pitfall_cn": "20%到30%是10个百分点，若讨论相对增幅则为50%；两种表述不可混用。"
+    },
+    {
+      "id": "T1F35-08",
+      "title": "倍数：可数与不可数",
+      "frame": "[A] had twice as many [plural countable noun] as [B]. / [A] used twice as much [uncountable noun] as [B].",
+      "use_cn": "同一时点或明确对应时期、同一衡量口径下比较倍数。",
+      "slots": [
+        "A/B",
+        "可数复数或不可数名词",
+        "实际倍数"
+      ],
+      "pitfall_cn": "many接可数复数，much接不可数；A是B两倍不能写为A比B增加两倍。"
+    },
+    {
+      "id": "T1F35-09",
+      "title": "差距：扩大或缩小",
+      "frame": "The gap between [A] and [B] widened from [initial gap] to [final gap].",
+      "use_cn": "至少两个时期中，比较两个组之间的差距；缩小时换narrowed。",
+      "slots": [
+        "A/B",
+        "initial/final gap含单位"
+      ],
+      "pitfall_cn": "先计算差距再比较，不能把A自身增长说成差距扩大；比例差用percentage points。"
+    },
+    {
+      "id": "T1F35-10",
+      "title": "近似数：高于或低于整值",
+      "frame": "[Measure] stood at just over [value], compared with just under [value] for [comparison group].",
+      "use_cn": "图上读数只能约读或需要合理概括时，用略高于/略低于。",
+      "slots": [
+        "measure",
+        "values及单位",
+        "comparison group"
+      ],
+      "pitfall_cn": "just over不能用于低于该值的数据；精确表格不要刻意模糊到失真。"
+    },
+    {
+      "id": "T1F35-11",
+      "title": "流程概述：起止阶段",
+      "frame": "Overall, [product] is produced through [number] main stages, from [initial stage] to [final stage].",
+      "use_cn": "适合有明确起止的线性制造流程；先数清主要阶段。",
+      "slots": [
+        "product",
+        "number",
+        "initial/final stage"
+      ],
+      "pitfall_cn": "循环图不硬塞终点；有分支时也不能把不同路线写成单一路线；阶段数不清楚可删除number。"
+    },
+    {
+      "id": "T1F35-12",
+      "title": "流程细节：先处理再进入下一步",
+      "frame": "After [material] has been [past participle], it is [next operation] before [following stage].",
+      "use_cn": "制造流程中，动作承受者比操作者更重要时使用被动语态。",
+      "slots": [
+        "material",
+        "past participle",
+        "next operation",
+        "following stage"
+      ],
+      "pitfall_cn": "被动必须有be及过去分词；自然生长、动物迁移等有清楚行为主体时，可用主动，不能全篇机械被动。"
+    },
+    {
+      "id": "T1F35-13",
+      "title": "分支：两条路线分开说明",
+      "frame": "At this stage, [material] follows two routes: one leads to [output A], while the other produces [output B].",
+      "use_cn": "只有图中实际存在分流时使用，分别说明去向。",
+      "slots": [
+        "material",
+        "output A/B"
+      ],
+      "pitfall_cn": "不能凭常识自行添加废料出口或再循环路线；箭头交叉并不自动表示材料混合。"
+    },
+    {
+      "id": "T1F35-14",
+      "title": "地图：替换与未来计划",
+      "frame": "[Old feature] was replaced by [new feature]. / [Old feature] will be replaced by [new feature].",
+      "use_cn": "过去对比用过去被动，未来方案用将来被动。",
+      "slots": [
+        "old feature",
+        "new feature",
+        "按年份选择was或will be"
+      ],
+      "pitfall_cn": "replaced by后是新设施；未来规划不能写成已经完成；不补图中没有给出的改造原因。"
+    },
+    {
+      "id": "T1F35-15",
+      "title": "地图：位置与保留",
+      "frame": "[Feature] remained in the [relative position], while [another feature] was relocated to [new position].",
+      "use_cn": "比较保留与迁移；以图中明确方位或相对位置描述。",
+      "slots": [
+        "feature",
+        "relative position",
+        "another feature",
+        "new position"
+      ],
+      "pitfall_cn": "无指南针时优先用left/right/upper等相对方位；不能把同名但位置变化的设施写成unchanged。"
+    }
+  ],
+  "task2": [
+    {
+      "id": "T2-F01",
+      "title": "直接回应具体主张",
+      "frame": "I [agree / disagree] that [precise claim], mainly because [reason 1] and [reason 2].",
+      "use_cn": "适合能明确表态的同意程度题；先填完整主张，再列两个后文确实展开的理由。",
+      "slots": [
+        "precise claim=题目具体主张及限定",
+        "reason 1/2=两个可展开理由"
+      ],
+      "pitfall_cn": "不能只写I agree with this view却不说明this view指什么；列两个理由后都要写到。",
+      "task_types": [
+        "同意与否"
+      ],
+      "example_en": "I disagree that online information makes schools unnecessary, mainly because teachers provide structured feedback and schools offer daily social interaction.",
+      "example_cn": "我不同意网络信息使学校变得多余，主要因为教师提供系统反馈，学校也提供日常社交互动。"
+    },
+    {
+      "id": "T2-F02",
+      "title": "有条件或部分同意",
+      "frame": "[Limited proposal] is reasonable where [condition], but I do not support [broader claim].",
+      "use_cn": "把支持的范围与反对的范围分清，适合题目含all、only、best等强限定时。",
+      "slots": [
+        "Limited proposal=同意的具体范围",
+        "condition=成立条件",
+        "broader claim=题目更强的主张"
+      ],
+      "pitfall_cn": "部分同意不是每段换立场；两个范围必须在全文保持一致。",
+      "task_types": [
+        "同意与否"
+      ],
+      "example_en": "Subsidised bus fares are reasonable for low-income commuters, but I do not support making every journey free for every passenger.",
+      "example_cn": "对低收入通勤者补贴公交票价有道理，但我不支持所有乘客的每次出行都免费。"
+    },
+    {
+      "id": "T2-F03",
+      "title": "两种立场与自己的取舍",
+      "frame": "Supporters of [A] emphasise [benefit], whereas advocates of [B] prioritise [different concern]. I favour [position] because [criterion].",
+      "use_cn": "交代双方真正分歧，并明确自己的评价标准。",
+      "slots": [
+        "A/B=题目两方主张",
+        "benefit/concern=各方核心理由",
+        "position=自己的判断",
+        "criterion=取舍标准"
+      ],
+      "pitfall_cn": "不能自动说双方equally important；只有论证了同等重要才可这样判断。",
+      "task_types": [
+        "讨论双方"
+      ],
+      "example_en": "Supporters of economic growth emphasise jobs, whereas advocates of environmental protection prioritise long-term resources. I favour limits on development that would cause irreversible damage.",
+      "example_cn": "支持经济增长者重视就业，支持环保者重视长期资源；我倾向于限制会造成不可逆破坏的开发。"
+    },
+    {
+      "id": "T2-F04",
+      "title": "明确谁获得什么效果",
+      "frame": "[Specific action] can help [defined group] to [concrete outcome].",
+      "use_cn": "主体段开头先给一个可解释、范围明确的主旨。",
+      "slots": [
+        "Specific action=具体行动或政策",
+        "defined group=受到影响的人",
+        "outcome=具体结果"
+      ],
+      "pitfall_cn": "不要只说benefit society或improve life；应说明具体帮助谁、做成什么。",
+      "task_types": [
+        "各类主体段"
+      ],
+      "example_en": "Subsidised childcare can help parents with limited incomes remain in paid work.",
+      "example_cn": "育儿服务补贴可以帮助收入有限的父母继续从事有偿工作。"
+    },
+    {
+      "id": "T2-F05",
+      "title": "从情境解释因果",
+      "frame": "When [situation], [immediate change] occurs, which makes [result] more likely.",
+      "use_cn": "把观点展开成一个能理解的过程，不只堆同义词。",
+      "slots": [
+        "situation=具体情境",
+        "immediate change=先发生的变化",
+        "result=后续结果"
+      ],
+      "pitfall_cn": "which的指代要清楚；机制只能支持可能性时不要写成必然结果。",
+      "task_types": [
+        "各类主体段"
+      ],
+      "example_en": "When buses run frequently, commuters spend less time waiting, which makes public transport a more practical option.",
+      "example_cn": "公交班次频繁时，通勤者等待时间减少，因此公共交通更有实际可用性。"
+    },
+    {
+      "id": "T2-F06",
+      "title": "障碍减少后产生结果",
+      "frame": "This reduces [specific obstacle], enabling [group] to [result].",
+      "use_cn": "适合承接上一句已解释清楚的政策或变化。",
+      "slots": [
+        "This=上句具体行动",
+        "obstacle=具体障碍",
+        "group=受益对象",
+        "result=因此能完成的事"
+      ],
+      "pitfall_cn": "this不能悬空；enabling应和前面的变化有真实关系，不能只用来拉长句子。",
+      "task_types": [
+        "各类主体段"
+      ],
+      "example_en": "Lower upfront course fees reduce the immediate financial barrier, enabling more employed adults to begin retraining.",
+      "example_cn": "降低课程预付费用能减轻眼前的经济门槛，让更多在职成年人开始再培训。"
+    },
+    {
+      "id": "T2-F07",
+      "title": "给可理解的具体场景",
+      "frame": "Consider [a concrete case]: [specific detail] illustrates why [link to the claim].",
+      "use_cn": "例子展示前面的机制；无需虚构调查、专家或百分比。",
+      "slots": [
+        "case=具体人物或场景",
+        "detail=能说明问题的细节",
+        "link=与主旨的联系"
+      ],
+      "pitfall_cn": "例子不能占满整段；例子前后仍需解释它证明什么。",
+      "task_types": [
+        "各类主体段"
+      ],
+      "example_en": "Consider a night-shift worker: a bus service that stops at ten cannot replace a car for the journey home.",
+      "example_cn": "以夜班工人为例：十点停运的公交无法替代其回家所需的汽车。"
+    },
+    {
+      "id": "T2-F08",
+      "title": "承认有限好处后回应强主张",
+      "frame": "Although [valid point], this alone does not show that [stronger claim].",
+      "use_cn": "适合处理反方的一个合理点，并说明它不能推出题目中的更强结论。",
+      "slots": [
+        "valid point=承认的真实好处",
+        "stronger claim=尚未被证明的主张"
+      ],
+      "pitfall_cn": "although不能同时再配but；让步后必须解释两者间缺少什么逻辑。",
+      "task_types": [
+        "同意与否",
+        "讨论双方"
+      ],
+      "example_en": "Although online lessons offer flexibility, this alone does not show that schools are unnecessary.",
+      "example_cn": "虽然网课提供灵活性，但这一个好处不足以证明学校已无必要。"
+    },
+    {
+      "id": "T2-F09",
+      "title": "检查论证依赖的前提",
+      "frame": "That argument assumes [condition]. Where this condition is absent, [different result] may follow.",
+      "use_cn": "针对前提提出有限反驳，适合best、only等容易过度概括的主张。",
+      "slots": [
+        "condition=对方推论需要的条件",
+        "different result=条件不成立时的结果"
+      ],
+      "pitfall_cn": "不能凭空替反方发明一个它根本不需要的前提。",
+      "task_types": [
+        "同意与否",
+        "讨论双方"
+      ],
+      "example_en": "That argument assumes all households have reliable internet. Where this is absent, a digital-only service may exclude some residents.",
+      "example_cn": "这一论证假定各家庭都有可靠网络；如果没有，仅提供线上服务可能把部分居民排除在外。"
+    },
+    {
+      "id": "T2-F10",
+      "title": "用同一个标准比较轻重",
+      "frame": "[Benefit] carries more weight than [cost] because [comparison using the same criterion].",
+      "use_cn": "适合outweigh题，比较持续时间、影响人数、严重程度或可逆性等具体标准。",
+      "slots": [
+        "benefit/cost=前面已解释的利弊",
+        "criterion=同一比较标准"
+      ],
+      "pitfall_cn": "不能只说advantages are greater；必须解释为何更大，且回应题目比较方向。",
+      "task_types": [
+        "利弊权衡"
+      ],
+      "example_en": "The daily time saved by nearby services carries more weight than occasional delivery inconvenience because the saving benefits residents throughout the week.",
+      "example_cn": "附近服务每天节省的时间更重要，因为居民一周都能获益，而配送不便只是偶尔发生。"
+    },
+    {
+      "id": "T2-F11",
+      "title": "原因与现象对应",
+      "frame": "One factor behind [trend] is [cause], since [how the cause produces the trend].",
+      "use_cn": "原因句后再说明形成机制，避免把原因和后果混写。",
+      "slots": [
+        "trend=题设趋势",
+        "cause=主要成因",
+        "how=怎样推动趋势"
+      ],
+      "pitfall_cn": "原因不能只是换个词复述现象；不要在问原因时只写产生的危害。",
+      "task_types": [
+        "原因与措施",
+        "原因与评价",
+        "原因与影响"
+      ],
+      "example_en": "One factor behind delayed parenthood is insecure employment, since unpredictable income makes long-term care arrangements harder to plan.",
+      "example_cn": "晚育的一项原因是工作不稳定，因为收入难以预测会增加长期照护安排的规划难度。"
+    },
+    {
+      "id": "T2-F12",
+      "title": "写清现象造成的困难",
+      "frame": "[Trend] can create [problem] for [group] because [mechanism].",
+      "use_cn": "用于问题措施题的后果段，交代谁遇到什么困难。",
+      "slots": [
+        "trend=题设变化",
+        "problem=具体问题",
+        "group=受影响的人",
+        "mechanism=怎样发生"
+      ],
+      "pitfall_cn": "题目问problems时，不能把整段写成该现象为什么出现。",
+      "task_types": [
+        "问题与措施"
+      ],
+      "example_en": "A decline in local bus services can restrict employment choices for residents without cars because fewer workplaces are reachable.",
+      "example_cn": "本地公交服务减少会限制没有汽车者的就业选择，因为他们能到达的工作地点变少。"
+    },
+    {
+      "id": "T2-F13",
+      "title": "执行者、行动和作用机制",
+      "frame": "To reduce [problem], [actor] could [specific action], which would [mechanism].",
+      "use_cn": "措施应与前面的原因或问题对应，并说明怎样起作用。",
+      "slots": [
+        "problem=需要缓解的问题",
+        "actor=执行者",
+        "action=具体措施",
+        "mechanism=预期作用"
+      ],
+      "pitfall_cn": "governments should raise awareness太空泛；不能只有执行者和口号。",
+      "task_types": [
+        "原因与措施",
+        "问题与措施"
+      ],
+      "example_en": "To reduce missed appointments, service providers could send reminders that make the time and location easier to check.",
+      "example_cn": "为减少错过预约，服务方可发送提醒，让时间和地点更容易核对。"
+    },
+    {
+      "id": "T2-F14",
+      "title": "用反事实说明现有条件的重要性",
+      "frame": "Without [required condition], [group] would [likely limitation], even if [other improvement].",
+      "use_cn": "适合指出单一政策不足，或说明某个条件为何重要。",
+      "slots": [
+        "required condition=必要条件",
+        "limitation=缺失时的限制",
+        "other improvement=其他进步"
+      ],
+      "pitfall_cn": "这是条件推理，不是事实数据；would和时态要配合，不能声称所有人都会如此。",
+      "task_types": [
+        "同意与否",
+        "原因与措施",
+        "利弊权衡"
+      ],
+      "example_en": "Without affordable evening buses, some workers would still need cars even if daytime travel were free.",
+      "example_cn": "如果没有负担得起的夜间公交，即使白天乘车免费，部分工人仍会需要汽车。"
+    },
+    {
+      "id": "T2-F15",
+      "title": "在明确条件下给总体判断",
+      "frame": "On balance, [trend] is [positive / negative] because [main impact], provided that [necessary condition].",
+      "use_cn": "适合积极消极发展评价；先给总判断，再说明关键边界。",
+      "slots": [
+        "trend=题设变化",
+        "main impact=主导影响",
+        "condition=必要条件"
+      ],
+      "pitfall_cn": "不能用provided that回避总体立场；条件也不能与正文完全无关。",
+      "task_types": [
+        "积极或消极",
+        "原因与评价"
+      ],
+      "example_en": "On balance, expanding online public services is positive, provided that residents can still obtain help through accessible offline channels.",
+      "example_cn": "总体而言，扩大线上公共服务是积极的，条件是居民仍可通过容易获得的线下渠道得到帮助。"
+    },
+    {
+      "id": "T2-F16",
+      "title": "保持与正文一致的判断",
+      "frame": "In conclusion, [direct answer to the question]. The main reason is that [central argument].",
+      "use_cn": "用自己的话收束已经论证的立场，不突然换成一律要平衡双方。",
+      "slots": [
+        "direct answer=回应本题全部任务的结论",
+        "central argument=正文已经展开的核心理由"
+      ],
+      "pitfall_cn": "结尾须覆盖本题全部任务，并与正文立场一致；概括已经论证过的理由，删去不适用的内容。",
+      "task_types": [
+        "同意与否",
+        "讨论双方",
+        "利弊权衡"
+      ],
+      "example_en": "In conclusion, I favour targeted transport subsidies. The main reason is that they improve access to essential services without making every journey free.",
+      "example_cn": "总之，我赞成有针对性的交通补贴。主要原因是这能改善获得基本服务的机会，同时不必让每次出行都免费。"
+    }
+  ],
+  "collocations": [
+    {
+      "phrase": "gain access to [resource]",
+      "meaning_cn": "获得……资源的使用机会",
+      "pitfall_cn": "access通常不可数；写清谁得到何种资源。"
+    },
+    {
+      "phrase": "place pressure on [service]",
+      "meaning_cn": "给……服务带来压力",
+      "pitfall_cn": "说明压力体现为排队、容量不足等什么结果。"
+    },
+    {
+      "phrase": "remove a barrier to [activity]",
+      "meaning_cn": "消除从事……活动的障碍",
+      "pitfall_cn": "to是介词，后接名词或动词-ing；明确是哪项障碍。"
+    },
+    {
+      "phrase": "bear the cost of [policy]",
+      "meaning_cn": "承担……政策的成本",
+      "pitfall_cn": "写清家庭、企业或政府谁承担。"
+    },
+    {
+      "phrase": "give priority to [goal]",
+      "meaning_cn": "优先考虑……目标",
+      "pitfall_cn": "to后接名词或动词-ing，不自动等于完全取消其他投入。"
+    },
+    {
+      "phrase": "come at the expense of [other value]",
+      "meaning_cn": "以牺牲……为代价",
+      "pitfall_cn": "需要解释被牺牲的东西如何受损。"
+    },
+    {
+      "phrase": "address the underlying cause of [problem]",
+      "meaning_cn": "处理……问题的深层原因",
+      "pitfall_cn": "不能把只缓解症状的措施说成根除成因。"
+    },
+    {
+      "phrase": "strike a balance between [A] and [B]",
+      "meaning_cn": "在……与……之间取得平衡",
+      "pitfall_cn": "只有说明如何分配或限制时才有内容，不作为所有题的万能结论。"
+    }
+  ]
+}
