@@ -1,0 +1,47 @@
+{
+  "id": "W1-004",
+  "task": 1,
+  "title": "Household electricity use",
+  "prompt": "The pie charts show how household electricity consumption in a town was divided among four uses in 2015 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "pie",
+    "title": "Shares of household electricity consumption",
+    "unit": "% of total household electricity use",
+    "panels": [
+      {
+        "title": "2015",
+        "labels": [
+          "Heating",
+          "Cooking",
+          "Lighting",
+          "Appliances"
+        ],
+        "values": [
+          45,
+          20,
+          15,
+          20
+        ]
+      },
+      {
+        "title": "2025",
+        "labels": [
+          "Heating",
+          "Cooking",
+          "Lighting",
+          "Appliances"
+        ],
+        "values": [
+          30,
+          15,
+          10,
+          45
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-004.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-004.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-004.html"
+}

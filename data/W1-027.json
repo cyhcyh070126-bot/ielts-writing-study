@@ -1,0 +1,73 @@
+{
+  "id": "W1-027",
+  "task": 1,
+  "title": "公平贸易咖啡与香蕉销售额",
+  "prompt": "Compare Fairtrade-labelled coffee and banana sales in five European countries in 1999 and 2004. Identify the main differences and changes, using the values in millions of euros.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 10 Academic · Test 2 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-10-test-2-writing-task-1",
+  "data": {
+    "unit": "million euros",
+    "years": [
+      1999,
+      2004
+    ],
+    "coffee": [
+      [
+        "UK",
+        1.5,
+        20
+      ],
+      [
+        "Switzerland",
+        3,
+        6
+      ],
+      [
+        "Denmark",
+        1.8,
+        2
+      ],
+      [
+        "Belgium",
+        1,
+        1.7
+      ],
+      [
+        "Sweden",
+        0.8,
+        1
+      ]
+    ],
+    "bananas": [
+      [
+        "UK",
+        15,
+        47
+      ],
+      [
+        "Switzerland",
+        1,
+        5.5
+      ],
+      [
+        "Belgium",
+        0.6,
+        4
+      ],
+      [
+        "Sweden",
+        1.8,
+        1
+      ],
+      [
+        "Denmark",
+        2,
+        0.9
+      ]
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-027.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-027.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-027.html"
+}

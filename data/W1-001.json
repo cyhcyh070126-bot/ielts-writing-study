@@ -1,0 +1,54 @@
+{
+  "id": "W1-001",
+  "task": 1,
+  "title": "City library enquiries",
+  "prompt": "The line graph shows the average number of enquiries received per month by a city library through three channels between 2020 and 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "line",
+    "title": "Average monthly enquiries at a city library",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "unit": "enquiries per month",
+    "series": [
+      {
+        "name": "Email",
+        "values": [
+          40,
+          55,
+          75,
+          100,
+          130
+        ]
+      },
+      {
+        "name": "Telephone",
+        "values": [
+          90,
+          85,
+          75,
+          65,
+          55
+        ]
+      },
+      {
+        "name": "In person",
+        "values": [
+          25,
+          30,
+          35,
+          40,
+          45
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-001.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-001.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-001.html"
+}

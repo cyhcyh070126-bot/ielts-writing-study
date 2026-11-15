@@ -1,0 +1,60 @@
+<svg role="img" aria-label="欧盟服装进口均价｜1997 与 2003 年分组柱图" width="350" height="181" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 181" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="181"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-181)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="169" style="font-family: ENB; font-size: 10.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,338) scale(1,-1)">Average clothing import prices (£ per kg)</text>
+			<path d="M 37,48 L 347,48 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="24.99462890625" y="45.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,90) scale(1,-1)">0</text>
+			<path d="M 37,64.666667 L 347,64.666667 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="24.99462890625" y="61.66666666666667" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,123) scale(1,-1)">5</text>
+			<path d="M 37,81.333333 L 347,81.333333 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="78.33333333333334" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,156) scale(1,-1)">10</text>
+			<path d="M 37,98 L 347,98 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="95.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,190) scale(1,-1)">15</text>
+			<path d="M 37,114.666667 L 347,114.666667 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="111.66666666666667" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,223) scale(1,-1)">20</text>
+			<path d="M 37,131.333333 L 347,131.333333 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="128.33333333333331" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,256) scale(1,-1)">25</text>
+			<path d="M 37,148 L 347,148 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="145.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,290) scale(1,-1)">30</text>
+			<text x="44.64009602864583" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Argentina</text>
+			<rect x="46.43333333333333" y="48" width="15.800000000000004" height="93.33333333333331" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="50.10657552083333" y="144.33333333333331" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,288) scale(1,-1)">28</text>
+			<rect x="63.43333333333333" y="48" width="15.800000000000004" height="86.66666666666669" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="67.10657552083333" y="137.66666666666669" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,275) scale(1,-1)">26</text>
+			<text x="103.8729248046875" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Brazil</text>
+			<rect x="98.1" y="48" width="15.799999999999997" height="76.66666666666667" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="101.7732421875" y="127.66666666666667" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,255) scale(1,-1)">23</text>
+			<rect x="115.1" y="48" width="15.800000000000011" height="76.66666666666667" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="118.7732421875" y="127.66666666666667" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,255) scale(1,-1)">23</text>
+			<text x="154.58707682291666" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Japan</text>
+			<rect x="149.76666666666665" y="48" width="15.800000000000011" height="50.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="153.43990885416665" y="101.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,202) scale(1,-1)">15</text>
+			<rect x="166.76666666666665" y="48" width="15.800000000000011" height="43.33333333333334" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="170.43990885416665" y="94.33333333333334" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,188) scale(1,-1)">13</text>
+			<text x="206.72896321614581" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">China</text>
+			<rect x="201.4333333333333" y="48" width="15.800000000000011" height="33.33333333333334" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="205.1065755208333" y="84.33333333333334" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,168) scale(1,-1)">10</text>
+			<rect x="218.4333333333333" y="48" width="15.800000000000011" height="56.66666666666666" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="222.1065755208333" y="107.66666666666666" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,215) scale(1,-1)">17</text>
+			<text x="260.2840576171875" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">India</text>
+			<rect x="253.1" y="48" width="15.799999999999983" height="23.33333333333333" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="258.88662109375" y="74.33333333333333" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,148) scale(1,-1)">7</text>
+			<rect x="270.1" y="48" width="15.800000000000011" height="40.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="273.7732421875" y="91.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,182) scale(1,-1)">12</text>
+			<text x="298.71720377604163" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Bangladesh</text>
+			<rect x="304.76666666666665" y="48" width="15.800000000000011" height="10.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="310.55328776041665" y="61.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,122) scale(1,-1)">3</text>
+			<rect x="321.76666666666665" y="48" width="15.800000000000011" height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="327.55328776041665" y="71.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,142) scale(1,-1)">6</text>
+			<rect x="39.0" y="5" width="9.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="53.0" y="6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">1997</text>
+			<rect x="184.0" y="5" width="9.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="198.0" y="6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">2003</text>
+		</g>
+	</g>
+<title>欧盟服装进口均价｜1997 与 2003 年分组柱图</title></svg>

@@ -1,0 +1,58 @@
+<svg role="img" aria-label="美英澳学生赴海外留学｜2002–2007 年折线图" width="350" height="195" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 195" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="195"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-195)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="178" style="font-family: ENB; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,356) scale(1,-1)">Number of students</text>
+			<path d="M 43,39 L 335,39 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="31.99462890625" y="36.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">0</text>
+			<path d="M 43,62.6 L 335,62.6 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="9.472656249999996" y="59.6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,119) scale(1,-1)">10,000</text>
+			<path d="M 43,86.2 L 335,86.2 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="9.472656249999996" y="83.2" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,166) scale(1,-1)">20,000</text>
+			<path d="M 43,109.8 L 335,109.8 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="9.472656249999996" y="106.8" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,213) scale(1,-1)">30,000</text>
+			<path d="M 43,133.4 L 335,133.4 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="9.472656249999996" y="130.4" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,260) scale(1,-1)">40,000</text>
+			<path d="M 43,157 L 335,157 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="9.472656249999996" y="154.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,308) scale(1,-1)">50,000</text>
+			<path d="M 43,39 L 43,157 Z" style="stroke: rgb(87%,87%,83%); stroke-linecap: butt; stroke-width: 0.7;"/>
+			<text x="32.9892578125" y="24" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,48) scale(1,-1)">2002</text>
+			<text x="91.3892578125" y="24" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,48) scale(1,-1)">2003</text>
+			<text x="149.7892578125" y="24" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,48) scale(1,-1)">2004</text>
+			<text x="208.1892578125" y="24" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,48) scale(1,-1)">2005</text>
+			<text x="266.5892578125" y="24" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,48) scale(1,-1)">2006</text>
+			<text x="324.9892578125" y="24" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,48) scale(1,-1)">2007</text>
+			<polyline points="43 157, 101.4 152.28, 159.8 147.56, 218.2 149.92, 276.6 152.28, 335 157" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<rect x="41.3" y="155.3" width="3.3999999999999986" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<rect x="99.7" y="150.58" width="3.4000000000000057" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<rect x="158.10000000000002" y="145.86" width="3.4000000000000057" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<rect x="216.5" y="148.22000000000003" width="3.4000000000000057" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<rect x="274.90000000000003" y="150.58" width="3.3999999999999773" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<rect x="333.3" y="155.3" width="3.3999999999999773" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<path d="M 51,8 L 65,8 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="71" y="5" style="font-family: EN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,10) scale(1,-1)">US</text>
+			<polyline points="43 109.8, 101.4 109.8, 159.8 102.72, 218.2 98, 276.6 93.28, 335 88.56" style="stroke: rgb(84%,60%,36%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<rect x="41.3" y="108.1" width="3.3999999999999986" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<rect x="99.7" y="108.1" width="3.4000000000000057" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<rect x="158.10000000000002" y="101.02" width="3.4000000000000057" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<rect x="216.5" y="96.3" width="3.4000000000000057" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<rect x="274.90000000000003" y="91.58" width="3.3999999999999773" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<rect x="333.3" y="86.86" width="3.3999999999999773" height="3.4000000000000057" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<path d="M 148,8 L 162,8 Z" style="stroke: rgb(84%,60%,36%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="168" y="5" style="font-family: EN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,10) scale(1,-1)">UK</text>
+			<polyline points="43 62.6, 101.4 60.24, 159.8 57.88, 218.2 62.6, 276.6 62.6, 335 62.6" style="stroke: rgb(45%,55%,74%); stroke-linecap: butt; stroke-width: 1.8; fill: None; fill-rule: evenodd;"/>
+			<rect x="41.3" y="60.9" width="3.3999999999999986" height="3.3999999999999986" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<rect x="99.7" y="58.53999999999999" width="3.4000000000000057" height="3.3999999999999986" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<rect x="158.10000000000002" y="56.17999999999999" width="3.4000000000000057" height="3.3999999999999986" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<rect x="216.5" y="60.9" width="3.4000000000000057" height="3.3999999999999986" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<rect x="274.90000000000003" y="60.9" width="3.3999999999999773" height="3.3999999999999986" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<rect x="333.3" y="60.9" width="3.3999999999999773" height="3.3999999999999986" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<path d="M 245,8 L 259,8 Z" style="stroke: rgb(45%,55%,74%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="265" y="5" style="font-family: EN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,10) scale(1,-1)">Australia</text>
+		</g>
+	</g>
+<title>美英澳学生赴海外留学｜2002–2007 年折线图</title></svg>

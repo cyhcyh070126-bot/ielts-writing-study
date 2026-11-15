@@ -1,0 +1,66 @@
+<svg role="img" aria-label="Development of Riverside district" width="350" height="509" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 509" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="509"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-509)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="496" style="font-family: SENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,992) scale(1,-1)">Riverside district: 2010, 2020 and proposed 2030</text>
+			<text x="4" y="478" style="font-family: SENB; font-size: 11px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,956) scale(1,-1)">2010</text>
+			<rect x="4" y="339" width="342" height="131" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<rect x="33.879999999999995" y="420.21999999999997" width="134.4" height="39.30000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="79.328291015625" y="436.86999999999995" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,873) scale(1,-1)">Farmland</text>
+			<rect x="201.88" y="420.21999999999997" width="114.24000000000001" height="39.30000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="244.40498046875" y="436.86999999999995" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,873) scale(1,-1)">Forest</text>
+			<rect x="7.0" y="397.95" width="336.0" height="9.170000000000016" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="10.0" y="395.12" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,790) scale(1,-1)">Main road</text>
+			<rect x="33.879999999999995" y="361.27000000000004" width="107.51999999999998" height="23.579999999999984" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="68.74493164062498" y="370.06000000000006" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,740) scale(1,-1)">Housing</text>
+			<rect x="201.88" y="352.1" width="114.24000000000001" height="32.75" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="233.2374267578125" y="365.475" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,730) scale(1,-1)">Sports field</text>
+			<rect x="33.879999999999995" y="341.62" width="84.0" height="10.480000000000018" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="36.879999999999995" y="340.1" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,680) scale(1,-1)">Station</text>
+			<path d="M 336,441 L 336,456 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="336 456, 333.3902 450.5973, 338.6098 450.5973" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="332.6419189453125" y="459.0" style="font-family: SEN; font-size: 9.3px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,918) scale(1,-1)">N</text>
+			<text x="4" y="323" style="font-family: SENB; font-size: 11px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,646) scale(1,-1)">2020</text>
+			<rect x="4" y="184" width="342" height="131" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<rect x="33.879999999999995" y="265.21999999999997" width="134.4" height="39.30000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="64.723212890625" y="281.86999999999995" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,563) scale(1,-1)">Industrial estate</text>
+			<rect x="201.88" y="265.21999999999997" width="53.75999999999999" height="39.30000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="218.4574853515625" y="287.86999999999995" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,575) scale(1,-1)">New</text>
+			<text x="210.719912109375" y="275.56999999999994" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,551) scale(1,-1)">housing</text>
+			<rect x="269.08" y="265.21999999999997" width="47.04000000000002" height="39.30000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="278.00498046875" y="281.86999999999995" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,563) scale(1,-1)">Forest</text>
+			<rect x="7.0" y="242.95000000000002" width="336.0" height="9.169999999999987" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="10.0" y="240.12" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,480) scale(1,-1)">Main road</text>
+			<rect x="33.879999999999995" y="206.26999999999998" width="107.51999999999998" height="23.579999999999984" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="68.74493164062498" y="215.05999999999997" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,430) scale(1,-1)">Housing</text>
+			<rect x="201.88" y="197.1" width="114.24000000000001" height="32.75" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="233.2374267578125" y="210.475" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,420) scale(1,-1)">Sports field</text>
+			<rect x="33.879999999999995" y="186.62" width="84.0" height="10.47999999999999" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="36.879999999999995" y="185.1" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,370) scale(1,-1)">Station</text>
+			<path d="M 336,286 L 336,301 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="336 301, 333.3902 295.5973, 338.6098 295.5973" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="332.6419189453125" y="304.0" style="font-family: SEN; font-size: 9.3px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,608) scale(1,-1)">N</text>
+			<text x="4" y="168" style="font-family: SENB; font-size: 11px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,336) scale(1,-1)">2030 (proposed)</text>
+			<rect x="4" y="29" width="342" height="131" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<rect x="33.879999999999995" y="110.22000000000001" width="134.4" height="39.3" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="68.7340771484375" y="126.87" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,253) scale(1,-1)">Business park</text>
+			<rect x="201.88" y="110.22000000000001" width="114.24000000000001" height="39.3" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="216.3339599609375" y="126.87" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,253) scale(1,-1)">Expanded housing</text>
+			<rect x="7.0" y="87.95" width="336.0" height="9.170000000000002" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="10.0" y="85.12" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,170) scale(1,-1)">Main road</text>
+			<rect x="33.879999999999995" y="51.269999999999996" width="107.51999999999998" height="23.58" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="68.74493164062498" y="60.059999999999995" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,120) scale(1,-1)">Housing</text>
+			<rect x="201.88" y="42.099999999999994" width="114.24000000000001" height="32.75" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="221.49150390625" y="55.474999999999994" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">Shopping centre</text>
+			<rect x="33.879999999999995" y="31.619999999999994" width="84.0" height="10.48" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="36.879999999999995" y="30.099999999999994" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,60) scale(1,-1)">Station</text>
+			<path d="M 336,131 L 336,146 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="336 146, 333.3902 140.5973, 338.6098 140.5973" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="332.6419189453125" y="149.0" style="font-family: SEN; font-size: 9.3px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,298) scale(1,-1)">N</text>
+		</g>
+	</g>
+<title>Development of Riverside district</title></svg>

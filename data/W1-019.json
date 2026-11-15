@@ -1,0 +1,245 @@
+{
+  "id": "W1-019",
+  "task": 1,
+  "title": "区域地图｜公园的保留、替换与缩减",
+  "prompt": "The maps illustrate a municipal park in 1988 and 2001. Describe the main changes in its layout and compare the features that changed with those that remained.",
+  "source_group": "practice",
+  "data": {
+    "coordinate_note": "Drawing coordinates are schematic, not real-world distances.",
+    "elements": [
+      {
+        "shape": "String",
+        "text": "1988",
+        "x": 3,
+        "y": 329
+      },
+      {
+        "shape": "Rect",
+        "x": 3,
+        "y": 173,
+        "width": 344,
+        "height": 149
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 240.05,
+        "width": 323.36,
+        "height": 16.39
+      },
+      {
+        "shape": "String",
+        "text": "Main path",
+        "x": 175.0,
+        "y": 245.245
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 183.43,
+        "width": 144.48,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Pond",
+        "x": 85.56,
+        "y": 205.76
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 262.4,
+        "width": 144.48,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Woodland",
+        "x": 85.56,
+        "y": 284.73
+      },
+      {
+        "shape": "Rect",
+        "x": 188.76,
+        "y": 262.4,
+        "width": 147.92,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Picnic field",
+        "x": 262.71999999999997,
+        "y": 284.73
+      },
+      {
+        "shape": "Rect",
+        "x": 188.76,
+        "y": 183.43,
+        "width": 147.92,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Car park",
+        "x": 262.71999999999997,
+        "y": 205.76
+      },
+      {
+        "shape": "String",
+        "text": "2001",
+        "x": 3,
+        "y": 158
+      },
+      {
+        "shape": "Rect",
+        "x": 3,
+        "y": 2,
+        "width": 344,
+        "height": 149
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 69.05,
+        "width": 323.36,
+        "height": 16.39
+      },
+      {
+        "shape": "String",
+        "text": "Main path",
+        "x": 175.0,
+        "y": 74.245
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 12.430000000000007,
+        "width": 144.48,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Pond",
+        "x": 85.56,
+        "y": 34.760000000000005
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 91.4,
+        "width": 144.48,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Community garden",
+        "x": 85.56,
+        "y": 113.73
+      },
+      {
+        "shape": "Rect",
+        "x": 188.76,
+        "y": 91.4,
+        "width": 68.8,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Picnic field",
+        "x": 223.16,
+        "y": 113.73
+      },
+      {
+        "shape": "Rect",
+        "x": 267.88,
+        "y": 91.4,
+        "width": 68.8,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Playground",
+        "x": 302.28,
+        "y": 113.73
+      },
+      {
+        "shape": "Rect",
+        "x": 188.76,
+        "y": 12.430000000000007,
+        "width": 68.8,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Cycle parking",
+        "x": 223.16,
+        "y": 34.760000000000005
+      },
+      {
+        "shape": "Rect",
+        "x": 267.88,
+        "y": 12.430000000000007,
+        "width": 68.8,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Visitor centre",
+        "x": 302.28,
+        "y": 34.760000000000005
+      },
+      {
+        "shape": "String",
+        "text": "N",
+        "x": 329,
+        "y": 157
+      },
+      {
+        "shape": "Line",
+        "x1": 343,
+        "x2": 343,
+        "y1": 154,
+        "y2": 166
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          343,
+          167,
+          340,
+          162,
+          346,
+          162
+        ]
+      },
+      {
+        "shape": "String",
+        "text": "N",
+        "x": 329,
+        "y": 328
+      },
+      {
+        "shape": "Line",
+        "x1": 343,
+        "x2": 343,
+        "y1": 325,
+        "y2": 337
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          343,
+          338,
+          340,
+          333,
+          346,
+          333
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-019.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-019.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-019.html"
+}

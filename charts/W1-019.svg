@@ -1,0 +1,45 @@
+<svg role="img" aria-label="区域地图｜公园的保留、替换与缩减" width="350" height="342" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 342" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="342"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-342)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="3" y="329" style="font-family: ENB; font-size: 10.6px;fill: rgb(36%,81%,84%); stroke:none;" transform="translate(0,658) scale(1,-1)">1988</text>
+			<rect x="3" y="173" width="344" height="149" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.75; fill: none; fill-rule: evenodd;"/>
+			<rect x="13.32" y="240.05" width="323.36" height="16.389999999999986" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="156.335693359375" y="245.245" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,490) scale(1,-1)">Main path</text>
+			<rect x="13.32" y="183.43" width="144.48" height="50.66" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="75.6343408203125" y="205.76" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,411) scale(1,-1)">Pond</text>
+			<rect x="13.32" y="262.4" width="144.48" height="50.65999999999997" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="66.422548828125" y="284.73" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,569) scale(1,-1)">Woodland</text>
+			<rect x="188.76" y="262.4" width="147.91999999999996" height="50.65999999999997" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="242.40591308593747" y="284.73" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,569) scale(1,-1)">Picnic field</text>
+			<rect x="188.76" y="183.43" width="147.91999999999996" height="50.66" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="246.42349121093747" y="205.76" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,411) scale(1,-1)">Car park</text>
+			<text x="3" y="158" style="font-family: ENB; font-size: 10.6px;fill: rgb(36%,81%,84%); stroke:none;" transform="translate(0,316) scale(1,-1)">2001</text>
+			<rect x="3" y="2" width="344" height="149" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.75; fill: none; fill-rule: evenodd;"/>
+			<rect x="13.32" y="69.05" width="323.36" height="16.39" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="156.335693359375" y="74.245" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,148) scale(1,-1)">Main path</text>
+			<rect x="13.32" y="12.430000000000007" width="144.48" height="50.66" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="75.6343408203125" y="34.760000000000005" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,69) scale(1,-1)">Pond</text>
+			<rect x="13.32" y="91.4" width="144.48" height="50.66" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="49.654970703125" y="113.73" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,227) scale(1,-1)">Community garden</text>
+			<rect x="188.76" y="91.4" width="68.80000000000001" height="50.66" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="202.8459130859375" y="113.73" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,227) scale(1,-1)">Picnic field</text>
+			<rect x="267.88" y="91.4" width="68.80000000000001" height="50.66" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="280.7789013671875" y="113.73" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,227) scale(1,-1)">Playground</text>
+			<rect x="188.76" y="12.430000000000007" width="68.80000000000001" height="50.66" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="197.4130517578125" y="34.760000000000005" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,69) scale(1,-1)">Cycle parking</text>
+			<rect x="267.88" y="12.430000000000007" width="68.80000000000001" height="50.66" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="277.4793408203125" y="34.760000000000005" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,69) scale(1,-1)">Visitor centre</text>
+			<text x="329" y="157" style="font-family: ENB; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,314) scale(1,-1)">N</text>
+			<path d="M 343,154 L 343,166 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="343 167, 340 162, 346 162" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+			<text x="329" y="328" style="font-family: ENB; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,656) scale(1,-1)">N</text>
+			<path d="M 343,325 L 343,337 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="343 338, 340 333, 346 333" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+<title>区域地图｜公园的保留、替换与缩减</title></svg>

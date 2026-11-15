@@ -1,0 +1,45 @@
+{
+  "id": "W1-012",
+  "task": 1,
+  "title": "成人教育中心课程选课比例｜1985 与今年双饼图",
+  "prompt": "You should spend about 20 minutes on this task. The pie charts compare how students at an adult education centre were distributed across courses in 1985 and how they are distributed this year. Summarise the main features and make relevant comparisons. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "labels": [
+      "Modern languages",
+      "Fitness and dance",
+      "Art",
+      "Local history",
+      "Cookery",
+      "Music appreciation",
+      "IT"
+    ],
+    "years": [
+      "1985",
+      "This year"
+    ],
+    "values": [
+      [
+        24,
+        22,
+        17,
+        15,
+        14,
+        8,
+        null
+      ],
+      [
+        17,
+        22,
+        15,
+        null,
+        19,
+        null,
+        27
+      ]
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-012.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-012.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-012.html"
+}

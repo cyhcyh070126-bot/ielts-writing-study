@@ -1,0 +1,44 @@
+<svg role="img" aria-label="Changes to a public park" width="350" height="424" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 424" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="424"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-424)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="411" style="font-family: SENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,822) scale(1,-1)">Greenfield Park: 2005 and 2026</text>
+			<text x="4" y="393" style="font-family: SENB; font-size: 11px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,786) scale(1,-1)">2005</text>
+			<rect x="4" y="219" width="342" height="166" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<rect x="47.32" y="335.2" width="67.20000000000002" height="29.879999999999995" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="68.8924365234375" y="347.14" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,694) scale(1,-1)">Pond</text>
+			<rect x="154.84" y="335.2" width="73.91999999999999" height="29.879999999999995" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="158.8807373046875" y="347.14" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,694) scale(1,-1)">Flower garden</text>
+			<rect x="262.36" y="330.22" width="50.39999999999998" height="29.879999999999995" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="261.5057275390625" y="342.16" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,684) scale(1,-1)">Playground</text>
+			<rect x="124.6" y="268.8" width="100.79999999999998" height="41.5" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="162.68828125" y="286.55" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,573) scale(1,-1)">Lawn</text>
+			<rect x="154.84" y="222.32" width="53.75999999999999" height="13.280000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="157.84" y="223.6" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,447) scale(1,-1)">Entrance</text>
+			<path d="M 336,356 L 336,371 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="336 371, 333.3902 365.5973, 338.6098 365.5973" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="332.6419189453125" y="374.0" style="font-family: SEN; font-size: 9.3px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,748) scale(1,-1)">N</text>
+			<text x="4" y="203" style="font-family: SENB; font-size: 11px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,406) scale(1,-1)">2026 (present)</text>
+			<rect x="4" y="29" width="342" height="166" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<rect x="47.32" y="145.2" width="67.20000000000002" height="29.879999999999995" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="68.8924365234375" y="157.14" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,314) scale(1,-1)">Pond</text>
+			<rect x="154.84" y="145.2" width="73.91999999999999" height="29.879999999999995" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="180.921630859375" y="157.14" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,314) scale(1,-1)">Cafe</text>
+			<rect x="252.28" y="128.6" width="77.28" height="46.47999999999999" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="264.8657275390625" y="148.84" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,297) scale(1,-1)">Playground</text>
+			<rect x="124.6" y="78.8" width="100.79999999999998" height="41.5" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="150.381591796875" y="96.55" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,193) scale(1,-1)">Skate park</text>
+			<rect x="47.32" y="50.58" width="73.92000000000002" height="19.92" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="50.32" y="58.5" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,117) scale(1,-1)">Bicycle parking</text>
+			<rect x="154.84" y="32.31999999999999" width="53.75999999999999" height="13.280000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="157.84" y="33.599999999999994" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,67) scale(1,-1)">Entrance</text>
+			<path d="M 336,166 L 336,181 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="336 181, 333.3902 175.5973, 338.6098 175.5973" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="332.6419189453125" y="184.0" style="font-family: SEN; font-size: 9.3px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,368) scale(1,-1)">N</text>
+		</g>
+	</g>
+<title>Changes to a public park</title></svg>

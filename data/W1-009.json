@@ -1,0 +1,165 @@
+{
+  "id": "W1-009",
+  "task": 1,
+  "title": "Development of Riverside district",
+  "prompt": "The maps show Riverside district in 2010 and 2020, together with its proposed layout for 2030. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "map_development",
+    "title": "Riverside district: 2010, 2020 and proposed 2030",
+    "panels": [
+      {
+        "title": "2010",
+        "features": [
+          {
+            "label": "Farmland",
+            "x": 8,
+            "y": 8,
+            "w": 40,
+            "h": 30
+          },
+          {
+            "label": "Forest",
+            "x": 58,
+            "y": 8,
+            "w": 34,
+            "h": 30
+          },
+          {
+            "label": "Main road",
+            "x": 0,
+            "y": 48,
+            "w": 100,
+            "h": 7
+          },
+          {
+            "label": "Housing",
+            "x": 8,
+            "y": 65,
+            "w": 32,
+            "h": 18
+          },
+          {
+            "label": "Sports field",
+            "x": 58,
+            "y": 65,
+            "w": 34,
+            "h": 25
+          },
+          {
+            "label": "Station",
+            "x": 8,
+            "y": 90,
+            "w": 25,
+            "h": 8
+          }
+        ]
+      },
+      {
+        "title": "2020",
+        "features": [
+          {
+            "label": "Industrial estate",
+            "x": 8,
+            "y": 8,
+            "w": 40,
+            "h": 30
+          },
+          {
+            "label": "New housing",
+            "x": 58,
+            "y": 8,
+            "w": 16,
+            "h": 30
+          },
+          {
+            "label": "Forest",
+            "x": 78,
+            "y": 8,
+            "w": 14,
+            "h": 30
+          },
+          {
+            "label": "Main road",
+            "x": 0,
+            "y": 48,
+            "w": 100,
+            "h": 7
+          },
+          {
+            "label": "Housing",
+            "x": 8,
+            "y": 65,
+            "w": 32,
+            "h": 18
+          },
+          {
+            "label": "Sports field",
+            "x": 58,
+            "y": 65,
+            "w": 34,
+            "h": 25
+          },
+          {
+            "label": "Station",
+            "x": 8,
+            "y": 90,
+            "w": 25,
+            "h": 8
+          }
+        ]
+      },
+      {
+        "title": "2030 (proposed)",
+        "features": [
+          {
+            "label": "Business park",
+            "x": 8,
+            "y": 8,
+            "w": 40,
+            "h": 30
+          },
+          {
+            "label": "Expanded housing",
+            "x": 58,
+            "y": 8,
+            "w": 34,
+            "h": 30
+          },
+          {
+            "label": "Main road",
+            "x": 0,
+            "y": 48,
+            "w": 100,
+            "h": 7
+          },
+          {
+            "label": "Housing",
+            "x": 8,
+            "y": 65,
+            "w": 32,
+            "h": 18
+          },
+          {
+            "label": "Shopping centre",
+            "x": 58,
+            "y": 65,
+            "w": 34,
+            "h": 25
+          },
+          {
+            "label": "Station",
+            "x": 8,
+            "y": 90,
+            "w": 25,
+            "h": 8
+          }
+        ]
+      }
+    ],
+    "notes_cn": "三图同尺度、N向上；Main road 用灰色横向带表现，贯穿东西且三期完全一致；2030 标proposed。2020东北新房与剩余林地分成两个相邻块。"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-009.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-009.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-009.html"
+}

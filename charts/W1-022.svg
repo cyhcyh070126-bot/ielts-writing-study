@@ -1,0 +1,82 @@
+<svg role="img" aria-label="不同单位的双线图｜钢铁产量、进口和就业" width="350" height="332" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 332" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="332"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-332)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="2" y="316" style="font-family: ENB; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,632) scale(1,-1)">Steel output and imports (million tonnes)</text>
+			<path d="M 37,207 L 327,207 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="26.272705078125" y="204.0" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,408) scale(1,-1)">0</text>
+			<path d="M 37,226.2 L 327,226.2 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="21.54541015625" y="223.2" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,446) scale(1,-1)">20</text>
+			<path d="M 37,245.4 L 327,245.4 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="21.54541015625" y="242.4" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,484) scale(1,-1)">40</text>
+			<path d="M 37,264.6 L 327,264.6 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="21.54541015625" y="261.6" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,523) scale(1,-1)">60</text>
+			<path d="M 37,283.8 L 327,283.8 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="21.54541015625" y="280.8" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,561) scale(1,-1)">80</text>
+			<path d="M 37,303 L 327,303 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="16.818115234375" y="300.0" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,600) scale(1,-1)">100</text>
+			<text x="49.54541015625" y="194" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">1990</text>
+			<text x="131.54541015625" y="194" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">2000</text>
+			<text x="213.54541015625" y="194" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">2010</text>
+			<text x="295.54541015625" y="194" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">2020</text>
+			<path d="M 59,285.72 L 141,274.2 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 141,274.2 L 223,258.84 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 223,258.84 L 305,245.4 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<circle cx="59.0" cy="285.72" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="55.55078125" y="291.72" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,583) scale(1,-1)">82</text>
+			<circle cx="141.0" cy="274.2" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="137.55078125" y="280.2" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,560) scale(1,-1)">70</text>
+			<circle cx="223.0" cy="258.84000000000003" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="219.55078125" y="264.84000000000003" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,529) scale(1,-1)">54</text>
+			<circle cx="305.0" cy="245.4" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="301.55078125" y="233.4" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,466) scale(1,-1)">40</text>
+			<path d="M 50,177 L 67,177 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="73" y="174" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,348) scale(1,-1)">Output</text>
+			<path d="M 59,218.52 L 141,231 Z" style="stroke: rgb(84%,60%,36%); stroke-linecap: butt; stroke-width: 1.8; stroke-dasharray: 4, 3;"/>
+			<path d="M 141,231 L 223,247.32 Z" style="stroke: rgb(84%,60%,36%); stroke-linecap: butt; stroke-width: 1.8; stroke-dasharray: 4, 3;"/>
+			<path d="M 223,247.32 L 305,255 Z" style="stroke: rgb(84%,60%,36%); stroke-linecap: butt; stroke-width: 1.8; stroke-dasharray: 4, 3;"/>
+			<circle cx="59.0" cy="218.52" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="55.55078125" y="206.52" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,413) scale(1,-1)">12</text>
+			<circle cx="141.0" cy="231.0" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="137.55078125" y="219.0" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,438) scale(1,-1)">25</text>
+			<circle cx="223.0" cy="247.32" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="219.55078125" y="235.32" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,470) scale(1,-1)">42</text>
+			<circle cx="305.0" cy="255.0" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="301.55078125" y="261.0" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,522) scale(1,-1)">50</text>
+			<path d="M 160,177 L 177,177 Z" style="stroke: rgb(84%,60%,36%); stroke-linecap: butt; stroke-width: 1.8; stroke-dasharray: 4, 3;"/>
+			<text x="183" y="174" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,348) scale(1,-1)">Imports</text>
+			<text x="2" y="148" style="font-family: ENB; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,296) scale(1,-1)">Steel industry employment (thousand workers)</text>
+			<path d="M 37,39 L 327,39 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="26.272705078125" y="36.0" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">0</text>
+			<path d="M 37,63 L 327,63 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="21.54541015625" y="60.0" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,120) scale(1,-1)">50</text>
+			<path d="M 37,87 L 327,87 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="16.818115234375" y="84.0" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,168) scale(1,-1)">100</text>
+			<path d="M 37,111 L 327,111 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="16.818115234375" y="108.0" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,216) scale(1,-1)">150</text>
+			<path d="M 37,135 L 327,135 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="16.818115234375" y="132.0" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,264) scale(1,-1)">200</text>
+			<text x="49.54541015625" y="26" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,52) scale(1,-1)">1990</text>
+			<text x="131.54541015625" y="26" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,52) scale(1,-1)">2000</text>
+			<text x="213.54541015625" y="26" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,52) scale(1,-1)">2010</text>
+			<text x="295.54541015625" y="26" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,52) scale(1,-1)">2020</text>
+			<path d="M 59,130.2 L 141,111 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 141,111 L 223,84.6 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 223,84.6 L 305,69.72 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<circle cx="59.0" cy="130.2" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="53.326171875" y="136.2" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,272) scale(1,-1)">190</text>
+			<circle cx="141.0" cy="111.0" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="135.326171875" y="117.0" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,234) scale(1,-1)">150</text>
+			<circle cx="223.0" cy="84.6" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="219.55078125" y="90.6" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,181) scale(1,-1)">95</text>
+			<circle cx="305.0" cy="69.72" r="2.8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="301.55078125" y="75.72" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,151) scale(1,-1)">64</text>
+			<path d="M 50,9 L 67,9 Z" style="stroke: rgb(36%,80%,84%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="73" y="6" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">Workers</text>
+		</g>
+	</g>
+<title>不同单位的双线图｜钢铁产量、进口和就业</title></svg>

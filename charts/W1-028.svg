@@ -1,0 +1,76 @@
+<svg role="img" aria-label="墨尔本社交中心活动人数" width="500" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="500" height="450" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,10%,12%); fill-rule: evenodd;"/>
+			<text x="14" y="426" style="font-family: Helvetica; font-size: 17px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,852) scale(1,-1)">Melbourne social centre: participants</text>
+			<text x="14" y="405" style="font-family: Helvetica; font-size: 11px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,810) scale(1,-1)">Independent study redraw; see book/test reference</text>
+			<text x="14" y="392" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,784) scale(1,-1)">Approximate readings, 2000-2020</text>
+			<path d="M 42,142 L 482,142 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="27.328" y="138.0" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,276) scale(1,-1)">0</text>
+			<path d="M 42,175.571429 L 482,175.571429 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="20.656" y="171.57142857142856" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,343) scale(1,-1)">10</text>
+			<path d="M 42,209.142857 L 482,209.142857 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="20.656" y="205.14285714285714" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,410) scale(1,-1)">20</text>
+			<path d="M 42,242.714286 L 482,242.714286 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="20.656" y="238.71428571428572" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,477) scale(1,-1)">30</text>
+			<path d="M 42,276.285714 L 482,276.285714 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="20.656" y="272.2857142857143" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,544) scale(1,-1)">40</text>
+			<path d="M 42,309.857143 L 482,309.857143 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="20.656" y="305.8571428571429" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,611) scale(1,-1)">50</text>
+			<path d="M 42,343.428571 L 482,343.428571 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="20.656" y="339.42857142857144" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,678) scale(1,-1)">60</text>
+			<path d="M 42,377 L 482,377 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="20.656" y="373.0" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,746) scale(1,-1)">70</text>
+			<text x="28.656" y="120" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,240) scale(1,-1)">2000</text>
+			<text x="138.656" y="120" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,240) scale(1,-1)">2005</text>
+			<text x="248.656" y="120" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,240) scale(1,-1)">2010</text>
+			<text x="358.656" y="120" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,240) scale(1,-1)">2015</text>
+			<text x="468.656" y="120" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,240) scale(1,-1)">2020</text>
+			<polyline points="42 356.8571, 152 350.1429, 262 343.4286, 372 356.8571, 482 363.5714" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<circle cx="42.0" cy="356.8571428571429" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<circle cx="152.0" cy="350.1428571428571" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<circle cx="262.0" cy="343.42857142857144" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<circle cx="372.0" cy="356.8571428571429" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<circle cx="482.0" cy="363.57142857142856" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<path d="M 16,94 L 34,94 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="42" y="90" style="font-family: Helvetica; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,180) scale(1,-1)">Film club</text>
+			<polyline points="42 262.8571, 152 249.4286, 262 269.5714, 372 256.1429, 482 262.8571" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<circle cx="42.0" cy="262.8571428571429" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="152.0" cy="249.42857142857144" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="262.0" cy="269.57142857142856" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="372.0" cy="256.1428571428571" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="482.0" cy="262.8571428571429" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<path d="M 263,94 L 281,94 Z" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="289" y="90" style="font-family: Helvetica; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,180) scale(1,-1)">Martial arts</text>
+			<polyline points="42 229.2857, 152 236, 262 209.1429, 372 189, 482 162.1429" style="stroke: rgb(62%,72%,85%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<circle cx="42.0" cy="229.28571428571428" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<circle cx="152.0" cy="236.0" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<circle cx="262.0" cy="209.14285714285714" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<circle cx="372.0" cy="189.0" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<circle cx="482.0" cy="162.14285714285714" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<path d="M 16,65 L 34,65 Z" style="stroke: rgb(62%,72%,85%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="42" y="61" style="font-family: Helvetica; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,122) scale(1,-1)">Amateur dramatics</text>
+			<polyline points="42 195.7143, 152 209.1429, 262 209.1429, 372 262.8571, 482 323.2857" style="stroke: rgb(83%,65%,74%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<circle cx="42.0" cy="195.71428571428572" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,65%,74%); fill-rule: evenodd;"/>
+			<circle cx="152.0" cy="209.14285714285714" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,65%,74%); fill-rule: evenodd;"/>
+			<circle cx="262.0" cy="209.14285714285714" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,65%,74%); fill-rule: evenodd;"/>
+			<circle cx="372.0" cy="262.8571428571429" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,65%,74%); fill-rule: evenodd;"/>
+			<circle cx="482.0" cy="323.2857142857143" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(83%,65%,74%); fill-rule: evenodd;"/>
+			<path d="M 263,65 L 281,65 Z" style="stroke: rgb(83%,65%,74%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="289" y="61" style="font-family: Helvetica; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,122) scale(1,-1)">Table tennis</text>
+			<polyline points="42 142, 152 142, 262 182.2857, 372 195.7143, 482 202.4286" style="stroke: rgb(77%,76%,56%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<circle cx="42.0" cy="142.0" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,76%,56%); fill-rule: evenodd;"/>
+			<circle cx="152.0" cy="142.0" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,76%,56%); fill-rule: evenodd;"/>
+			<circle cx="262.0" cy="182.28571428571428" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,76%,56%); fill-rule: evenodd;"/>
+			<circle cx="372.0" cy="195.71428571428572" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,76%,56%); fill-rule: evenodd;"/>
+			<circle cx="482.0" cy="202.42857142857144" r="3" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(77%,76%,56%); fill-rule: evenodd;"/>
+			<path d="M 16,36 L 34,36 Z" style="stroke: rgb(77%,76%,56%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="42" y="32" style="font-family: Helvetica; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,64) scale(1,-1)">Musical performances</text>
+		</g>
+	</g>
+<title>墨尔本社交中心活动人数</title></svg>

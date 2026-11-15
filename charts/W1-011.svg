@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="821.5714285714286" viewBox="0 0 880 821.5714285714286" font-family="Arial"><svg x="0" y="20" width="880" height="364.57142857142856" viewBox="0 0 350.0 145.0">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="145"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-145)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="131" style="font-family: ENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,262) scale(1,-1)">Australian residents by country of birth (%)</text>
+			<g transform="">
+				<path d="M 65.5,63.5 L 65.5,120 A 56.5,56.5 0 1 0 9.445519,56.418672 L 65.5,63.5 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(100%,100%,100%); stroke-linecap: round; stroke-width: 1; fill: rgb(8%,50%,54%); fill-rule: evenodd;"/>
+				<path d="M 65.5,63.5 L 9.445519,56.418672 A 56.5,56.5 0 0 0 11.765307,80.95946 L 65.5,63.5 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(100%,100%,100%); stroke-linecap: round; stroke-width: 1; fill: rgb(90%,57%,23%); fill-rule: evenodd;"/>
+				<path d="M 65.5,63.5 L 11.765307,80.95946 A 56.5,56.5 0 0 0 15.988673,90.719083 L 65.5,63.5 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(100%,100%,100%); stroke-linecap: round; stroke-width: 1; fill: rgb(29%,41%,65%); fill-rule: evenodd;"/>
+				<path d="M 65.5,63.5 L 15.988673,90.719083 A 56.5,56.5 0 0 0 19.79054,96.709867 L 65.5,63.5 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(100%,100%,100%); stroke-linecap: round; stroke-width: 1; fill: rgb(68%,38%,47%); fill-rule: evenodd;"/>
+				<path d="M 65.5,63.5 L 19.79054,96.709867 A 56.5,56.5 0 0 0 21.966002,99.514455 L 65.5,63.5 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(100%,100%,100%); stroke-linecap: round; stroke-width: 1; fill: rgb(54%,47%,16%); fill-rule: evenodd;"/>
+				<path d="M 65.5,63.5 L 21.966002,99.514455 A 56.5,56.5 0 0 0 65.5,120 L 65.5,63.5 Z" style="font-family: Times-Roman; font-size: 10px; stroke: rgb(100%,100%,100%); stroke-linecap: round; stroke-width: 1; fill: rgb(44%,50%,56%); fill-rule: evenodd;"/>
+			</g>
+			<rect x="152" y="103" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="167" y="104" style="font-family: EN; font-size: 10.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,208) scale(1,-1)">Australia  73%</text>
+			<rect x="152" y="86" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="167" y="87" style="font-family: EN; font-size: 10.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,174) scale(1,-1)">United Kingdom  7%</text>
+			<rect x="152" y="69" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<text x="167" y="70" style="font-family: EN; font-size: 10.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,140) scale(1,-1)">New Zealand  3%</text>
+			<rect x="152" y="52" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,47%,54%); fill-rule: evenodd;"/>
+			<text x="167" y="53" style="font-family: EN; font-size: 10.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,106) scale(1,-1)">China  2%</text>
+			<rect x="152" y="35" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(81%,73%,38%); fill-rule: evenodd;"/>
+			<text x="167" y="36" style="font-family: EN; font-size: 10.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Netherlands  1%</text>
+			<rect x="152" y="18" width="9" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(54%,60%,65%); fill-rule: evenodd;"/>
+			<text x="167" y="19" style="font-family: EN; font-size: 10.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,38) scale(1,-1)">Other  14%</text>
+		</g>
+	</g>
+<title>澳大利亚居民出生地与城乡分布｜饼图＋表格</title></svg><svg x="0" y="408.57142857142856" width="880" height="389.0" viewBox="0 0 880.0 389.0"><rect x="24" y="13" width="832" height="51" fill="#28343c" stroke="#58656c"/><text x="36.0" y="45" fill="#dfdfd4" font-size="21">Country of birth</text><text x="313.3333333333333" y="45" fill="#dfdfd4" font-size="21">Cities (%)</text><text x="590.6666666666666" y="45" fill="#dfdfd4" font-size="21">Rural areas (%)</text><rect x="24" y="64" width="832" height="51" fill="#171c21" stroke="#58656c"/><text x="36.0" y="96" fill="#dfdfd4" font-size="21">United Kingdom</text><text x="313.3333333333333" y="96" fill="#dfdfd4" font-size="21">89</text><text x="590.6666666666666" y="96" fill="#dfdfd4" font-size="21">11</text><rect x="24" y="115" width="832" height="51" fill="#171c21" stroke="#58656c"/><text x="36.0" y="147" fill="#dfdfd4" font-size="21">Australia</text><text x="313.3333333333333" y="147" fill="#dfdfd4" font-size="21">83</text><text x="590.6666666666666" y="147" fill="#dfdfd4" font-size="21">17</text><rect x="24" y="166" width="832" height="51" fill="#171c21" stroke="#58656c"/><text x="36.0" y="198" fill="#dfdfd4" font-size="21">China</text><text x="313.3333333333333" y="198" fill="#dfdfd4" font-size="21">99</text><text x="590.6666666666666" y="198" fill="#dfdfd4" font-size="21">1</text><rect x="24" y="217" width="832" height="51" fill="#171c21" stroke="#58656c"/><text x="36.0" y="249" fill="#dfdfd4" font-size="21">New Zealand</text><text x="313.3333333333333" y="249" fill="#dfdfd4" font-size="21">80</text><text x="590.6666666666666" y="249" fill="#dfdfd4" font-size="21">20</text><rect x="24" y="268" width="832" height="51" fill="#171c21" stroke="#58656c"/><text x="36.0" y="300" fill="#dfdfd4" font-size="21">Netherlands</text><text x="313.3333333333333" y="300" fill="#dfdfd4" font-size="21">90</text><text x="590.6666666666666" y="300" fill="#dfdfd4" font-size="21">10</text></svg></svg>

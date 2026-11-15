@@ -1,0 +1,379 @@
+{
+  "id": "W1-023",
+  "task": 1,
+  "title": "百分比分母｜男女电子设备用时占比",
+  "prompt": "The bars compare how men and women in one country divided their time among four types of electronic device in 2012 and 2022. Select and compare the main features.",
+  "source_group": "practice",
+  "data": {
+    "coordinate_note": "Drawing coordinates are schematic, not real-world distances.",
+    "elements": [
+      {
+        "shape": "String",
+        "text": "Share of time on electronic devices (%)",
+        "x": 2,
+        "y": 205
+      },
+      {
+        "shape": "String",
+        "text": "Men 2012",
+        "x": 61,
+        "y": 171
+      },
+      {
+        "shape": "Rect",
+        "x": 67,
+        "y": 162,
+        "width": 122.4,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "TV",
+        "x": 128.2,
+        "y": 177
+      },
+      {
+        "shape": "String",
+        "text": "45",
+        "x": 128.2,
+        "y": 166
+      },
+      {
+        "shape": "Rect",
+        "x": 189.4,
+        "y": 162,
+        "width": 81.6,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Computer",
+        "x": 230.2,
+        "y": 177
+      },
+      {
+        "shape": "String",
+        "text": "30",
+        "x": 230.2,
+        "y": 166
+      },
+      {
+        "shape": "Rect",
+        "x": 271.0,
+        "y": 162,
+        "width": 40.8,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Phone",
+        "x": 291.4,
+        "y": 177
+      },
+      {
+        "shape": "String",
+        "text": "15",
+        "x": 291.4,
+        "y": 166
+      },
+      {
+        "shape": "Rect",
+        "x": 311.8,
+        "y": 162,
+        "width": 27.2,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Other",
+        "x": 325.40000000000003,
+        "y": 177
+      },
+      {
+        "shape": "String",
+        "text": "10",
+        "x": 325.40000000000003,
+        "y": 166
+      },
+      {
+        "shape": "String",
+        "text": "Men 2022",
+        "x": 61,
+        "y": 134
+      },
+      {
+        "shape": "Rect",
+        "x": 67,
+        "y": 125,
+        "width": 70.72,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "TV",
+        "x": 102.36,
+        "y": 140
+      },
+      {
+        "shape": "String",
+        "text": "26",
+        "x": 102.36,
+        "y": 129
+      },
+      {
+        "shape": "Rect",
+        "x": 137.72,
+        "y": 125,
+        "width": 76.16,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Computer",
+        "x": 175.8,
+        "y": 140
+      },
+      {
+        "shape": "String",
+        "text": "28",
+        "x": 175.8,
+        "y": 129
+      },
+      {
+        "shape": "Rect",
+        "x": 213.88,
+        "y": 125,
+        "width": 97.92,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Phone",
+        "x": 262.84,
+        "y": 140
+      },
+      {
+        "shape": "String",
+        "text": "36",
+        "x": 262.84,
+        "y": 129
+      },
+      {
+        "shape": "Rect",
+        "x": 311.8,
+        "y": 125,
+        "width": 27.2,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Other",
+        "x": 325.40000000000003,
+        "y": 140
+      },
+      {
+        "shape": "String",
+        "text": "10",
+        "x": 325.40000000000003,
+        "y": 129
+      },
+      {
+        "shape": "String",
+        "text": "Women 2012",
+        "x": 61,
+        "y": 97
+      },
+      {
+        "shape": "Rect",
+        "x": 67,
+        "y": 88,
+        "width": 136.0,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "TV",
+        "x": 135.0,
+        "y": 103
+      },
+      {
+        "shape": "String",
+        "text": "50",
+        "x": 135.0,
+        "y": 92
+      },
+      {
+        "shape": "Rect",
+        "x": 203.0,
+        "y": 88,
+        "width": 59.84,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Computer",
+        "x": 232.92000000000002,
+        "y": 103
+      },
+      {
+        "shape": "String",
+        "text": "22",
+        "x": 232.92000000000002,
+        "y": 92
+      },
+      {
+        "shape": "Rect",
+        "x": 262.84000000000003,
+        "y": 88,
+        "width": 48.96,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Phone",
+        "x": 287.32000000000005,
+        "y": 103
+      },
+      {
+        "shape": "String",
+        "text": "18",
+        "x": 287.32000000000005,
+        "y": 92
+      },
+      {
+        "shape": "Rect",
+        "x": 311.8,
+        "y": 88,
+        "width": 27.2,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Other",
+        "x": 325.40000000000003,
+        "y": 103
+      },
+      {
+        "shape": "String",
+        "text": "10",
+        "x": 325.40000000000003,
+        "y": 92
+      },
+      {
+        "shape": "String",
+        "text": "Women 2022",
+        "x": 61,
+        "y": 60
+      },
+      {
+        "shape": "Rect",
+        "x": 67,
+        "y": 51,
+        "width": 73.44,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "TV",
+        "x": 103.72,
+        "y": 66
+      },
+      {
+        "shape": "String",
+        "text": "27",
+        "x": 103.72,
+        "y": 55
+      },
+      {
+        "shape": "Rect",
+        "x": 140.44,
+        "y": 51,
+        "width": 62.56,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Computer",
+        "x": 171.72,
+        "y": 66
+      },
+      {
+        "shape": "String",
+        "text": "23",
+        "x": 171.72,
+        "y": 55
+      },
+      {
+        "shape": "Rect",
+        "x": 203.0,
+        "y": 51,
+        "width": 108.8,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Phone",
+        "x": 257.4,
+        "y": 66
+      },
+      {
+        "shape": "String",
+        "text": "40",
+        "x": 257.4,
+        "y": 55
+      },
+      {
+        "shape": "Rect",
+        "x": 311.8,
+        "y": 51,
+        "width": 27.2,
+        "height": 26
+      },
+      {
+        "shape": "String",
+        "text": "Other",
+        "x": 325.40000000000003,
+        "y": 66
+      },
+      {
+        "shape": "String",
+        "text": "10",
+        "x": 325.40000000000003,
+        "y": 55
+      },
+      {
+        "shape": "String",
+        "text": "0",
+        "x": 67.0,
+        "y": 32
+      },
+      {
+        "shape": "String",
+        "text": "25",
+        "x": 135.0,
+        "y": 32
+      },
+      {
+        "shape": "String",
+        "text": "50",
+        "x": 203.0,
+        "y": 32
+      },
+      {
+        "shape": "String",
+        "text": "75",
+        "x": 271.0,
+        "y": 32
+      },
+      {
+        "shape": "String",
+        "text": "100",
+        "x": 339.0,
+        "y": 32
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-023.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-023.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-023.html"
+}

@@ -1,0 +1,47 @@
+<svg role="img" aria-label="分支流程｜河水过滤与固体废物" width="350" height="319" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 319" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="319"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-319)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="18" y="306" style="font-family: ENB; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,612) scale(1,-1)">Main water route</text>
+			<text x="217" y="306" style="font-family: ENB; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,612) scale(1,-1)">Solid waste routes</text>
+			<rect x="18" y="269" width="166" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="78.2451171875" y="278" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,556) scale(1,-1)">River water</text>
+			<rect x="18" y="227" width="166" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="71.73681640625" y="236" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,472) scale(1,-1)">Coarse screen</text>
+			<path d="M 101,269 L 101,252 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="101 252, 98 257, 104 257" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+			<rect x="18" y="185" width="166" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="76.234619140625" y="194" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">Settling tank</text>
+			<path d="M 101,227 L 101,210 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="101 210, 98 215, 104 215" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+			<rect x="18" y="143" width="166" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="80.739013671875" y="152" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,304) scale(1,-1)">Sand filter</text>
+			<path d="M 101,185 L 101,168 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="101 168, 98 173, 104 173" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+			<rect x="18" y="101" width="166" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="75.99072265625" y="110" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,220) scale(1,-1)">UV chamber</text>
+			<path d="M 101,143 L 101,126 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="101 126, 98 131, 104 131" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+			<rect x="18" y="59" width="166" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="75.483154296875" y="68" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,136) scale(1,-1)">Storage tank</text>
+			<path d="M 101,101 L 101,84 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="101 84, 98 89, 104 89" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+			<rect x="18" y="17" width="166" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="78.98779296875" y="26" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,52) scale(1,-1)">Public taps</text>
+			<path d="M 101,59 L 101,42 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="101 42, 98 47, 104 47" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+			<rect x="217" y="227" width="124" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="233.72314453125" y="236" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,472) scale(1,-1)">Screenings to disposal</text>
+			<path d="M 184,239.5 L 217,239.5 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="217 239.5, 212 236.5, 212 242.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+			<rect x="217" y="185" width="124" height="25" rx="3" ry="3" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.75; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="232.72119140625" y="194" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,388) scale(1,-1)">Sediment to drying bed</text>
+			<path d="M 184,197.5 L 217,197.5 Z" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="217 197.5, 212 194.5, 212 200.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,81%,84%); fill-rule: evenodd;"/>
+		</g>
+	</g>
+<title>分支流程｜河水过滤与固体废物</title></svg>

@@ -1,0 +1,34 @@
+{
+  "id": "W1-032",
+  "task": 1,
+  "title": "乙醇生产与碳循环",
+  "prompt": "Describe the production of ethanol from plants and the carbon-dioxide return connections shown with fuel use. Summarise the major phases and the relationship between them.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 19 Academic · Test 3 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-19-test-3-writing-task-1",
+  "data": {
+    "production": [
+      "plant growth with sunlight and CO2",
+      "harvest",
+      "pre-processing",
+      "cellulose",
+      "processing",
+      "sugars",
+      "microbes added",
+      "ethanol"
+    ],
+    "use": [
+      "cars",
+      "lorries",
+      "aircraft"
+    ],
+    "CO2_returns": [
+      "pre-processing",
+      "fuel use"
+    ],
+    "cycle": "CO2 supports further plant growth"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-032.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-032.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-032.html"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "W1-005",
+  "task": 1,
+  "title": "Three public libraries",
+  "prompt": "The table provides information about membership, annual book loans and floor area at three public libraries in 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "table",
+    "title": "Public libraries in 2025",
+    "columns": [
+      "Library",
+      "Members",
+      "Annual book loans",
+      "Floor area (m²)"
+    ],
+    "rows": [
+      [
+        "North",
+        12000,
+        180000,
+        1800
+      ],
+      [
+        "East",
+        9000,
+        135000,
+        1200
+      ],
+      [
+        "West",
+        15000,
+        210000,
+        2200
+      ]
+    ],
+    "unit": "members; book loans per year; square metres"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-005.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-005.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-005.html"
+}

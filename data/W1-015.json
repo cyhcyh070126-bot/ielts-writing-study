@@ -1,0 +1,55 @@
+{
+  "id": "W1-015",
+  "task": 1,
+  "title": "美英澳学生赴海外留学｜2002–2007 年折线图",
+  "prompt": "You should spend about 20 minutes on this task. The line graph tracks the numbers of students from the US, the UK and Australia attending universities abroad from 2002 to 2007. Summarise the principal trends and make relevant comparisons. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "years": [
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "series": [
+      {
+        "label": "US",
+        "values": [
+          50000,
+          48000,
+          46000,
+          47000,
+          48000,
+          50000
+        ]
+      },
+      {
+        "label": "UK",
+        "values": [
+          30000,
+          30000,
+          27000,
+          25000,
+          23000,
+          21000
+        ]
+      },
+      {
+        "label": "Australia",
+        "values": [
+          10000,
+          9000,
+          8000,
+          10000,
+          10000,
+          10000
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-015.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-015.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-015.html"
+}

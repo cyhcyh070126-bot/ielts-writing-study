@@ -1,0 +1,63 @@
+<svg role="img" aria-label="澳大利亚男女日常运动" width="500" height="420" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 420" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="420"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-420)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="500" height="420" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,10%,12%); fill-rule: evenodd;"/>
+			<text x="14" y="396" style="font-family: Helvetica; font-size: 17px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,792) scale(1,-1)">Regular physical activity, Australia, 2010</text>
+			<text x="14" y="375" style="font-family: Helvetica; font-size: 11px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,750) scale(1,-1)">Independent study redraw; see book/test reference</text>
+			<text x="14" y="359" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,718) scale(1,-1)">Percent of each sex in the age group</text>
+			<path d="M 42,100 L 482,100 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="26.328" y="96.0" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,192) scale(1,-1)">0</text>
+			<path d="M 42,140.833333 L 482,140.833333 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="19.656" y="136.83333333333334" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,273) scale(1,-1)">10</text>
+			<path d="M 42,181.666667 L 482,181.666667 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="19.656" y="177.66666666666669" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,355) scale(1,-1)">20</text>
+			<path d="M 42,222.5 L 482,222.5 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="19.656" y="218.5" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,437) scale(1,-1)">30</text>
+			<path d="M 42,263.333333 L 482,263.333333 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="19.656" y="259.33333333333337" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,518) scale(1,-1)">40</text>
+			<path d="M 42,304.166667 L 482,304.166667 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="19.656" y="300.16666666666663" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,600) scale(1,-1)">50</text>
+			<path d="M 42,345 L 482,345 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="19.656" y="341.0" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,682) scale(1,-1)">60</text>
+			<rect x="53.66666666666666" y="100" width="23.0" height="215.60000000000002" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="54.463666666666654" y="321.6" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,643) scale(1,-1)">52.8</text>
+			<rect x="79.66666666666666" y="100" width="23.0" height="194.77499999999998" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="80.46366666666665" y="300.775" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,601) scale(1,-1)">47.7</text>
+			<text x="63.32466666666666" y="78" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,156) scale(1,-1)">15-24</text>
+			<rect x="127.0" y="100" width="23.0" height="172.31666666666666" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="127.797" y="278.31666666666666" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,556) scale(1,-1)">42.2</text>
+			<rect x="153.0" y="100" width="23.0" height="199.675" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="153.797" y="305.675" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,611) scale(1,-1)">48.9</text>
+			<text x="136.65800000000002" y="78" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,156) scale(1,-1)">25-34</text>
+			<rect x="200.33333333333334" y="100" width="23.0" height="161.29166666666663" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="201.13033333333334" y="267.29166666666663" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,534) scale(1,-1)">39.5</text>
+			<rect x="226.33333333333334" y="100" width="23.0" height="214.375" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="227.13033333333334" y="320.375" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,640) scale(1,-1)">52.5</text>
+			<text x="209.99133333333333" y="78" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,156) scale(1,-1)">35-44</text>
+			<rect x="273.6666666666667" y="100" width="23.0" height="175.99166666666667" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="274.4636666666667" y="281.9916666666667" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,563) scale(1,-1)">43.1</text>
+			<rect x="299.6666666666667" y="100" width="23.0" height="217.64166666666665" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="300.4636666666667" y="323.64166666666665" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,647) scale(1,-1)">53.3</text>
+			<text x="283.3246666666667" y="78" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,156) scale(1,-1)">45-54</text>
+			<rect x="347.0" y="100" width="23.0" height="184.1583333333333" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="347.797" y="290.1583333333333" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,580) scale(1,-1)">45.1</text>
+			<rect x="373.0" y="100" width="23.0" height="216.41666666666663" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="378.384" y="322.41666666666663" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,644) scale(1,-1)">53</text>
+			<text x="356.658" y="78" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,156) scale(1,-1)">55-64</text>
+			<rect x="420.3333333333333" y="100" width="23.0" height="190.69166666666666" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="421.13033333333334" y="296.69166666666666" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,593) scale(1,-1)">46.7</text>
+			<rect x="446.3333333333333" y="100" width="23.0" height="192.325" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="447.13033333333334" y="298.325" style="font-family: Helvetica; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,596) scale(1,-1)">47.1</text>
+			<text x="435.1573333333333" y="78" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,156) scale(1,-1)">65+</text>
+			<rect x="55" y="40" width="13" height="13" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="77" y="40" style="font-family: Helvetica; font-size: 14px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,80) scale(1,-1)">Men</text>
+			<rect x="245" y="40" width="13" height="13" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="267" y="40" style="font-family: Helvetica; font-size: 14px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,80) scale(1,-1)">Women</text>
+		</g>
+	</g>
+<title>澳大利亚男女日常运动</title></svg>

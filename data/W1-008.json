@@ -1,0 +1,104 @@
+{
+  "id": "W1-008",
+  "task": 1,
+  "title": "Changes to a public park",
+  "prompt": "The maps show the layout of Greenfield Park in 2005 and its present layout in 2026. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "map_before_after",
+    "title": "Greenfield Park: 2005 and 2026",
+    "panels": [
+      {
+        "title": "2005",
+        "features": [
+          {
+            "label": "Pond",
+            "x": 12,
+            "y": 12,
+            "w": 20,
+            "h": 18
+          },
+          {
+            "label": "Flower garden",
+            "x": 44,
+            "y": 12,
+            "w": 22,
+            "h": 18
+          },
+          {
+            "label": "Playground",
+            "x": 76,
+            "y": 15,
+            "w": 15,
+            "h": 18
+          },
+          {
+            "label": "Lawn",
+            "x": 35,
+            "y": 45,
+            "w": 30,
+            "h": 25
+          },
+          {
+            "label": "Entrance",
+            "x": 44,
+            "y": 90,
+            "w": 16,
+            "h": 8
+          }
+        ]
+      },
+      {
+        "title": "2026 (present)",
+        "features": [
+          {
+            "label": "Pond",
+            "x": 12,
+            "y": 12,
+            "w": 20,
+            "h": 18
+          },
+          {
+            "label": "Cafe",
+            "x": 44,
+            "y": 12,
+            "w": 22,
+            "h": 18
+          },
+          {
+            "label": "Playground",
+            "x": 73,
+            "y": 12,
+            "w": 23,
+            "h": 28
+          },
+          {
+            "label": "Skate park",
+            "x": 35,
+            "y": 45,
+            "w": 30,
+            "h": 25
+          },
+          {
+            "label": "Bicycle parking",
+            "x": 12,
+            "y": 75,
+            "w": 22,
+            "h": 12
+          },
+          {
+            "label": "Entrance",
+            "x": 44,
+            "y": 90,
+            "w": 16,
+            "h": 8
+          }
+        ]
+      }
+    ],
+    "notes_cn": "两图同一外边界、同一比例；上方标N。空白区域保持空白，不添树木或道路。西北池塘及南侧入口位置和尺寸完全相同；东北游乐场第二图更大。"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-008.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-008.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-008.html"
+}

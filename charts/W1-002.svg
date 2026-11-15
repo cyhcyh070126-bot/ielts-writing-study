@@ -1,0 +1,52 @@
+<svg role="img" aria-label="Leisure venues by age group" width="350" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="267" style="font-family: SENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,534) scale(1,-1)">Residents visiting leisure venues in one month, 2025</text>
+			<text x="0" y="239.0" style="font-family: SEN; font-size: 9.8px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,478) scale(1,-1)">% of residents in each age group</text>
+			<path d="M 39,78 L 340,78 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="27.716552734375" y="75.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,150) scale(1,-1)">0</text>
+			<path d="M 39,107 L 340,107 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="104.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,208) scale(1,-1)">16</text>
+			<path d="M 39,136 L 340,136 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="133.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,266) scale(1,-1)">32</text>
+			<path d="M 39,165 L 340,165 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="162.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,324) scale(1,-1)">48</text>
+			<path d="M 39,194 L 340,194 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="191.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,382) scale(1,-1)">64</text>
+			<path d="M 39,223 L 340,223 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="220.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,440) scale(1,-1)">80</text>
+			<rect x="52.81924444444444" y="78" width="21.85928888888889" height="126.875" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="58.57667209201389" y="209.875" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,419) scale(1,-1)">70</text>
+			<rect x="78.23702222222221" y="78" width="21.859288888888884" height="45.3125" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="83.99444986979165" y="128.3125" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,256) scale(1,-1)">25</text>
+			<rect x="103.65479999999998" y="78" width="21.859288888888884" height="117.8125" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<text x="109.41222764756942" y="200.8125" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,401) scale(1,-1)">65</text>
+			<text x="75.67997233072916" y="62.0" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,124) scale(1,-1)">18–29</text>
+			<rect x="153.15257777777776" y="78" width="21.859288888888898" height="99.6875" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="158.9100054253472" y="182.6875" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,365) scale(1,-1)">55</text>
+			<rect x="178.57035555555555" y="78" width="21.859288888888898" height="72.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="184.327783203125" y="155.5" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,311) scale(1,-1)">40</text>
+			<rect x="203.98813333333334" y="78" width="21.859288888888898" height="90.625" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<text x="209.74556098090278" y="173.625" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,347) scale(1,-1)">50</text>
+			<text x="176.0133056640625" y="62.0" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,124) scale(1,-1)">30–49</text>
+			<rect x="253.4859111111111" y="78" width="21.85928888888887" height="54.375" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="259.2433387586806" y="137.375" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,274) scale(1,-1)">30</text>
+			<rect x="278.9036888888889" y="78" width="21.859288888888898" height="108.75" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="284.66111653645834" y="191.75" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,383) scale(1,-1)">60</text>
+			<rect x="304.32146666666665" y="78" width="21.859288888888898" height="63.4375" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<text x="310.0788943142361" y="146.4375" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,292) scale(1,-1)">35</text>
+			<text x="281.6063313802083" y="62.0" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,124) scale(1,-1)">50+</text>
+			<rect x="7.0" y="22" width="12.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="25.0" y="23" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,46) scale(1,-1)">Cinema</text>
+			<rect x="182.0" y="22" width="12.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="200.0" y="23" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,46) scale(1,-1)">Museum</text>
+			<rect x="7.0" y="7" width="12.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<text x="25.0" y="8" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,16) scale(1,-1)">Sports centre</text>
+		</g>
+	</g>
+<title>Leisure venues by age group</title></svg>

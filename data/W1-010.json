@@ -1,0 +1,85 @@
+{
+  "id": "W1-010",
+  "task": 1,
+  "title": "Possible sites for a health centre",
+  "prompt": "The map shows three possible locations, A, B and C, for a new health centre in the town of Ashford. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "map_locations",
+    "title": "Ashford: possible health centre sites",
+    "panels": [
+      {
+        "title": "Three proposed sites",
+        "features": [
+          {
+            "label": "Residential area",
+            "x": 8,
+            "y": 8,
+            "w": 30,
+            "h": 25
+          },
+          {
+            "label": "Park",
+            "x": 65,
+            "y": 8,
+            "w": 27,
+            "h": 25
+          },
+          {
+            "label": "Town centre",
+            "x": 40,
+            "y": 30,
+            "w": 20,
+            "h": 15
+          },
+          {
+            "label": "Main road",
+            "x": 0,
+            "y": 50,
+            "w": 100,
+            "h": 6
+          },
+          {
+            "label": "Bus station",
+            "x": 40,
+            "y": 60,
+            "w": 20,
+            "h": 12
+          },
+          {
+            "label": "Industrial area",
+            "x": 70,
+            "y": 76,
+            "w": 25,
+            "h": 18
+          },
+          {
+            "label": "Site A",
+            "x": 18,
+            "y": 36,
+            "w": 12,
+            "h": 8
+          },
+          {
+            "label": "Site B",
+            "x": 74,
+            "y": 63,
+            "w": 12,
+            "h": 8
+          },
+          {
+            "label": "Site C",
+            "x": 74,
+            "y": 36,
+            "w": 12,
+            "h": 8
+          }
+        ]
+      }
+    ],
+    "notes_cn": "单图标N，Main road为东西向道路。A在居住区正南，C在公园正南，B在工业区正北；A/C都在主路北面，B在南面。不能添加路口、距离标尺、停车场或其他未给设施。"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-010.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-010.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-010.html"
+}

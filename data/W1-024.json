@@ -1,0 +1,208 @@
+{
+  "id": "W1-024",
+  "task": 1,
+  "title": "历史加预测｜三地老年人口",
+  "prompt": "The chart compares the percentage of people aged 60 and over in three countries in 2000 and gives projections for 2050. Describe the most important similarities and differences.",
+  "source_group": "practice",
+  "data": {
+    "coordinate_note": "Drawing coordinates are schematic, not real-world distances.",
+    "elements": [
+      {
+        "shape": "String",
+        "text": "Population aged 60 and over (%)",
+        "x": 0,
+        "y": 169
+      },
+      {
+        "shape": "Line",
+        "x1": 37,
+        "x2": 347,
+        "y1": 48.0,
+        "y2": 48.0
+      },
+      {
+        "shape": "String",
+        "text": "0",
+        "x": 30,
+        "y": 45.0
+      },
+      {
+        "shape": "Line",
+        "x1": 37,
+        "x2": 347,
+        "y1": 73.0,
+        "y2": 73.0
+      },
+      {
+        "shape": "String",
+        "text": "10",
+        "x": 30,
+        "y": 70.0
+      },
+      {
+        "shape": "Line",
+        "x1": 37,
+        "x2": 347,
+        "y1": 98.0,
+        "y2": 98.0
+      },
+      {
+        "shape": "String",
+        "text": "20",
+        "x": 30,
+        "y": 95.0
+      },
+      {
+        "shape": "Line",
+        "x1": 37,
+        "x2": 347,
+        "y1": 123.0,
+        "y2": 123.0
+      },
+      {
+        "shape": "String",
+        "text": "30",
+        "x": 30,
+        "y": 120.0
+      },
+      {
+        "shape": "Line",
+        "x1": 37,
+        "x2": 347,
+        "y1": 148.0,
+        "y2": 148.0
+      },
+      {
+        "shape": "String",
+        "text": "40",
+        "x": 30,
+        "y": 145.0
+      },
+      {
+        "shape": "String",
+        "text": "Aster",
+        "x": 88.66666666666666,
+        "y": 36
+      },
+      {
+        "shape": "Rect",
+        "x": 72.26666666666665,
+        "y": 48,
+        "width": 15.8,
+        "height": 45.0
+      },
+      {
+        "shape": "String",
+        "text": "18",
+        "x": 80.16666666666666,
+        "y": 96.0
+      },
+      {
+        "shape": "Rect",
+        "x": 89.26666666666665,
+        "y": 48,
+        "width": 15.8,
+        "height": 80.0
+      },
+      {
+        "shape": "String",
+        "text": "32",
+        "x": 97.16666666666666,
+        "y": 131.0
+      },
+      {
+        "shape": "String",
+        "text": "Beryl",
+        "x": 192.0,
+        "y": 36
+      },
+      {
+        "shape": "Rect",
+        "x": 175.6,
+        "y": 48,
+        "width": 15.8,
+        "height": 30.0
+      },
+      {
+        "shape": "String",
+        "text": "12",
+        "x": 183.5,
+        "y": 81.0
+      },
+      {
+        "shape": "Rect",
+        "x": 192.6,
+        "y": 48,
+        "width": 15.8,
+        "height": 62.5
+      },
+      {
+        "shape": "String",
+        "text": "25",
+        "x": 200.5,
+        "y": 113.5
+      },
+      {
+        "shape": "String",
+        "text": "Cedar",
+        "x": 295.3333333333333,
+        "y": 36
+      },
+      {
+        "shape": "Rect",
+        "x": 278.93333333333334,
+        "y": 48,
+        "width": 15.8,
+        "height": 20.0
+      },
+      {
+        "shape": "String",
+        "text": "8",
+        "x": 286.8333333333333,
+        "y": 71.0
+      },
+      {
+        "shape": "Rect",
+        "x": 295.93333333333334,
+        "y": 48,
+        "width": 15.8,
+        "height": 67.5
+      },
+      {
+        "shape": "String",
+        "text": "27",
+        "x": 303.8333333333333,
+        "y": 118.5
+      },
+      {
+        "shape": "Rect",
+        "x": 39.0,
+        "y": 5,
+        "width": 9,
+        "height": 9
+      },
+      {
+        "shape": "String",
+        "text": "2000",
+        "x": 53.0,
+        "y": 6
+      },
+      {
+        "shape": "Rect",
+        "x": 184.0,
+        "y": 5,
+        "width": 9,
+        "height": 9
+      },
+      {
+        "shape": "String",
+        "text": "2050 (projected)",
+        "x": 198.0,
+        "y": 6
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-024.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-024.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-024.html"
+}

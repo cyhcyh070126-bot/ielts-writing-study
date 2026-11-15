@@ -1,0 +1,36 @@
+{
+  "id": "W1-030",
+  "task": 1,
+  "title": "城市医院道路与停车改造",
+  "prompt": "Compare the routes and facilities providing access to a city hospital in 2007 and 2010. Summarise what changed and what stayed in place; the schematic is not drawn to scale.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 13 Academic · Test 1 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-13-test-1-writing-task-1",
+  "data": {
+    "years": [
+      2007,
+      2010
+    ],
+    "unchanged": [
+      "hospital",
+      "Ring Road",
+      "Hospital Road",
+      "City Road"
+    ],
+    "bus_stops_2007": 6,
+    "bus_station_2010": "west of Hospital Road; links to both new roundabouts",
+    "roundabouts_2010": [
+      "Ring Road junction",
+      "City Road junction"
+    ],
+    "parking_2007": "shared car park east of Hospital Road; access from the southern Ring Road",
+    "parking_2010": [
+      "original site staff only; access from the southern Ring Road",
+      "new public parking east of Ring Road; access from its eastern section"
+    ],
+    "scale": "schematic"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-030.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-030.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-030.html"
+}

@@ -1,0 +1,35 @@
+<svg role="img" aria-label="Possible sites for a health centre" width="350" height="234" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 234" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="234"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-234)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="221" style="font-family: SENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,442) scale(1,-1)">Ashford: possible health centre sites</text>
+			<text x="4" y="203" style="font-family: SENB; font-size: 11px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,406) scale(1,-1)">Three proposed sites</text>
+			<rect x="4" y="29" width="342" height="166" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<rect x="33.879999999999995" y="140.22" width="100.80000000000001" height="41.5" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="47.063203125" y="157.97" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,315) scale(1,-1)">Residential area</text>
+			<rect x="225.4" y="140.22" width="90.72" height="41.5" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="260.1708154296875" y="157.97" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,315) scale(1,-1)">Park</text>
+			<rect x="141.4" y="120.29999999999998" width="67.20000000000002" height="24.900000000000006" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="146.6624267578125" y="129.74999999999997" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,259) scale(1,-1)">Town centre</text>
+			<rect x="7.0" y="102.03999999999999" width="336.0" height="9.960000000000008" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="10.0" y="100.0" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,200) scale(1,-1)">Main road</text>
+			<rect x="141.4" y="75.48" width="67.20000000000002" height="19.92" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="149.52158203125" y="82.44" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,164) scale(1,-1)">Bus station</text>
+			<rect x="242.2" y="38.96000000000001" width="84.0" height="29.879999999999995" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="251.56489257812498" y="50.900000000000006" style="font-family: SEN; font-size: 10.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,101) scale(1,-1)">Industrial area</text>
+			<rect x="67.47999999999999" y="121.96000000000001" width="40.31999999999999" height="13.280000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="70.47999999999999" y="123.24000000000001" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,246) scale(1,-1)">Site A</text>
+			<rect x="255.64" y="77.14" width="40.31999999999999" height="13.280000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="258.64" y="78.42" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,156) scale(1,-1)">Site B</text>
+			<rect x="255.64" y="121.96000000000001" width="40.31999999999999" height="13.280000000000001" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(18%,25%,24%); fill-rule: evenodd;"/>
+			<text x="258.64" y="123.24000000000001" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,246) scale(1,-1)">Site C</text>
+			<path d="M 336,166 L 336,181 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="336 181, 333.3902 175.5973, 338.6098 175.5973" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="332.6419189453125" y="184.0" style="font-family: SEN; font-size: 9.3px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,368) scale(1,-1)">N</text>
+		</g>
+	</g>
+<title>Possible sites for a health centre</title></svg>

@@ -1,0 +1,74 @@
+{
+  "id": "W1-018",
+  "task": 1,
+  "title": "四地区中学与高等教育参与率｜男女双柱图",
+  "prompt": "You should spend about 20 minutes on this task. The bar charts compare participation in secondary and higher education across four regions in 2000. The first chart shows the percentages of school-aged boys and girls in secondary education. The second shows the percentages of college-aged men and women in higher education. Summarise the key features and make relevant comparisons. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "panels": [
+      {
+        "title": "Secondary education, 2000",
+        "unit": "%",
+        "labels": [
+          "Europe",
+          "Sub-Saharan Africa",
+          "Latin America",
+          "East Asia"
+        ],
+        "series": [
+          {
+            "label": "Boys",
+            "values": [
+              96,
+              33,
+              50,
+              60
+            ]
+          },
+          {
+            "label": "Girls",
+            "values": [
+              100,
+              20,
+              60,
+              55
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Higher education, 2000",
+        "unit": "%",
+        "labels": [
+          "Europe",
+          "Sub-Saharan Africa",
+          "Latin America",
+          "East Asia"
+        ],
+        "series": [
+          {
+            "label": "Men",
+            "values": [
+              60,
+              6,
+              20,
+              10
+            ]
+          },
+          {
+            "label": "Women",
+            "values": [
+              70,
+              4,
+              15,
+              8
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-018.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-018.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-018.html"
+}

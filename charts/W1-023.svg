@@ -1,0 +1,69 @@
+<svg role="img" aria-label="百分比分母｜男女电子设备用时占比" width="350" height="222" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 222" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="222"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-222)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="2" y="205" style="font-family: ENB; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,410) scale(1,-1)">Share of time on electronic devices (%)</text>
+			<text x="23.194091796875" y="171" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,342) scale(1,-1)">Men 2012</text>
+			<rect x="67" y="162" width="122.4" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="123.66369628906249" y="177" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,354) scale(1,-1)">TV</text>
+			<text x="123.75078124999999" y="166" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,332) scale(1,-1)">45</text>
+			<rect x="189.4" y="162" width="81.6" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="214.61328125" y="177" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,354) scale(1,-1)">Computer</text>
+			<text x="225.75078125" y="166" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,332) scale(1,-1)">30</text>
+			<rect x="271.0" y="162" width="40.80000000000001" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="281.134814453125" y="177" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,354) scale(1,-1)">Phone</text>
+			<text x="286.95078125" y="166" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,332) scale(1,-1)">15</text>
+			<rect x="311.8" y="162" width="27.19999999999999" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="316.52153320312505" y="177" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,354) scale(1,-1)">Other</text>
+			<text x="320.95078125000003" y="166" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,332) scale(1,-1)">10</text>
+			<text x="23.194091796875" y="134" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,268) scale(1,-1)">Men 2022</text>
+			<rect x="67" y="125" width="70.72" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="97.8236962890625" y="140" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,280) scale(1,-1)">TV</text>
+			<text x="97.91078125" y="129" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,258) scale(1,-1)">26</text>
+			<rect x="137.72" y="125" width="76.16" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="160.21328125000002" y="140" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,280) scale(1,-1)">Computer</text>
+			<text x="171.35078125" y="129" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,258) scale(1,-1)">28</text>
+			<rect x="213.88" y="125" width="97.92000000000002" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="252.574814453125" y="140" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,280) scale(1,-1)">Phone</text>
+			<text x="258.39078125" y="129" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,258) scale(1,-1)">36</text>
+			<rect x="311.8" y="125" width="27.19999999999999" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="316.52153320312505" y="140" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,280) scale(1,-1)">Other</text>
+			<text x="320.95078125000003" y="129" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,258) scale(1,-1)">10</text>
+			<text x="10.444091796874993" y="97" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,194) scale(1,-1)">Women 2012</text>
+			<rect x="67" y="88" width="136.0" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="130.4636962890625" y="103" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,206) scale(1,-1)">TV</text>
+			<text x="130.55078125" y="92" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,184) scale(1,-1)">50</text>
+			<rect x="203.0" y="88" width="59.84000000000003" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="217.33328125000003" y="103" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,206) scale(1,-1)">Computer</text>
+			<text x="228.47078125000002" y="92" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,184) scale(1,-1)">22</text>
+			<rect x="262.84000000000003" y="88" width="48.95999999999998" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="277.05481445312506" y="103" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,206) scale(1,-1)">Phone</text>
+			<text x="282.87078125000005" y="92" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,184) scale(1,-1)">18</text>
+			<rect x="311.8" y="88" width="27.19999999999999" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="316.52153320312505" y="103" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,206) scale(1,-1)">Other</text>
+			<text x="320.95078125000003" y="92" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,184) scale(1,-1)">10</text>
+			<text x="10.444091796874993" y="60" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,120) scale(1,-1)">Women 2022</text>
+			<rect x="67" y="51" width="73.44" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="99.1836962890625" y="66" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,132) scale(1,-1)">TV</text>
+			<text x="99.27078125" y="55" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">27</text>
+			<rect x="140.44" y="51" width="62.56" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="156.13328125" y="66" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,132) scale(1,-1)">Computer</text>
+			<text x="167.27078125" y="55" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">23</text>
+			<rect x="203.0" y="51" width="108.80000000000001" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="247.134814453125" y="66" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,132) scale(1,-1)">Phone</text>
+			<text x="252.95078124999998" y="55" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">40</text>
+			<rect x="311.8" y="51" width="27.19999999999999" height="26" style="stroke: rgb(36%,81%,84%); stroke-linecap: butt; stroke-width: 0.65; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="316.52153320312505" y="66" style="font-family: EN; font-size: 7.1px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,132) scale(1,-1)">Other</text>
+			<text x="320.95078125000003" y="55" style="font-family: ENB; font-size: 8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">10</text>
+			<text x="64.6363525390625" y="32" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,64) scale(1,-1)">0</text>
+			<text x="130.272705078125" y="32" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,64) scale(1,-1)">25</text>
+			<text x="198.272705078125" y="32" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,64) scale(1,-1)">50</text>
+			<text x="266.272705078125" y="32" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,64) scale(1,-1)">75</text>
+			<text x="331.9090576171875" y="32" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,64) scale(1,-1)">100</text>
+		</g>
+	</g>
+<title>百分比分母｜男女电子设备用时占比</title></svg>

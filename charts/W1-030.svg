@@ -1,0 +1,64 @@
+<svg role="img" aria-label="城市医院道路与停车改造" width="500" height="880" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 880" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="880"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-880)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="500" height="880" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,10%,12%); fill-rule: evenodd;"/>
+			<text x="14" y="856" style="font-family: Helvetica; font-size: 17px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1712) scale(1,-1)">Hospital road access: schematic comparison</text>
+			<text x="14" y="835" style="font-family: Helvetica; font-size: 11px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,1670) scale(1,-1)">Independent study redraw; see book/test reference</text>
+			<text x="18" y="804" style="font-family: Helvetica; font-size: 18px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,1608) scale(1,-1)">2007</text>
+			<text x="472" y="804" style="font-family: Helvetica; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1608) scale(1,-1)">N</text>
+			<path d="M 477,766 L 477,792 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="477 792, 473.644 785.8569, 480.356 785.8569" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="127" y="640" width="205" height="135" style="stroke: rgb(66%,72%,76%); stroke-linecap: butt; stroke-width: 10; fill: none; fill-rule: evenodd;"/>
+			<rect x="142" y="655" width="175" height="105" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="185.43200000000002" y="702" style="font-family: Helvetica; font-size: 16px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1404) scale(1,-1)">City hospital</text>
+			<text x="200.656" y="781" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,1562) scale(1,-1)">Ring Road</text>
+			<path d="M 229,460 L 229,640 Z" style="stroke: rgb(66%,72%,76%); stroke-linecap: butt; stroke-width: 10;"/>
+			<path d="M 23,482 L 478,482 Z" style="stroke: rgb(66%,72%,76%); stroke-linecap: butt; stroke-width: 10;"/>
+			<text x="350" y="461" style="font-family: Helvetica; font-size: 13px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,922) scale(1,-1)">City Road</text>
+			<text x="145" y="439" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,878) scale(1,-1)">Hospital Road</text>
+			<rect x="280" y="507" width="170" height="103" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="338.272" y="566.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1133) scale(1,-1)">Car park:</text>
+			<text x="328.327" y="550.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1101) scale(1,-1)">staff + public</text>
+			<path d="M 305,611 L 305,635 Z" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 3;"/>
+			<circle cx="211" cy="525" r="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="247" cy="525" r="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="211" cy="565" r="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="247" cy="565" r="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="211" cy="605" r="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<circle cx="247" cy="605" r="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="40" y="565" style="font-family: Helvetica; font-size: 13px;fill: rgb(90%,72%,55%); stroke:none;" transform="translate(0,1130) scale(1,-1)">6 bus stops</text>
+			<text x="18" y="404" style="font-family: Helvetica; font-size: 18px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,808) scale(1,-1)">2010</text>
+			<text x="472" y="404" style="font-family: Helvetica; font-size: 12px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,808) scale(1,-1)">N</text>
+			<path d="M 477,366 L 477,392 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="477 392, 473.644 385.8569, 480.356 385.8569" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="127" y="240" width="205" height="135" style="stroke: rgb(66%,72%,76%); stroke-linecap: butt; stroke-width: 10; fill: none; fill-rule: evenodd;"/>
+			<rect x="142" y="255" width="175" height="105" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="185.43200000000002" y="302" style="font-family: Helvetica; font-size: 16px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,604) scale(1,-1)">City hospital</text>
+			<text x="200.656" y="381" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,762) scale(1,-1)">Ring Road</text>
+			<path d="M 229,60 L 229,240 Z" style="stroke: rgb(66%,72%,76%); stroke-linecap: butt; stroke-width: 10;"/>
+			<path d="M 23,82 L 478,82 Z" style="stroke: rgb(66%,72%,76%); stroke-linecap: butt; stroke-width: 10;"/>
+			<text x="350" y="61" style="font-family: Helvetica; font-size: 13px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,122) scale(1,-1)">City Road</text>
+			<text x="145" y="39" style="font-family: Helvetica; font-size: 12px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,78) scale(1,-1)">Hospital Road</text>
+			<circle cx="229" cy="82" r="16" style="stroke: rgb(66%,72%,76%); stroke-linecap: butt; stroke-width: 5; fill: rgb(9%,10%,12%); fill-rule: evenodd;"/>
+			<circle cx="229" cy="240" r="16" style="stroke: rgb(66%,72%,76%); stroke-linecap: butt; stroke-width: 5; fill: rgb(9%,10%,12%); fill-rule: evenodd;"/>
+			<rect x="25" y="131" width="135" height="67" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="60.3445" y="164.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,329) scale(1,-1)">Bus station</text>
+			<polyline points="160 164, 190 164, 213 82" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 3; fill: None; fill-rule: evenodd;"/>
+			<polyline points="160 164, 190 164, 213 240" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 3; fill: None; fill-rule: evenodd;"/>
+			<rect x="278" y="113" width="105" height="93" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="317.1295" y="167.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,335) scale(1,-1)">Staff</text>
+			<text x="307.022" y="151.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,303) scale(1,-1)">car park</text>
+			<path d="M 305,207 L 305,235 Z" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 3;"/>
+			<rect x="365" y="263" width="112" height="93" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="403.3005" y="317.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,635) scale(1,-1)">Public</text>
+			<text x="397.522" y="301.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,603) scale(1,-1)">car park</text>
+			<path d="M 365,305 L 337,305 Z" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 3;"/>
+			<text x="18" y="14" style="font-family: Helvetica; font-size: 11px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,28) scale(1,-1)">Schematic positions only; no scale or area inference</text>
+		</g>
+	</g>
+<title>城市医院道路与停车改造</title></svg>

@@ -1,0 +1,52 @@
+{
+  "id": "W1-029",
+  "task": 1,
+  "title": "警察预算来源与支出",
+  "prompt": "Compare police-budget funding in a British area for 2017 and 2018, together with the proportions allocated to different spending categories. Report the main changes across both the table and charts.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 17 Academic · Test 2 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-17-test-2-writing-task-1",
+  "data": {
+    "budget_unit": "million pounds",
+    "income_rows": [
+      [
+        "National government",
+        175.5,
+        177.8
+      ],
+      [
+        "Local taxes",
+        91.2,
+        102.3
+      ],
+      [
+        "Other sources",
+        38,
+        38.5
+      ],
+      [
+        "Total",
+        304.7,
+        318.6
+      ]
+    ],
+    "spending_categories": [
+      "Salaries",
+      "Technology",
+      "Buildings and transport"
+    ],
+    "shares_2017": [
+      75,
+      8,
+      17
+    ],
+    "shares_2018": [
+      69,
+      14,
+      17
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-029.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-029.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-029.html"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyhcyh070126-bot.github.io/ielts-writing-study/sitemap.xml

@@ -1,0 +1,65 @@
+{
+  "id": "W1-011",
+  "task": 1,
+  "title": "澳大利亚居民出生地与城乡分布｜饼图＋表格",
+  "prompt": "You should spend about 20 minutes on this task. The pie chart shows the distribution of Australian residents by country of birth. The table compares the shares of five birthplace groups who live in cities and rural areas in Australia. Summarise the main features and make relevant comparisons. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "pie": [
+      [
+        "Australia",
+        73
+      ],
+      [
+        "United Kingdom",
+        7
+      ],
+      [
+        "New Zealand",
+        3
+      ],
+      [
+        "China",
+        2
+      ],
+      [
+        "Netherlands",
+        1
+      ],
+      [
+        "Other",
+        14
+      ]
+    ],
+    "table": [
+      [
+        "United Kingdom",
+        89,
+        11
+      ],
+      [
+        "Australia",
+        83,
+        17
+      ],
+      [
+        "China",
+        99,
+        1
+      ],
+      [
+        "New Zealand",
+        80,
+        20
+      ],
+      [
+        "Netherlands",
+        90,
+        10
+      ]
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-011.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-011.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-011.html"
+}

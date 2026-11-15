@@ -1,0 +1,62 @@
+{
+  "id": "W1-017",
+  "task": 1,
+  "title": "上学出行方式与距离｜四种交通方式柱图",
+  "prompt": "You should spend about 20 minutes on this task. The bar chart shows how children aged 11 to 16 in the UK travelled to school in one year. It gives the percentages using four modes of transport at four journey distances. Summarise the key features and make relevant comparisons. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "panels": [
+      {
+        "title": "Travel to school by distance",
+        "unit": "%",
+        "labels": [
+          "0–1 mile",
+          "1–2 miles",
+          "2–5 miles",
+          "Over 5 miles"
+        ],
+        "series": [
+          {
+            "label": "Walk",
+            "values": [
+              85,
+              61,
+              25,
+              0
+            ]
+          },
+          {
+            "label": "Bicycle",
+            "values": [
+              7,
+              8,
+              6,
+              4
+            ]
+          },
+          {
+            "label": "Car",
+            "values": [
+              5,
+              19,
+              35,
+              30
+            ]
+          },
+          {
+            "label": "Bus",
+            "values": [
+              1,
+              10,
+              33,
+              66
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-017.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-017.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-017.html"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "W1-028",
+  "task": 1,
+  "title": "墨尔本社交中心活动人数",
+  "prompt": "Compare participation in five activities at a Melbourne social centre over 2000-2020. Describe the leading patterns and make useful comparisons. The redraw uses approximate readings.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 19 Academic · Test 1 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-19-test-1-writing-task-1",
+  "data": {
+    "years": [
+      2000,
+      2005,
+      2010,
+      2015,
+      2020
+    ],
+    "Film club": [
+      64,
+      62,
+      60,
+      64,
+      66
+    ],
+    "Martial arts": [
+      36,
+      32,
+      38,
+      34,
+      36
+    ],
+    "Amateur dramatics": [
+      26,
+      28,
+      20,
+      14,
+      6
+    ],
+    "Table tennis": [
+      16,
+      20,
+      20,
+      36,
+      54
+    ],
+    "Musical performances": [
+      0,
+      0,
+      12,
+      16,
+      18
+    ],
+    "reading_note": "All non-zero plotted values are approximate readings; do not treat the redraw as exact digitised original data."
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-028.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-028.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-028.html"
+}

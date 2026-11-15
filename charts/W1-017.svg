@@ -1,0 +1,65 @@
+<svg role="img" aria-label="上学出行方式与距离｜四种交通方式柱图" width="350" height="181" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 181" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="181"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-181)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="169" style="font-family: ENB; font-size: 10.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,338) scale(1,-1)">Travel to school by distance (%)</text>
+			<path d="M 37,48 L 347,48 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="24.99462890625" y="45.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,90) scale(1,-1)">0</text>
+			<path d="M 37,73 L 347,73 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="70.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,140) scale(1,-1)">25</text>
+			<path d="M 37,98 L 347,98 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="95.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,190) scale(1,-1)">50</text>
+			<path d="M 37,123 L 347,123 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="120.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,240) scale(1,-1)">75</text>
+			<path d="M 37,148 L 347,148 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="14.983886718749998" y="145.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,290) scale(1,-1)">100</text>
+			<text x="60.63427734375" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">0-1 mile</text>
+			<rect x="46.512499999999996" y="48" width="13.71875" height="85.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="49.1451171875" y="136.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,272) scale(1,-1)">85</text>
+			<rect x="61.43125" y="48" width="13.718750000000007" height="7.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="66.17724609374999" y="58.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,116) scale(1,-1)">7</text>
+			<rect x="76.35" y="48" width="13.71875" height="5.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<text x="81.09599609374999" y="56.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,112) scale(1,-1)">5</text>
+			<rect x="91.26875" y="48" width="13.71875" height="1.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,47%,54%); fill-rule: evenodd;"/>
+			<text x="96.01474609374999" y="52.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,104) scale(1,-1)">1</text>
+			<text x="136.00927734375" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">1-2 miles</text>
+			<rect x="124.01249999999999" y="48" width="13.71875" height="61.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="126.64511718749999" y="112.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,224) scale(1,-1)">61</text>
+			<rect x="138.93125" y="48" width="13.71875" height="8.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="143.67724609375" y="59.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,118) scale(1,-1)">8</text>
+			<rect x="153.85" y="48" width="13.71875" height="19.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<text x="156.48261718749998" y="70.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,140) scale(1,-1)">19</text>
+			<rect x="168.76874999999998" y="48" width="13.71875" height="10.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,47%,54%); fill-rule: evenodd;"/>
+			<text x="171.40136718749997" y="61.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,122) scale(1,-1)">10</text>
+			<text x="213.50927734375" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">2-5 miles</text>
+			<rect x="201.5125" y="48" width="13.71875" height="25.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="204.14511718749998" y="76.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,152) scale(1,-1)">25</text>
+			<rect x="216.43125" y="48" width="13.71875" height="6.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="221.17724609375" y="57.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,114) scale(1,-1)">6</text>
+			<rect x="231.35" y="48" width="13.71875" height="35.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<text x="233.98261718749998" y="86.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,172) scale(1,-1)">35</text>
+			<rect x="246.26874999999998" y="48" width="13.718750000000028" height="33.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,47%,54%); fill-rule: evenodd;"/>
+			<text x="248.90136718749997" y="84.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,168) scale(1,-1)">33</text>
+			<text x="284.397705078125" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Over 5 miles</text>
+			<text x="283.75849609375007" y="51.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,102) scale(1,-1)">0</text>
+			<rect x="293.93125000000003" y="48" width="13.71875" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="298.67724609375006" y="55.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,110) scale(1,-1)">4</text>
+			<rect x="308.85" y="48" width="13.71875" height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<text x="311.4826171875" y="81.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,162) scale(1,-1)">30</text>
+			<rect x="323.76875" y="48" width="13.71875" height="66.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,47%,54%); fill-rule: evenodd;"/>
+			<text x="326.4013671875" y="117.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,234) scale(1,-1)">66</text>
+			<rect x="39.0" y="5" width="9.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="53.0" y="6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">Walk</text>
+			<rect x="111.5" y="5" width="9.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="125.5" y="6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">Bicycle</text>
+			<rect x="184.0" y="5" width="9.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(45%,55%,74%); fill-rule: evenodd;"/>
+			<text x="198.0" y="6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">Car</text>
+			<rect x="256.5" y="5" width="9.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(72%,47%,54%); fill-rule: evenodd;"/>
+			<text x="270.5" y="6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">Bus</text>
+		</g>
+	</g>
+<title>上学出行方式与距离｜四种交通方式柱图</title></svg>

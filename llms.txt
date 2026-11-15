@@ -1,0 +1,11 @@
+# IELTS Writing Study Bank
+
+Static public study resources, no JavaScript required.
+
+- [Question index](https://cyhcyh070126-bot.github.io/ielts-writing-study/gpt.html)
+- [Task 1, complete PNG charts](https://cyhcyh070126-bot.github.io/ielts-writing-study/task1.html)
+- [Task 2 questions](https://cyhcyh070126-bot.github.io/ielts-writing-study/task2.html)
+- [JSON manifest](https://cyhcyh070126-bot.github.io/ielts-writing-study/bank-index.json)
+- [Coaching instructions](https://cyhcyh070126-bot.github.io/ielts-writing-study/coach.txt)
+
+Cambridge references are paraphrases and independently redrawn study figures. Read question pages before showing an exercise. Open the PNG image and actually view it before evaluating Task 1. Guidance pages are reference material for use after the learner has attempted a plan.

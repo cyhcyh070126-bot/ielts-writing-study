@@ -1,0 +1,41 @@
+<svg role="img" aria-label="历史加预测｜三地老年人口" width="350" height="181" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 181" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="181"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-181)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="169" style="font-family: ENB; font-size: 10.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,338) scale(1,-1)">Population aged 60 and over (%)</text>
+			<path d="M 37,48 L 347,48 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="24.99462890625" y="45.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,90) scale(1,-1)">0</text>
+			<path d="M 37,73 L 347,73 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="70.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,140) scale(1,-1)">10</text>
+			<path d="M 37,98 L 347,98 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="95.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,190) scale(1,-1)">20</text>
+			<path d="M 37,123 L 347,123 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="120.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,240) scale(1,-1)">30</text>
+			<path d="M 37,148 L 347,148 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="19.9892578125" y="145.0" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,290) scale(1,-1)">40</text>
+			<text x="78.74723307291666" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Aster</text>
+			<rect x="72.26666666666665" y="48" width="15.799999999999997" height="45.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="75.93990885416666" y="96.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,192) scale(1,-1)">18</text>
+			<rect x="89.26666666666665" y="48" width="15.799999999999997" height="80.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="92.93990885416666" y="131.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,262) scale(1,-1)">32</text>
+			<text x="182.317138671875" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Beryl</text>
+			<rect x="175.6" y="48" width="15.800000000000011" height="30.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="179.2732421875" y="81.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,162) scale(1,-1)">12</text>
+			<rect x="192.6" y="48" width="15.800000000000011" height="62.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="196.2732421875" y="113.5" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,227) scale(1,-1)">25</text>
+			<text x="283.7578938802083" y="36" style="font-family: EN; font-size: 8.5px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,72) scale(1,-1)">Cedar</text>
+			<rect x="278.93333333333334" y="48" width="15.800000000000011" height="20.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="284.71995442708334" y="71.0" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,142) scale(1,-1)">8</text>
+			<rect x="295.93333333333334" y="48" width="15.800000000000011" height="67.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="299.6065755208333" y="118.5" style="font-family: EN; font-size: 7.6px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,237) scale(1,-1)">27</text>
+			<rect x="39.0" y="5" width="9.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(36%,80%,84%); fill-rule: evenodd;"/>
+			<text x="53.0" y="6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">2000</text>
+			<rect x="184.0" y="5" width="9.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(84%,60%,36%); fill-rule: evenodd;"/>
+			<text x="198.0" y="6" style="font-family: EN; font-size: 9px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,12) scale(1,-1)">2050 (projected)</text>
+		</g>
+	</g>
+<title>历史加预测｜三地老年人口</title></svg>

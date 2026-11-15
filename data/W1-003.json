@@ -1,0 +1,47 @@
+{
+  "id": "W1-003",
+  "task": 1,
+  "title": "Commuting methods",
+  "prompt": "The bar chart shows the percentages of commuters using three main methods of transport in Brookfield in 2010 and 2020, with projections for 2030. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "bar",
+    "title": "Main commuting method in Brookfield",
+    "years": [
+      2010,
+      2020,
+      2030
+    ],
+    "unit": "% of commuters; 2030 projected",
+    "series": [
+      {
+        "name": "Car",
+        "values": [
+          60,
+          50,
+          40
+        ]
+      },
+      {
+        "name": "Bus",
+        "values": [
+          25,
+          30,
+          35
+        ]
+      },
+      {
+        "name": "Bicycle",
+        "values": [
+          15,
+          20,
+          25
+        ]
+      }
+    ],
+    "notes_cn": "2030 的图例或横轴必须标注 projected，建议用较淡色或斜线标识预测。"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-003.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-003.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-003.html"
+}

@@ -1,0 +1,45 @@
+<svg role="img" aria-label="Recycling paper" width="350" height="398" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 398" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="398"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-398)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="385" style="font-family: SENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,770) scale(1,-1)">From used paper to new paper rolls</text>
+			<rect x="7" y="326" width="336" height="33" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="18" y="345" style="font-family: SEN; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,690) scale(1,-1)">1. Collection</text>
+			<text x="18" y="332.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,664) scale(1,-1)">Used paper delivered from collection points</text>
+			<path d="M 175,325 L 175,311 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="175 311, 177.6098 316.4027, 172.3902 316.4027" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="7" y="277" width="336" height="33" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="18" y="296" style="font-family: SEN; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,592) scale(1,-1)">2. Sorting</text>
+			<text x="18" y="283.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,566) scale(1,-1)">Plastic and metal removed</text>
+			<path d="M 175,276 L 175,262 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="175 262, 177.6098 267.4027, 172.3902 267.4027" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="7" y="228" width="336" height="33" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="18" y="247" style="font-family: SEN; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,494) scale(1,-1)">3. Shredding</text>
+			<text x="18" y="234.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,468) scale(1,-1)">Paper cut into small pieces</text>
+			<path d="M 175,227 L 175,213 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="175 213, 177.6098 218.4027, 172.3902 218.4027" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="7" y="179" width="336" height="33" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="18" y="198" style="font-family: SEN; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,396) scale(1,-1)">4. Pulping</text>
+			<text x="18" y="185.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,370) scale(1,-1)">Water added; mixture stirred</text>
+			<path d="M 175,178 L 175,164 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="175 164, 177.6098 169.4027, 172.3902 169.4027" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="7" y="130" width="336" height="33" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="18" y="149" style="font-family: SEN; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,298) scale(1,-1)">5. Cleaning</text>
+			<text x="18" y="136.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,272) scale(1,-1)">Ink and remaining impurities removed</text>
+			<path d="M 175,129 L 175,115 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="175 115, 177.6098 120.4027, 172.3902 120.4027" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="7" y="81" width="336" height="33" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="18" y="100" style="font-family: SEN; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,200) scale(1,-1)">6. Pressing</text>
+			<text x="18" y="87.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,174) scale(1,-1)">Pulp pressed into sheets; excess water squeezed out</text>
+			<path d="M 175,80 L 175,66 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="175 66, 177.6098 71.40268, 172.3902 71.40268" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="7" y="32" width="336" height="33" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="18" y="51" style="font-family: SEN; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,102) scale(1,-1)">7. Drying and rolling</text>
+			<text x="18" y="38.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,76) scale(1,-1)">Sheets pass over heated rollers and are wound into rolls</text>
+		</g>
+	</g>
+<title>Recycling paper</title></svg>

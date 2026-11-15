@@ -1,0 +1,54 @@
+<svg role="img" aria-label="City library enquiries" width="350" height="265" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 265" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="265"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-265)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="1" y="252" style="font-family: SENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,504) scale(1,-1)">Average monthly enquiries at a city library</text>
+			<text x="1" y="223.0" style="font-family: SEN; font-size: 9.8px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,446) scale(1,-1)">enquiries per month</text>
+			<path d="M 42,53 L 337,53 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="29.605322265625" y="50.0" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,100) scale(1,-1)">0</text>
+			<path d="M 42,83.6 L 337,83.6 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="24.210644531249997" y="80.6" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,161) scale(1,-1)">30</text>
+			<path d="M 42,114.2 L 337,114.2 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="24.210644531249997" y="111.2" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,222) scale(1,-1)">60</text>
+			<path d="M 42,144.8 L 337,144.8 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="24.210644531249997" y="141.8" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,283) scale(1,-1)">90</text>
+			<path d="M 42,175.4 L 337,175.4 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="18.815966796875" y="172.4" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,344) scale(1,-1)">120</text>
+			<path d="M 42,206 L 337,206 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.55;"/>
+			<text x="18.815966796875" y="203.0" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,406) scale(1,-1)">150</text>
+			<text x="30.876953125" y="37" style="font-family: SEN; font-size: 10px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,74) scale(1,-1)">2020</text>
+			<text x="104.626953125" y="37" style="font-family: SEN; font-size: 10px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,74) scale(1,-1)">2021</text>
+			<text x="178.376953125" y="37" style="font-family: SEN; font-size: 10px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,74) scale(1,-1)">2022</text>
+			<text x="252.126953125" y="37" style="font-family: SEN; font-size: 10px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,74) scale(1,-1)">2023</text>
+			<text x="325.876953125" y="37" style="font-family: SEN; font-size: 10px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,74) scale(1,-1)">2024</text>
+			<polyline points="42 93.8, 115.75 109.1, 189.5 129.5, 263.25 155, 337 185.6" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<rect x="40.0" y="91.8" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="113.75" y="107.1" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="187.5" y="127.5" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="261.25" y="153.0" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="335.0" y="183.6" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<polyline points="42 144.8, 115.75 139.7, 189.5 129.5, 263.25 119.3, 337 109.1" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<rect x="40.0" y="142.8" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<rect x="113.75" y="137.7" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<rect x="187.5" y="127.5" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<rect x="261.25" y="117.3" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<rect x="335.0" y="107.1" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<polyline points="42 78.5, 115.75 83.6, 189.5 88.7, 263.25 93.8, 337 98.9" style="stroke: rgb(62%,72%,85%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<rect x="40.0" y="76.5" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<rect x="113.75" y="81.6" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<rect x="187.5" y="86.7" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<rect x="261.25" y="91.8" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<rect x="335.0" y="96.9" width="4.0" height="4.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<path d="M 8,28 L 25,28 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="30.0" y="25" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,50) scale(1,-1)">Email</text>
+			<path d="M 183,28 L 200,28 Z" style="stroke: rgb(90%,72%,55%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="205.0" y="25" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,50) scale(1,-1)">Telephone</text>
+			<path d="M 8,13 L 25,13 Z" style="stroke: rgb(62%,72%,85%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="30.0" y="10" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,20) scale(1,-1)">In person</text>
+		</g>
+	</g>
+<title>City library enquiries</title></svg>

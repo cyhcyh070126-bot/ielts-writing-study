@@ -1,0 +1,271 @@
+{
+  "id": "W1-020",
+  "task": 1,
+  "title": "室内地图｜图书馆从借阅转向学习",
+  "prompt": "The floor plans show a town library in 2004 and 2024. Write a report describing the main changes and comparing the two layouts where appropriate.",
+  "source_group": "practice",
+  "data": {
+    "coordinate_note": "Drawing coordinates are schematic, not real-world distances.",
+    "elements": [
+      {
+        "shape": "String",
+        "text": "2004",
+        "x": 3,
+        "y": 329
+      },
+      {
+        "shape": "Rect",
+        "x": 3,
+        "y": 173,
+        "width": 344,
+        "height": 149
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 262.4,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Reading room",
+        "x": 64.92,
+        "y": 284.73
+      },
+      {
+        "shape": "Rect",
+        "x": 123.39999999999999,
+        "y": 262.4,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Archive",
+        "x": 175.0,
+        "y": 284.73
+      },
+      {
+        "shape": "Rect",
+        "x": 233.48,
+        "y": 262.4,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Staff office",
+        "x": 285.08,
+        "y": 284.73
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 183.43,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Borrowing desk",
+        "x": 64.92,
+        "y": 205.76
+      },
+      {
+        "shape": "Rect",
+        "x": 123.39999999999999,
+        "y": 183.43,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Entrance hall",
+        "x": 175.0,
+        "y": 205.76
+      },
+      {
+        "shape": "Rect",
+        "x": 233.48,
+        "y": 183.43,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Bookshop",
+        "x": 285.08,
+        "y": 205.76
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 240.05,
+        "width": 323.36,
+        "height": 16.39
+      },
+      {
+        "shape": "String",
+        "text": "Main corridor",
+        "x": 175.0,
+        "y": 245.245
+      },
+      {
+        "shape": "String",
+        "text": "2024",
+        "x": 3,
+        "y": 158
+      },
+      {
+        "shape": "Rect",
+        "x": 3,
+        "y": 2,
+        "width": 344,
+        "height": 149
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 91.4,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Reading room",
+        "x": 64.92,
+        "y": 113.73
+      },
+      {
+        "shape": "Rect",
+        "x": 123.39999999999999,
+        "y": 91.4,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Computer lab",
+        "x": 175.0,
+        "y": 113.73
+      },
+      {
+        "shape": "Rect",
+        "x": 233.48,
+        "y": 91.4,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Group study rooms",
+        "x": 285.08,
+        "y": 113.73
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 12.430000000000007,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Self-service kiosks",
+        "x": 64.92,
+        "y": 34.760000000000005
+      },
+      {
+        "shape": "Rect",
+        "x": 123.39999999999999,
+        "y": 12.430000000000007,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Entrance hall",
+        "x": 175.0,
+        "y": 34.760000000000005
+      },
+      {
+        "shape": "Rect",
+        "x": 233.48,
+        "y": 12.430000000000007,
+        "width": 103.2,
+        "height": 50.66
+      },
+      {
+        "shape": "String",
+        "text": "Cafe",
+        "x": 285.08,
+        "y": 34.760000000000005
+      },
+      {
+        "shape": "Rect",
+        "x": 13.32,
+        "y": 69.05,
+        "width": 323.36,
+        "height": 16.39
+      },
+      {
+        "shape": "String",
+        "text": "Main corridor",
+        "x": 175.0,
+        "y": 74.245
+      },
+      {
+        "shape": "String",
+        "text": "N",
+        "x": 329,
+        "y": 157
+      },
+      {
+        "shape": "Line",
+        "x1": 343,
+        "x2": 343,
+        "y1": 154,
+        "y2": 166
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          343,
+          167,
+          340,
+          162,
+          346,
+          162
+        ]
+      },
+      {
+        "shape": "String",
+        "text": "N",
+        "x": 329,
+        "y": 328
+      },
+      {
+        "shape": "Line",
+        "x1": 343,
+        "x2": 343,
+        "y1": 325,
+        "y2": 337
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          343,
+          338,
+          340,
+          333,
+          346,
+          333
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-020.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-020.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-020.html"
+}

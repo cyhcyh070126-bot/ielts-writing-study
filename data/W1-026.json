@@ -1,0 +1,42 @@
+{
+  "id": "W1-026",
+  "task": 1,
+  "title": "三种营养素在餐次间的分布",
+  "prompt": "Compare how sodium, saturated fat and added-sugar intake in the USA is distributed across breakfast, lunch, dinner and snacks. Summarise the principal patterns and relevant contrasts.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 14 Academic · Test 1 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-14-test-1-writing-task-1",
+  "data": {
+    "meal_order": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Snacks"
+    ],
+    "nutrient_shares": {
+      "Sodium": [
+        14,
+        29,
+        43,
+        14
+      ],
+      "Saturated fat": [
+        16,
+        26,
+        37,
+        21
+      ],
+      "Added sugar": [
+        16,
+        19,
+        23,
+        42
+      ]
+    },
+    "unit": "% of each nutrient intake",
+    "date": "not specified"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-026.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-026.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-026.html"
+}

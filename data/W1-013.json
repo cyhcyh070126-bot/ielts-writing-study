@@ -1,0 +1,171 @@
+{
+  "id": "W1-013",
+  "task": 1,
+  "title": "沃尔顿博物馆南翼改造｜2008 与 2012 年地图",
+  "prompt": "You should spend about 20 minutes on this task. The diagrams compare the south wing of Walton Museum in 2008 and its layout after redevelopment in 2012. Summarise the principal changes and make relevant comparisons. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "years": [
+      2008,
+      2012
+    ],
+    "panels": [
+      {
+        "rooms": [
+          {
+            "label": "Special exhibition",
+            "x": 0,
+            "y": 50,
+            "w": 33,
+            "h": 50
+          },
+          {
+            "label": "Reception",
+            "x": 33,
+            "y": 0,
+            "w": 34,
+            "h": 50
+          },
+          {
+            "label": "Shop",
+            "x": 33,
+            "y": 50,
+            "w": 32,
+            "h": 50
+          },
+          {
+            "label": "Stairs",
+            "x": 65,
+            "y": 50,
+            "w": 4,
+            "h": 50
+          },
+          {
+            "label": "Reading room",
+            "x": 67,
+            "y": 0,
+            "w": 33,
+            "h": 50
+          },
+          {
+            "label": "Cloaks room",
+            "x": 69,
+            "y": 50,
+            "w": 31,
+            "h": 50
+          }
+        ],
+        "entrances": [
+          {
+            "label": "Entrance",
+            "x1": 1,
+            "y1": 40,
+            "x2": 24,
+            "y2": 40
+          }
+        ],
+        "roof": []
+      },
+      {
+        "rooms": [
+          {
+            "label": "Special exhibition",
+            "x": 0,
+            "y": 80,
+            "w": 31,
+            "h": 20
+          },
+          {
+            "label": "Entrance hall",
+            "x": 0,
+            "y": 60,
+            "w": 31,
+            "h": 20
+          },
+          {
+            "label": "Terrace",
+            "x": 0,
+            "y": 48,
+            "w": 31,
+            "h": 12,
+            "openTop": true
+          },
+          {
+            "label": "Shop",
+            "x": 31,
+            "y": 80,
+            "w": 32,
+            "h": 20
+          },
+          {
+            "label": "Reception / Cloaks",
+            "x": 31,
+            "y": 60,
+            "w": 32,
+            "h": 20
+          },
+          {
+            "label": "Restaurant",
+            "x": 31,
+            "y": 40,
+            "w": 32,
+            "h": 20
+          },
+          {
+            "label": "Lift",
+            "x": 63,
+            "y": 22,
+            "w": 6,
+            "h": 78
+          },
+          {
+            "label": "Children's play area",
+            "x": 69,
+            "y": 76,
+            "w": 31,
+            "h": 24
+          },
+          {
+            "label": "Reading room",
+            "x": 69,
+            "y": 58,
+            "w": 31,
+            "h": 18
+          },
+          {
+            "label": "Self-service room",
+            "x": 69,
+            "y": 40,
+            "w": 31,
+            "h": 18
+          },
+          {
+            "label": "Exhibition room",
+            "x": 69,
+            "y": 22,
+            "w": 31,
+            "h": 18
+          }
+        ],
+        "entrances": [],
+        "roof": [
+          [
+            63,
+            22
+          ],
+          [
+            82,
+            0
+          ],
+          [
+            100,
+            22
+          ]
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-013.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-013.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-013.html"
+}

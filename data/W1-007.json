@@ -1,0 +1,45 @@
+{
+  "id": "W1-007",
+  "task": 1,
+  "title": "Recycling paper",
+  "prompt": "The diagram illustrates the stages involved in recycling used paper to produce new paper rolls. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "process",
+    "title": "From used paper to new paper rolls",
+    "stages": [
+      {
+        "label": "1 Collection",
+        "detail": "Used paper delivered from collection points"
+      },
+      {
+        "label": "2 Sorting",
+        "detail": "Plastic and metal removed"
+      },
+      {
+        "label": "3 Shredding",
+        "detail": "Paper cut into small pieces"
+      },
+      {
+        "label": "4 Pulping",
+        "detail": "Water added; mixture stirred"
+      },
+      {
+        "label": "5 Cleaning",
+        "detail": "Ink and remaining impurities removed"
+      },
+      {
+        "label": "6 Pressing",
+        "detail": "Pulp pressed into sheets; excess water squeezed out"
+      },
+      {
+        "label": "7 Drying and rolling",
+        "detail": "Sheets pass over heated rollers and are wound into rolls"
+      }
+    ],
+    "notes_cn": "七个主框按箭头连接；加水是第4步的输入，不额外数成一个主阶段；加热仅在末步，不标虚构温度。"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-007.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-007.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-007.html"
+}

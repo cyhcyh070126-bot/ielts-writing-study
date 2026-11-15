@@ -1,0 +1,288 @@
+{
+  "id": "W1-021",
+  "task": 1,
+  "title": "分支流程｜河水过滤与固体废物",
+  "prompt": "The diagram shows how water from a river is treated before it reaches public taps. Describe the principal stages and show where solid waste leaves the process.",
+  "source_group": "practice",
+  "data": {
+    "coordinate_note": "Drawing coordinates are schematic, not real-world distances.",
+    "elements": [
+      {
+        "shape": "String",
+        "text": "Main water route",
+        "x": 18,
+        "y": 306
+      },
+      {
+        "shape": "String",
+        "text": "Solid waste routes",
+        "x": 217,
+        "y": 306
+      },
+      {
+        "shape": "Rect",
+        "x": 18,
+        "y": 269,
+        "width": 166,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "River water",
+        "x": 101.0,
+        "y": 278
+      },
+      {
+        "shape": "Rect",
+        "x": 18,
+        "y": 227,
+        "width": 166,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "Coarse screen",
+        "x": 101.0,
+        "y": 236
+      },
+      {
+        "shape": "Line",
+        "x1": 101.0,
+        "x2": 101.0,
+        "y1": 269,
+        "y2": 252
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          101.0,
+          252,
+          98.0,
+          257,
+          104.0,
+          257
+        ]
+      },
+      {
+        "shape": "Rect",
+        "x": 18,
+        "y": 185,
+        "width": 166,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "Settling tank",
+        "x": 101.0,
+        "y": 194
+      },
+      {
+        "shape": "Line",
+        "x1": 101.0,
+        "x2": 101.0,
+        "y1": 227,
+        "y2": 210
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          101.0,
+          210,
+          98.0,
+          215,
+          104.0,
+          215
+        ]
+      },
+      {
+        "shape": "Rect",
+        "x": 18,
+        "y": 143,
+        "width": 166,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "Sand filter",
+        "x": 101.0,
+        "y": 152
+      },
+      {
+        "shape": "Line",
+        "x1": 101.0,
+        "x2": 101.0,
+        "y1": 185,
+        "y2": 168
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          101.0,
+          168,
+          98.0,
+          173,
+          104.0,
+          173
+        ]
+      },
+      {
+        "shape": "Rect",
+        "x": 18,
+        "y": 101,
+        "width": 166,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "UV chamber",
+        "x": 101.0,
+        "y": 110
+      },
+      {
+        "shape": "Line",
+        "x1": 101.0,
+        "x2": 101.0,
+        "y1": 143,
+        "y2": 126
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          101.0,
+          126,
+          98.0,
+          131,
+          104.0,
+          131
+        ]
+      },
+      {
+        "shape": "Rect",
+        "x": 18,
+        "y": 59,
+        "width": 166,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "Storage tank",
+        "x": 101.0,
+        "y": 68
+      },
+      {
+        "shape": "Line",
+        "x1": 101.0,
+        "x2": 101.0,
+        "y1": 101,
+        "y2": 84
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          101.0,
+          84,
+          98.0,
+          89,
+          104.0,
+          89
+        ]
+      },
+      {
+        "shape": "Rect",
+        "x": 18,
+        "y": 17,
+        "width": 166,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "Public taps",
+        "x": 101.0,
+        "y": 26
+      },
+      {
+        "shape": "Line",
+        "x1": 101.0,
+        "x2": 101.0,
+        "y1": 59,
+        "y2": 42
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          101.0,
+          42,
+          98.0,
+          47,
+          104.0,
+          47
+        ]
+      },
+      {
+        "shape": "Rect",
+        "x": 217,
+        "y": 227,
+        "width": 124,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "Screenings to disposal",
+        "x": 279.0,
+        "y": 236
+      },
+      {
+        "shape": "Line",
+        "x1": 184,
+        "x2": 217,
+        "y1": 239.5,
+        "y2": 239.5
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          217,
+          239.5,
+          212,
+          236.5,
+          212,
+          242.5
+        ]
+      },
+      {
+        "shape": "Rect",
+        "x": 217,
+        "y": 185,
+        "width": 124,
+        "height": 25
+      },
+      {
+        "shape": "String",
+        "text": "Sediment to drying bed",
+        "x": 279.0,
+        "y": 194
+      },
+      {
+        "shape": "Line",
+        "x1": 184,
+        "x2": 217,
+        "y1": 197.5,
+        "y2": 197.5
+      },
+      {
+        "shape": "Polygon",
+        "points": [
+          217,
+          197.5,
+          212,
+          194.5,
+          212,
+          200.5
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-021.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-021.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-021.html"
+}

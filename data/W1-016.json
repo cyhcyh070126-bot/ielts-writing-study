@@ -1,0 +1,50 @@
+{
+  "id": "W1-016",
+  "task": 1,
+  "title": "欧盟服装进口均价｜1997 与 2003 年分组柱图",
+  "prompt": "You should spend about 20 minutes on this task. The chart compares the average price per kilogram of clothing imported into the European Union from six countries in 1997 and 2003. Summarise the key features and make relevant comparisons. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "panels": [
+      {
+        "title": "Average clothing import prices",
+        "unit": "£ per kg",
+        "labels": [
+          "Argentina",
+          "Brazil",
+          "Japan",
+          "China",
+          "India",
+          "Bangladesh"
+        ],
+        "series": [
+          {
+            "label": "1997",
+            "values": [
+              28,
+              23,
+              15,
+              10,
+              7,
+              3
+            ]
+          },
+          {
+            "label": "2003",
+            "values": [
+              26,
+              23,
+              13,
+              17,
+              12,
+              6
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-016.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-016.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-016.html"
+}

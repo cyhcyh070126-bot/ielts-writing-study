@@ -1,0 +1,60 @@
+{
+  "id": "W1-006",
+  "task": 1,
+  "title": "Tourist arrivals and length of stay",
+  "prompt": "The bar chart shows the number of tourists arriving in Seabourne in four selected years, while the line graph shows their average length of stay. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "mixed",
+    "title": "Tourism in Seabourne, 2019–2025",
+    "panels": [
+      {
+        "type": "bar",
+        "title": "Tourist arrivals",
+        "years": [
+          2019,
+          2021,
+          2023,
+          2025
+        ],
+        "unit": "million tourists",
+        "series": [
+          {
+            "name": "Arrivals",
+            "values": [
+              1.2,
+              0.8,
+              1.6,
+              2.0
+            ]
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "title": "Average stay",
+        "years": [
+          2019,
+          2021,
+          2023,
+          2025
+        ],
+        "unit": "nights per tourist",
+        "series": [
+          {
+            "name": "Average stay",
+            "values": [
+              5,
+              6,
+              4,
+              3
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-006.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-006.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-006.html"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "W1-014",
+  "task": 1,
+  "title": "四国临时外籍劳工｜总人数与每千人比率表",
+  "prompt": "You should spend about 20 minutes on this task. The table compares the totals for temporary migrant workers in four countries in 2003 and 2006. It also gives the number per thousand residents in each country in 2006. Summarise the main features and make relevant comparisons. Write at least 150 words.",
+  "source_group": "practice",
+  "data": {
+    "columns": [
+      "Country",
+      "2003",
+      "2006",
+      "Per 1,000 in 2006"
+    ],
+    "rows": [
+      [
+        "Australia",
+        152000,
+        219000,
+        10.7
+      ],
+      [
+        "New Zealand",
+        65000,
+        87000,
+        21.1
+      ],
+      [
+        "United Kingdom",
+        137000,
+        266000,
+        4.4
+      ],
+      [
+        "United States",
+        577000,
+        678000,
+        2.3
+      ]
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-014.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-014.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-014.html"
+}

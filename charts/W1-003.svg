@@ -1,0 +1,52 @@
+<svg role="img" aria-label="Commuting methods" width="350" height="280" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 280" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="280"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-280)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="267" style="font-family: SENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,534) scale(1,-1)">Main commuting method in Brookfield</text>
+			<text x="0" y="239.0" style="font-family: SEN; font-size: 9.8px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,478) scale(1,-1)">% of commuters; 2030 projected</text>
+			<path d="M 39,78 L 340,78 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="27.716552734375" y="75.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,150) scale(1,-1)">0</text>
+			<path d="M 39,107 L 340,107 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="104.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,208) scale(1,-1)">12</text>
+			<path d="M 39,136 L 340,136 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="133.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,266) scale(1,-1)">24</text>
+			<path d="M 39,165 L 340,165 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="162.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,324) scale(1,-1)">36</text>
+			<path d="M 39,194 L 340,194 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="191.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,382) scale(1,-1)">48</text>
+			<path d="M 39,223 L 340,223 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.5;"/>
+			<text x="22.43310546875" y="220.0" style="font-family: SEN; font-size: 9.5px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,440) scale(1,-1)">60</text>
+			<rect x="52.81924444444444" y="78" width="21.85928888888889" height="145.0" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="58.57667209201389" y="228.0" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,456) scale(1,-1)">60</text>
+			<rect x="78.23702222222221" y="78" width="21.859288888888884" height="60.41666666666666" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="83.99444986979165" y="143.41666666666666" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,286) scale(1,-1)">25</text>
+			<rect x="103.65479999999998" y="78" width="21.859288888888884" height="36.25" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<text x="109.41222764756942" y="119.25" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,238) scale(1,-1)">15</text>
+			<text x="78.37731119791665" y="62.0" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,124) scale(1,-1)">2010</text>
+			<rect x="153.15257777777776" y="78" width="21.859288888888898" height="120.83333333333331" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="158.9100054253472" y="203.83333333333331" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,407) scale(1,-1)">50</text>
+			<rect x="178.57035555555555" y="78" width="21.859288888888898" height="72.5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="184.327783203125" y="155.5" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,311) scale(1,-1)">30</text>
+			<rect x="203.98813333333334" y="78" width="21.859288888888898" height="48.33333333333334" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<text x="209.74556098090278" y="131.33333333333334" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,262) scale(1,-1)">20</text>
+			<text x="178.71064453125" y="62.0" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,124) scale(1,-1)">2020</text>
+			<rect x="253.4859111111111" y="78" width="21.85928888888887" height="96.66666666666669" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="259.2433387586806" y="179.66666666666669" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,359) scale(1,-1)">40</text>
+			<rect x="278.9036888888889" y="78" width="21.859288888888898" height="84.58333333333331" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="284.66111653645834" y="167.58333333333331" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,335) scale(1,-1)">35</text>
+			<rect x="304.32146666666665" y="78" width="21.859288888888898" height="60.41666666666666" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<text x="310.0788943142361" y="143.41666666666666" style="font-family: SEN; font-size: 9.3px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,286) scale(1,-1)">25</text>
+			<text x="279.0439778645833" y="62.0" style="font-family: SEN; font-size: 9.7px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,124) scale(1,-1)">2030</text>
+			<rect x="7.0" y="22" width="12.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="25.0" y="23" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,46) scale(1,-1)">Car</text>
+			<rect x="182.0" y="22" width="12.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,72%,55%); fill-rule: evenodd;"/>
+			<text x="200.0" y="23" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,46) scale(1,-1)">Bus</text>
+			<rect x="7.0" y="7" width="12.0" height="9" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(62%,72%,85%); fill-rule: evenodd;"/>
+			<text x="25.0" y="8" style="font-family: SEN; font-size: 10px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,16) scale(1,-1)">Bicycle</text>
+		</g>
+	</g>
+<title>Commuting methods</title></svg>

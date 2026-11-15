@@ -1,0 +1,33 @@
+{
+  "id": "W1-031",
+  "task": 1,
+  "title": "塑料瓶收集与再生制品",
+  "prompt": "Describe how used plastic bottles are collected, processed and turned into new products. Present the main phases and their sequence, including the return route shown for bottles.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 16 Academic · Test 4 · Writing Task 1",
+  "source_url": "https://ieltswritingpractice.app/official-ielts-writing-samples/cambridge-16-academic/",
+  "data": {
+    "stages": [
+      "deposit in recycling bins",
+      "collect and transport",
+      "sort",
+      "compress into blocks",
+      "crush then wash",
+      "produce pellets",
+      "heat pellets",
+      "raw material",
+      "make end products"
+    ],
+    "products": [
+      "bottles",
+      "containers",
+      "clothing",
+      "bags",
+      "pencils"
+    ],
+    "return_arrow": "bottle products back to recycling collection"
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-031.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-031.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-031.html"
+}

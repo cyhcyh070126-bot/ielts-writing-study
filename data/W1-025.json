@@ -1,0 +1,38 @@
+{
+  "id": "W1-025",
+  "task": 1,
+  "title": "澳大利亚男女日常运动",
+  "prompt": "Compare regular exercise participation among Australian males and females across six age groups in 2010. Report the major contrasts and support them with selected figures.",
+  "source_group": "cambridge",
+  "book_ref": "剑雅 12 Academic · Test 1 · Writing Task 1",
+  "source_url": "https://ieltswrites.com/questions/cambridge-12-test-1-writing-task-1",
+  "data": {
+    "age_groups": [
+      "15-24",
+      "25-34",
+      "35-44",
+      "45-54",
+      "55-64",
+      "65+"
+    ],
+    "Men": [
+      52.8,
+      42.2,
+      39.5,
+      43.1,
+      45.1,
+      46.7
+    ],
+    "Women": [
+      47.7,
+      48.9,
+      52.5,
+      53.3,
+      53,
+      47.1
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-025.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-025.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-025.html"
+}

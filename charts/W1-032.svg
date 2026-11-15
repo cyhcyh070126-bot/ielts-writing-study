@@ -1,0 +1,66 @@
+<svg role="img" aria-label="乙醇生产与碳循环" width="500" height="900" preserveAspectRatio="xMinYMin meet" viewBox="0 0 500 900" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="500" height="900"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-900)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="500" height="900" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,10%,12%); fill-rule: evenodd;"/>
+			<text x="14" y="876" style="font-family: Helvetica; font-size: 17px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1752) scale(1,-1)">Ethanol: production and carbon return</text>
+			<text x="14" y="855" style="font-family: Helvetica; font-size: 11px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,1710) scale(1,-1)">Independent study redraw; see book/test reference</text>
+			<text x="18" y="835" style="font-family: Helvetica; font-size: 13px;fill: rgb(90%,72%,55%); stroke:none;" transform="translate(0,1670) scale(1,-1)">Sunlight + carbon dioxide support growth</text>
+			<rect x="30" y="755" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="158.13850000000002" y="779.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1559) scale(1,-1)">Plants and trees grow</text>
+			<path d="M 221,753 L 221,726 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 726, 224.356 732.1431, 217.644 732.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="30" y="676" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="189.9365" y="700.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1401) scale(1,-1)">Harvesting</text>
+			<path d="M 221,674 L 221,647 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 647, 224.356 653.1431, 217.644 653.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="30" y="597" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="177.29399999999998" y="621.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1243) scale(1,-1)">Pre-processing</text>
+			<path d="M 221,595 L 221,568 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 568, 224.356 574.1431, 217.644 574.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="30" y="518" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="194.272" y="542.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,1085) scale(1,-1)">Cellulose</text>
+			<path d="M 221,516 L 221,489 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 489, 224.356 495.1431, 217.644 495.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="30" y="439" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="188.851" y="463.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,927) scale(1,-1)">Processing</text>
+			<path d="M 221,437 L 221,410 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 410, 224.356 416.1431, 217.644 416.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="30" y="360" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="200.408" y="384.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,769) scale(1,-1)">Sugars</text>
+			<path d="M 221,358 L 221,331 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 331, 224.356 337.1431, 217.644 337.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="30" y="281" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="181.2655" y="305.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,611) scale(1,-1)">Add microbes</text>
+			<path d="M 221,279 L 221,252 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 252, 224.356 258.1431, 217.644 258.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="30" y="202" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="198.95850000000002" y="226.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,453) scale(1,-1)">Ethanol</text>
+			<path d="M 221,200 L 221,173 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 173, 224.356 179.1431, 217.644 179.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<rect x="30" y="123" width="382" height="49" rx="4" ry="4" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="129.2525" y="147.5" style="font-family: Helvetica; font-size: 13px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,295) scale(1,-1)">Used in cars, lorries and aircraft</text>
+			<path d="M 464,779 L 464,817 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="464 817, 460.644 810.8569, 467.356 810.8569" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<path d="M 464,817 L 221,817 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 817, 227.1431 813.644, 227.1431 820.356" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<path d="M 221,817 L 221,806 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="221 806, 224.356 812.1431, 217.644 812.1431" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<path d="M 413,621 L 464,621 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="464 621, 457.8569 624.356, 457.8569 617.644" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<path d="M 464,621 L 464,779 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="464 779, 460.644 772.8569, 467.356 772.8569" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<path d="M 413,146 L 464,146 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="464 146, 457.8569 149.356, 457.8569 142.644" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<path d="M 464,146 L 464,621 Z" style="stroke: rgb(65%,78%,73%); stroke-linecap: butt; stroke-width: 2;"/>
+			<polygon points="464 621, 460.644 614.8569, 467.356 614.8569" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(65%,78%,73%); fill-rule: evenodd;"/>
+			<text x="466" y="670" style="font-family: Helvetica; font-size: 12px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,1340) scale(1,-1)">CO2</text>
+			<text x="466" y="350" style="font-family: Helvetica; font-size: 12px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,700) scale(1,-1)">CO2</text>
+			<text x="432" y="30" style="font-family: Helvetica; font-size: 11px;fill: rgb(66%,72%,76%); stroke:none;" transform="translate(0,60) scale(1,-1)">return</text>
+		</g>
+	</g>
+<title>乙醇生产与碳循环</title></svg>

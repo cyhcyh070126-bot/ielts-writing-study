@@ -1,0 +1,46 @@
+{
+  "id": "W1-002",
+  "task": 1,
+  "title": "Leisure venues by age group",
+  "prompt": "The bar chart shows the percentages of residents in three age groups who visited different leisure venues in Riverton during one month in 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+  "source_group": "practice",
+  "data": {
+    "type": "bar",
+    "title": "Residents visiting leisure venues in one month, 2025",
+    "categories": [
+      "18–29",
+      "30–49",
+      "50+"
+    ],
+    "unit": "% of residents in each age group",
+    "series": [
+      {
+        "name": "Cinema",
+        "values": [
+          70,
+          55,
+          30
+        ]
+      },
+      {
+        "name": "Museum",
+        "values": [
+          25,
+          40,
+          60
+        ]
+      },
+      {
+        "name": "Sports centre",
+        "values": [
+          65,
+          50,
+          35
+        ]
+      }
+    ]
+  },
+  "question_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/questions/W1-002.html",
+  "image_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/charts/W1-002.png",
+  "guidance_url": "https://cyhcyh070126-bot.github.io/ielts-writing-study/guidance/W1-002.html"
+}

@@ -1,0 +1,36 @@
+<svg role="img" aria-label="Three public libraries" width="350" height="251" preserveAspectRatio="xMinYMin meet" viewBox="0 0 350 251" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="350" height="251"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-251)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="0" y="238" style="font-family: SENB; font-size: 11px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,476) scale(1,-1)">Public libraries in 2025</text>
+			<text x="0" y="216" style="font-family: SEN; font-size: 10px;fill: rgb(67%,73%,77%); stroke:none;" transform="translate(0,432) scale(1,-1)">members; book loans per year; square metres</text>
+			<rect x="0" y="136" width="350" height="61" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(14%,18%,22%); fill-rule: evenodd;"/>
+			<text x="7" y="181.0" style="font-family: SENB; font-size: 10.8px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,362) scale(1,-1)">Library</text>
+			<text x="147.0" y="181.0" style="font-family: SENB; font-size: 10.8px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,362) scale(1,-1)">Members</text>
+			<text x="217.0" y="181.0" style="font-family: SENB; font-size: 10.8px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,362) scale(1,-1)">Annual</text>
+			<text x="217.0" y="168.2" style="font-family: SENB; font-size: 10.8px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,336) scale(1,-1)">book loans</text>
+			<text x="287.0" y="181.0" style="font-family: SENB; font-size: 10.8px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,362) scale(1,-1)">Floor area</text>
+			<text x="287.0" y="168.2" style="font-family: SENB; font-size: 10.8px;fill: rgb(65%,78%,73%); stroke:none;" transform="translate(0,336) scale(1,-1)">(m²)</text>
+			<path d="M 0,136 L 350,136 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="7" y="120.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,240) scale(1,-1)">North</text>
+			<text x="147.0" y="120.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,240) scale(1,-1)">12,000</text>
+			<text x="217.0" y="120.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,240) scale(1,-1)">180,000</text>
+			<text x="287.0" y="120.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,240) scale(1,-1)">1,800</text>
+			<path d="M 0,93 L 350,93 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="7" y="77.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,154) scale(1,-1)">East</text>
+			<text x="147.0" y="77.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,154) scale(1,-1)">9,000</text>
+			<text x="217.0" y="77.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,154) scale(1,-1)">135,000</text>
+			<text x="287.0" y="77.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,154) scale(1,-1)">1,200</text>
+			<path d="M 0,50 L 350,50 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+			<text x="7" y="34.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,68) scale(1,-1)">West</text>
+			<text x="147.0" y="34.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,68) scale(1,-1)">15,000</text>
+			<text x="217.0" y="34.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,68) scale(1,-1)">210,000</text>
+			<text x="287.0" y="34.0" style="font-family: SEN; font-size: 10.8px;fill: rgb(87%,87%,83%); stroke:none;" transform="translate(0,68) scale(1,-1)">2,200</text>
+			<path d="M 0,7 L 350,7 Z" style="stroke: rgb(22%,27%,30%); stroke-linecap: butt; stroke-width: 0.6;"/>
+		</g>
+	</g>
+<title>Three public libraries</title></svg>
